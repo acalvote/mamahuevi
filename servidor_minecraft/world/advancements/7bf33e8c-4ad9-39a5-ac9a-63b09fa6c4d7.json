@@ -336,6 +336,7 @@
       "minecraft:forest": "2025-02-21 16:16:53 +0000",
       "minecraft:windswept_savanna": "2025-02-23 18:34:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 16:43:11 +0000",
+      "minecraft:deep_dark": "2025-02-24 14:33:14 +0000",
       "minecraft:savanna": "2025-02-22 22:00:06 +0000",
       "minecraft:plains": "2025-02-22 16:38:21 +0000"
     },
@@ -4119,6 +4120,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-02-24 14:34:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-02-24 13:55:27 +0000"
@@ -4185,15 +4192,33 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-02-24 14:39:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-02-24 13:55:27 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-02-24 14:34:27 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/building_blocks/cave_carrot_crate": {
     "criteria": {
       "has_cave_carrot": "2025-02-24 14:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-02-24 14:36:55 +0000"
     },
     "done": true
   },
