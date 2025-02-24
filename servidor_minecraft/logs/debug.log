@@ -15785,3 +15785,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Feb2025 23:09:36.013] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [24Feb2025 23:09:42.086] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [24Feb2025 23:09:52.009] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 23:12:33.157] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[24Feb2025 23:12:33.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[24Feb2025 23:14:19.213] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 23:17:33.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[24Feb2025 23:17:33.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[24Feb2025 23:17:56.312] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 23:17:56.662] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 23:18:09.243] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 23:18:47.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dwaliin lost connection: Disconnected
+[24Feb2025 23:18:47.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin left the game

@@ -5597,6 +5597,12 @@
     },
     "done": true
   },
+  "veggiesdelight:main/sweet_potato_master": {
+    "criteria": {
+      "A": "2025-02-24 23:18:25 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2025-02-24 22:54:42 +0000"
