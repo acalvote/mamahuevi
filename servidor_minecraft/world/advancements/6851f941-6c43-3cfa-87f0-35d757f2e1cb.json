@@ -5607,6 +5607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
   "farmersplus:recipes/cooking/salisbury_steak": {
     "criteria": {
       "has_any_ingredient": "2025-02-24 21:37:24 +0000"
@@ -5631,6 +5637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
   "moredelight:recipes/cooking/diced_potatoes_with_chicken_cuts": {
     "criteria": {
       "has_any_ingredient": "2025-02-24 21:37:46 +0000"
@@ -5640,6 +5652,30 @@
   "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
       "beef_patty": "2025-02-24 21:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-24 22:14:37 +0000"
     },
     "done": true
   },
@@ -5697,9 +5733,21 @@
     },
     "done": true
   },
+  "moredelight:recipes/food/steak_sandwich": {
+    "criteria": {
+      "has_cooked_beef": "2025-02-24 22:12:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
       "has_item": "2025-02-24 21:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
     },
     "done": true
   },
@@ -5730,6 +5778,12 @@
   "largemeals:recipes/cooking/red_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
     },
     "done": true
   },
@@ -5775,9 +5829,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
   "farmersplus:recipes/cooking/lard_bucket": {
     "criteria": {
       "has_porkchop": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
     },
     "done": true
   },
@@ -5853,9 +5919,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
   "veggiesdelight:main/fruit_veggie": {
     "criteria": {
       "fruit": "2025-02-24 21:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
     },
     "done": true
   },
@@ -5874,6 +5958,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2025-02-24 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
     },
     "done": true
   },
@@ -5909,9 +5999,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2025-02-24 21:27:59 +0000"
+      "0": "2025-02-24 21:27:59 +0000",
+      "1": "2025-02-24 22:15:19 +0000"
     },
-    "done": false
+    "done": true
   },
   "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
     "criteria": {
@@ -5922,6 +6013,12 @@
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-02-24 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
     },
     "done": true
   },
@@ -5949,9 +6046,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
   "largemeals:recipes/cooking/hearty_lunch": {
     "criteria": {
       "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
     },
     "done": true
   },
@@ -5973,9 +6094,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/curiosities/brown_toolbox": {
     "criteria": {
       "has_item": "2025-02-24 21:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
     },
     "done": true
   },
@@ -6018,6 +6151,12 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-24 22:14:37 +0000"
     },
     "done": true
   },
