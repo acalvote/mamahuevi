@@ -325,11 +325,13 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-02-22 23:21:48 +0000",
       "minecraft:taiga": "2025-02-22 23:21:57 +0000",
+      "minecraft:cherry_grove": "2025-02-24 14:18:17 +0000",
       "minecraft:birch_forest": "2025-02-21 16:07:29 +0000",
       "minecraft:windswept_hills": "2025-02-22 22:50:56 +0000",
       "minecraft:sparse_jungle": "2025-02-22 14:34:23 +0000",
       "minecraft:river": "2025-02-21 16:06:09 +0000",
       "minecraft:stony_shore": "2025-02-23 18:53:36 +0000",
+      "minecraft:dripstone_caves": "2025-02-24 14:27:09 +0000",
       "minecraft:swamp": "2025-02-22 16:39:44 +0000",
       "minecraft:forest": "2025-02-21 16:16:53 +0000",
       "minecraft:windswept_savanna": "2025-02-23 18:34:48 +0000",
@@ -4105,15 +4107,51 @@
     },
     "done": true
   },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 14:10:33 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_hamburger": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-24 14:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-02-24 13:55:27 +0000"
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_cave_carrot_campfire": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-24 14:10:33 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/scholar_necklace": {
     "criteria": {
       "has_ender_pearl": "2025-02-24 14:04:01 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-24 14:10:33 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/cave_carrots_from_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-24 14:10:33 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_wrap": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-24 14:10:33 +0000"
     },
     "done": true
   },
@@ -4129,9 +4167,63 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-02-24 14:10:33 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot_smoking": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-24 14:10:33 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/pasta_with_veggieballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 14:10:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-02-24 13:55:27 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/building_blocks/cave_carrot_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-24 14:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-02-24 14:21:11 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/improvised_barbecue_stick": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-24 14:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-02-24 14:21:11 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_steak_and_potatoes": {
+    "criteria": {
+      "has_cave_carrot": "2025-02-24 14:10:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-02-24 14:21:11 +0000"
     },
     "done": true
   },
