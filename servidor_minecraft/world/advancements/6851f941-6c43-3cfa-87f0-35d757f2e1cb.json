@@ -5586,5 +5586,53 @@
     },
     "done": true
   },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-02-24 21:10:37 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/glass_dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_single_door_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer_with_books": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer_with_door": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
