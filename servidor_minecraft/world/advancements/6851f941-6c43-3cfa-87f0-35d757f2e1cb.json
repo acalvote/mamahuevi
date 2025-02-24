@@ -5677,6 +5677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-24 21:51:42 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/dark_oak_single_door_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
@@ -5698,6 +5704,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
     },
     "done": true
   },
@@ -5767,6 +5779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-24 21:51:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-02-24 21:37:26 +0000"
@@ -5776,6 +5794,12 @@
   "farmersdelight:recipes/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-02-24 21:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
     },
     "done": true
   },
@@ -5830,6 +5854,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2025-02-24 21:33:40 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
     },
     "done": true
   },
@@ -5923,6 +5953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-24 21:51:42 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/dark_oak_drawer": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
@@ -5944,6 +5980,24 @@
   "storagedelight:recipes/decorations/dark_oak_drawer_with_door": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-24 21:51:42 +0000"
     },
     "done": true
   },

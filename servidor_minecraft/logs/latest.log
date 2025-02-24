@@ -3326,3 +3326,109 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Feb2025 21:49:23.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [24Feb2025 21:49:34.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce didn't manage to keep wet because they were fighting Summoned Zombie
 [24Feb2025 21:49:34.432] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(108, 69, 34) minecraft:overworld
+[24Feb2025 21:49:45.724] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[24Feb2025 21:49:50.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce didn't manage to keep wet
+[24Feb2025 21:50:03.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
+[24Feb2025 21:50:28.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Feb2025 21:51:02.118] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Feb2025 21:51:24.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Feb2025 21:51:41.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2482ms or 49 ticks behind
+[24Feb2025 21:52:05.919] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Feb2025 21:52:12.899] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 21:52:12.899] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[24Feb2025 21:52:12.900] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[24Feb2025 21:52:12.900] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 21:52:12.900] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 21:52:12.900] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[24Feb2025 21:52:12.900] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 21:52:12.901] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 21:52:12.901] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 21:52:12.901] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 21:52:12.901] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[24Feb2025 21:52:12.901] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 21:52:12.902] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 21:52:24.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune was slain by Ferrous Wroughtnaut
+[24Feb2025 21:52:24.149] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(301, 40, 272) minecraft:overworld
+[24Feb2025 21:52:35.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 301.500000, 40.500000, 273.500000]
+[24Feb2025 21:52:35.236] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[24Feb2025 21:52:36.177] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 21:52:36.177] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 emerald_stoneplate_ring
+[24Feb2025 21:52:36.177] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[24Feb2025 21:52:36.177] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 21:52:36.178] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 21:52:36.178] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[24Feb2025 21:52:36.178] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 21:52:36.178] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 21:52:36.178] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 21:52:36.179] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 21:52:36.179] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[24Feb2025 21:52:36.179] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 21:52:36.179] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 21:52:36.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce didn't manage to keep wet
+[24Feb2025 21:52:42.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune was slain by Ferrous Wroughtnaut
+[24Feb2025 21:52:42.558] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(303, 40, 274) minecraft:overworld
+[24Feb2025 21:52:50.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 303.500000, 35.500000, 275.500000]
+[24Feb2025 21:52:53.952] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 21:52:53.952] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[24Feb2025 21:52:53.952] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[24Feb2025 21:52:53.952] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 21:52:53.953] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 21:52:53.953] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[24Feb2025 21:52:53.953] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 21:52:53.953] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 21:52:53.953] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 21:52:53.953] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 21:52:53.954] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[24Feb2025 21:52:53.954] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 21:52:53.954] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 21:53:10.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Feb2025 21:53:16.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[24Feb2025 21:53:27.341] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2075ms or 41 ticks behind
+[24Feb2025 21:53:31.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[24Feb2025 21:53:44.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2060ms or 41 ticks behind
+[24Feb2025 21:53:46.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune was slain by Ferrous Wroughtnaut
+[24Feb2025 21:53:46.483] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(307, 40, 272) minecraft:overworld
+[24Feb2025 21:54:06.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[24Feb2025 21:54:25.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Feb2025 21:54:45.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[24Feb2025 21:55:02.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Gave 1 [Leather Cap] to Royce]
+[24Feb2025 21:55:04.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[24Feb2025 21:55:22.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2164ms or 43 ticks behind
+[24Feb2025 21:55:29.050] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 21:55:29.050] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 emerald_stoneplate_ring
+[24Feb2025 21:55:29.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[24Feb2025 21:55:29.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 21:55:29.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 21:55:29.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 21:55:29.051] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 21:55:29.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[24Feb2025 21:55:29.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 21:55:29.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 21:55:29.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 21:55:29.052] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 21:55:29.053] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[24Feb2025 21:55:39.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2463ms or 49 ticks behind
+[24Feb2025 21:55:49.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has completed the challenge [Just a Flesh Wound]
+[24Feb2025 21:55:57.242] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2726ms or 54 ticks behind
+[24Feb2025 21:55:59.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Royce> time set cleanb profavo
+[24Feb2025 21:56:01.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Royce> pofavo
+[24Feb2025 21:56:02.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Royce> pofavo
+[24Feb2025 21:56:04.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Royce> clean
+[24Feb2025 21:56:09.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Royce> culo gordito
+[24Feb2025 21:56:13.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set the weather to clear]
+[24Feb2025 21:56:13.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Royce> pofavo
+[24Feb2025 21:56:15.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2867ms or 57 ticks behind
+[24Feb2025 21:56:33.736] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3670ms or 73 ticks behind
+[24Feb2025 21:56:52.803] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4087ms or 81 ticks behind
+[24Feb2025 21:57:12.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4327ms or 86 ticks behind
+[24Feb2025 21:57:30.947] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3881ms or 77 ticks behind
+[24Feb2025 21:57:48.728] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2812ms or 56 ticks behind
+[24Feb2025 21:58:06.974] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3258ms or 65 ticks behind
+[24Feb2025 21:58:25.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3549ms or 70 ticks behind
+[24Feb2025 21:58:43.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3499ms or 69 ticks behind
+[24Feb2025 21:58:57.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce has made the advancement [Lettuce Begin]
+[24Feb2025 21:59:00.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce has made the advancement [Crops of the Wild]
+[24Feb2025 21:59:02.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3372ms or 67 ticks behind
+[24Feb2025 21:59:20.539] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3273ms or 65 ticks behind
+[24Feb2025 21:59:38.305] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2789ms or 55 ticks behind
+[24Feb2025 21:59:55.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2596ms or 51 ticks behind
