@@ -3338,3 +3338,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Feb2025 15:10:31.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to -457.500000, 72.500000, -340.500000]
 [24Feb2025 15:11:39.084] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
 [24Feb2025 15:13:04.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
+[24Feb2025 15:13:27.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[24Feb2025 15:18:06.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has made the advancement [Mine? Mine? Mine?]
+[24Feb2025 15:23:32.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 230.500000, 70.500000, 57.500000]
