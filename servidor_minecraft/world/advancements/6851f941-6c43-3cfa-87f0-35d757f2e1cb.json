@@ -5741,6 +5741,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 23:07:10 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_brown": {
     "criteria": {
       "has_brown_wool": "2025-02-24 21:33:40 +0000"
@@ -5822,6 +5828,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-24 23:07:10 +0000"
     },
     "done": true
   },

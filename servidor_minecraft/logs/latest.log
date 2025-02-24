@@ -3535,3 +3535,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Feb2025 22:41:36.170] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [24Feb2025 22:44:05.914] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/38797, l='ServerLevel[Mundo nuevo]', x=341.30, y=68.00, z=1139.02] died, message: 'Unemployed was slain by Komodo Dragon'
 [24Feb2025 22:44:20.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/38776, l='ServerLevel[Mundo nuevo]', x=345.17, y=70.00, z=1132.51] died, message: 'Unemployed was slain by Komodo Dragon'
+[24Feb2025 23:07:10.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin has made the advancement [Hot Stuff]
