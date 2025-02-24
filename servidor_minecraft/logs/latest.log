@@ -3302,3 +3302,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Feb2025 19:43:30.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin left the game
 [24Feb2025 19:43:34.466] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3704ms or 74 ticks behind
 [24Feb2025 19:45:12.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved wrongly!
+[24Feb2025 19:45:43.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[24Feb2025 19:46:03.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5314ms or 106 ticks behind
+[24Feb2025 19:46:40.775] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[24Feb2025 19:46:58.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[24Feb2025 19:48:32.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune was slain by Spider
+[24Feb2025 19:48:32.087] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(274, -8, 49) minecraft:overworld
+[24Feb2025 19:52:02.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 19:52:02.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[24Feb2025 19:52:02.604] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[24Feb2025 19:52:02.605] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 19:52:02.605] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 19:52:02.605] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 19:52:02.605] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 19:52:02.605] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 19:52:02.606] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 19:52:02.606] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 19:52:02.606] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
