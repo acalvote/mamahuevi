@@ -3272,3 +3272,57 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Feb2025 21:38:58.768] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [24Feb2025 21:39:12.307] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:ice-porcupine/small_size_scale] from power ResourceKey[apoli:configured_power / origins-plus-plus:ice-porcupine/small_size]
 [24Feb2025 21:39:12.307] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:ice-porcupine/small_size_reset] from power ResourceKey[apoli:configured_power / origins-plus-plus:ice-porcupine/small_size]
+[24Feb2025 21:39:31.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[24Feb2025 21:40:02.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[24Feb2025 21:40:43.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[24Feb2025 21:41:04.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[24Feb2025 21:41:11.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Gave 1 [Orb of Origin] to Royce]
+[24Feb2025 21:41:21.393] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2327ms or 46 ticks behind
+[24Feb2025 21:41:38.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2189ms or 43 ticks behind
+[24Feb2025 21:41:55.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2126ms or 42 ticks behind
+[24Feb2025 21:42:12.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2373ms or 47 ticks behind
+[24Feb2025 21:42:33.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5984ms or 119 ticks behind
+[24Feb2025 21:42:52.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3244ms or 64 ticks behind
+[24Feb2025 21:43:10.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3361ms or 67 ticks behind
+[24Feb2025 21:43:29.261] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3795ms or 75 ticks behind
+[24Feb2025 21:43:47.464] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3248ms or 64 ticks behind
+[24Feb2025 21:44:05.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2788ms or 55 ticks behind
+[24Feb2025 21:44:22.588] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[24Feb2025 21:44:39.595] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[24Feb2025 21:44:58.117] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Feb2025 21:45:15.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2398ms or 47 ticks behind
+[24Feb2025 21:45:33.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2997ms or 59 ticks behind
+[24Feb2025 21:45:51.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3150ms or 63 ticks behind
+[24Feb2025 21:46:09.970] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3404ms or 68 ticks behind
+[24Feb2025 21:46:27.272] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
+[24Feb2025 21:46:44.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Feb2025 21:47:01.600] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2084ms or 41 ticks behind
+[24Feb2025 21:47:19.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Feb2025 21:47:36.059] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[24Feb2025 21:47:53.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2661ms or 53 ticks behind
+[24Feb2025 21:48:11.457] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2791ms or 55 ticks behind
+[24Feb2025 21:48:29.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2923ms or 58 ticks behind
+[24Feb2025 21:48:47.026] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2710ms or 54 ticks behind
+[24Feb2025 21:48:56.386] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:pumpkin_hate_prevent_seeing] from power ResourceKey[apoli:configured_power / origins:pumpkin_hate]
+[24Feb2025 21:48:56.386] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins:pumpkin_hate_prevent_eating] from power ResourceKey[apoli:configured_power / origins:pumpkin_hate]
+[24Feb2025 21:48:56.387] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/mana_potion_make] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/mana_potion]
+[24Feb2025 21:48:56.387] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/mana_potion_use] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/mana_potion]
+[24Feb2025 21:48:56.387] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/reach_modify_reach] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/reach]
+[24Feb2025 21:48:56.387] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/reach_change_resource] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/reach]
+[24Feb2025 21:48:56.387] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/recipes_end_stone] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/recipes]
+[24Feb2025 21:48:56.387] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/recipes_chorus_fruit] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/recipes]
+[24Feb2025 21:48:56.387] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/resource_change_respawn] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/resource_change]
+[24Feb2025 21:48:56.388] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/resource_change_empty] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/resource_change]
+[24Feb2025 21:48:56.388] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/resource_change_regen] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/resource_change]
+[24Feb2025 21:48:56.388] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/resource_change_refill] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/resource_change]
+[24Feb2025 21:48:56.388] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/super_mana_potion_use] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/super_mana_potion]
+[24Feb2025 21:48:56.388] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/super_mana_potion_make] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/super_mana_potion]
+[24Feb2025 21:48:56.388] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/waypoint_create] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/waypoint]
+[24Feb2025 21:48:56.389] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/waypoint_teleport] from power ResourceKey[apoli:configured_power / origins-plus-plus:end-mage/waypoint]
+[24Feb2025 21:49:04.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 302.500000, 40.500000, 270.500000]
+[24Feb2025 21:49:04.992] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
+[24Feb2025 21:49:12.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune was slain by Ferrous Wroughtnaut
+[24Feb2025 21:49:12.696] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(303, 40, 268) minecraft:overworld
+[24Feb2025 21:49:23.270] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[24Feb2025 21:49:34.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce didn't manage to keep wet because they were fighting Summoned Zombie
+[24Feb2025 21:49:34.432] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(108, 69, 34) minecraft:overworld

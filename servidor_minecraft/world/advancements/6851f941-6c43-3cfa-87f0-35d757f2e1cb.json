@@ -330,6 +330,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-02-23 17:19:52 +0000",
+      "minecraft:cherry_grove": "2025-02-24 21:45:18 +0000",
       "minecraft:birch_forest": "2025-02-22 21:43:05 +0000",
       "minecraft:windswept_hills": "2025-02-22 21:57:22 +0000",
       "minecraft:sparse_jungle": "2025-02-22 21:48:51 +0000",
@@ -5604,9 +5605,39 @@
     },
     "done": true
   },
+  "farmersplus:recipes/cooking/salisbury_steak": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:24 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/glass_dark_oak_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-02-24 21:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-24 21:37:50 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_chicken_cuts": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+    "criteria": {
+      "beef_patty": "2025-02-24 21:37:24 +0000"
     },
     "done": true
   },
@@ -5622,6 +5653,30 @@
     },
     "done": true
   },
+  "moredelight:recipes/cooking/diced_potatoes_with_egg_and_tomato": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-24 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-24 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/misc/lemon_seeds": {
+    "criteria": {
+      "has_lemon": "2025-02-24 21:42:20 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/dark_oak_single_door_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
@@ -5634,9 +5689,141 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-02-24 21:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/dark_oak_drawer_with_books": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/misc/lemon_crate": {
+    "criteria": {
+      "has_lemon": "2025-02-24 21:42:20 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/red_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-02-24 21:37:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-24 21:37:50 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
+    "criteria": {
+      "has_bone_meal": "2025-02-24 21:37:31 +0000"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/food/lemon_juice": {
+    "criteria": {
+      "has_lemon": "2025-02-24 21:42:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-24 21:37:23 +0000"
+    },
+    "done": true
+  },
+  "farmersplus:recipes/cooking/lard_bucket": {
+    "criteria": {
+      "has_porkchop": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/cooking/diced_potatoes_with_porkchop": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-24 21:37:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-02-24 21:38:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-24 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-02-24 21:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-02-24 21:37:31 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/cod_deluxe": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/pasta_with_mushroom_sauce": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "veggiesdelight:main/fruit_veggie": {
+    "criteria": {
+      "fruit": "2025-02-24 21:38:12 +0000"
     },
     "done": true
   },
@@ -5646,9 +5833,39 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-24 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-24 21:37:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2025-02-24 21:37:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/dark_oak_cabinet": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/food/lemon_cookie": {
+    "criteria": {
+      "has_lemon": "2025-02-24 21:42:20 +0000"
     },
     "done": true
   },
@@ -5657,6 +5874,54 @@
       "0": "2025-02-24 21:27:59 +0000"
     },
     "done": false
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-24 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-24 21:37:23 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/hearty_lunch": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-02-24 21:37:24 +0000"
+    },
+    "done": true
   },
   "storagedelight:recipes/decorations/dark_oak_drawer": {
     "criteria": {
@@ -5670,9 +5935,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
   "storagedelight:recipes/decorations/dark_oak_drawer_with_door": {
     "criteria": {
       "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
     },
     "done": true
   },
