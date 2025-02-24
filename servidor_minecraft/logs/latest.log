@@ -3530,3 +3530,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Feb2025 22:35:11.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin was doomed to fall
 [24Feb2025 22:35:11.971] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(310, 73, 967) minecraft:overworld
 [24Feb2025 22:39:36.599] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/19793, l='ServerLevel[Mundo nuevo]', x=298.56, y=107.00, z=720.13, removed=DISCARDED]
+[24Feb2025 22:41:36.169] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 22:41:36.169] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 22:41:36.170] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 22:44:05.914] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/38797, l='ServerLevel[Mundo nuevo]', x=341.30, y=68.00, z=1139.02] died, message: 'Unemployed was slain by Komodo Dragon'
+[24Feb2025 22:44:20.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/38776, l='ServerLevel[Mundo nuevo]', x=345.17, y=70.00, z=1132.51] died, message: 'Unemployed was slain by Komodo Dragon'

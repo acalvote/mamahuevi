@@ -15689,3 +15689,63 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Feb2025 22:39:02.044] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [24Feb2025 22:39:02.792] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [24Feb2025 22:39:36.599] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/19793, l='ServerLevel[Mundo nuevo]', x=298.56, y=107.00, z=720.13, removed=DISCARDED]
+[24Feb2025 22:41:36.169] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 22:41:36.169] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 22:41:36.170] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 22:41:42.332] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:42:08.791] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:42:22.516] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:42:33.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[24Feb2025 22:42:33.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[24Feb2025 22:42:41.425] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Feb2025 22:44:03.817] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:44:04.111] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Feb2025 22:44:05.914] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/38797, l='ServerLevel[Mundo nuevo]', x=341.30, y=68.00, z=1139.02] died, message: 'Unemployed was slain by Komodo Dragon'
+[24Feb2025 22:44:20.677] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/38776, l='ServerLevel[Mundo nuevo]', x=345.17, y=70.00, z=1132.51] died, message: 'Unemployed was slain by Komodo Dragon'
+[24Feb2025 22:44:24.442] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:44:25.167] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:46:18.263] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:47:33.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[24Feb2025 22:47:33.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[24Feb2025 22:47:35.965] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:47:38.558] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:48:02.155] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:48:06.508] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:27.066] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:28.501] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:29.999] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:37.602] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:39.050] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:40.498] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:41.951] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:43.406] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:49.257] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:50.958] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:52.406] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:53.107] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:49:54.007] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:02.202] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:03.502] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:07.507] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:08.503] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:12.106] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:13.358] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:14.557] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:22.917] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/wreckage_ocean/wreckage_1
+[24Feb2025 22:50:27.701] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:50.553] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:51.402] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:52.155] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:52.955] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:53.656] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:54.405] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:55.161] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:55.895] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:56.195] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:57.407] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:58.159] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:58.907] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:50:59.659] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:51:00.401] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:51:01.160] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 22:51:02.160] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
