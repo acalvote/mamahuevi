@@ -333,6 +333,8 @@
       "minecraft:cherry_grove": "2025-02-24 21:45:18 +0000",
       "minecraft:birch_forest": "2025-02-22 21:43:05 +0000",
       "minecraft:windswept_hills": "2025-02-22 21:57:22 +0000",
+      "minecraft:savanna_plateau": "2025-02-24 21:58:57 +0000",
+      "minecraft:beach": "2025-02-24 22:07:25 +0000",
       "minecraft:sparse_jungle": "2025-02-22 21:48:51 +0000",
       "minecraft:river": "2025-02-22 21:45:10 +0000",
       "minecraft:dripstone_caves": "2025-02-23 17:40:41 +0000",
@@ -5758,6 +5760,12 @@
   "fruitsdelight:recipes/food/lemon_juice": {
     "criteria": {
       "has_lemon": "2025-02-24 21:42:20 +0000"
+    },
+    "done": true
+  },
+  "vintagedelight:main/harvest_salt": {
+    "criteria": {
+      "harvest_salt": "2025-02-24 22:07:40 +0000"
     },
     "done": true
   },
