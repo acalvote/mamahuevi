@@ -4627,12 +4627,6 @@
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-02-24 22:15:22 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:kill_ferrous_wroughtnaut": {
     "criteria": {
       "ferrous_wroughtnaut": "2025-02-24 21:55:49 +0000"
@@ -4660,12 +4654,6 @@
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-24 22:08:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-02-24 22:13:25 +0000"
     },
     "done": true
   },
@@ -4708,12 +4696,6 @@
   "twilightforest:recipes/transportation/transformation_chest_boat": {
     "criteria": {
       "has_boat": "2025-02-24 22:08:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
-    "criteria": {
-      "has_item": "2025-02-24 22:13:25 +0000"
     },
     "done": true
   },
@@ -4771,9 +4753,27 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-24 22:13:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+    "criteria": {
+      "has_item": "2025-02-24 22:13:25 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
       "has_item": "2025-02-24 22:13:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-02-24 22:15:22 +0000"
     },
     "done": true
   },
