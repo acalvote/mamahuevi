@@ -14170,3 +14170,216 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Feb2025 13:51:24.300] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [24Feb2025 13:51:25.248] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [24Feb2025 13:51:26.152] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:51:52.155] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:52:31.493] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:52:36.196] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:52:36.853] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:52:55.046] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:52:55.261] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:52:59.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[24Feb2025 13:52:59.384] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[24Feb2025 13:53:10.754] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Feb2025 13:55:10.945] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:11.394] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:12.445] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:12.898] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:13.347] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:13.798] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:14.397] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:14.995] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:15.651] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:16.149] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:16.851] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:17.397] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:17.994] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:18.498] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:18.996] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:19.451] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:19.897] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:20.346] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:20.764] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:21.251] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:21.652] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:22.146] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:22.647] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:23.500] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:24.100] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:24.848] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:25.446] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:25.896] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:26.351] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:55:27.592] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Feb2025 13:55:41.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[24Feb2025 13:55:48.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[24Feb2025 13:56:17.942] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:18.892] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:19.852] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:24.542] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:25.456] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:27.345] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:28.289] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:29.243] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:30.242] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:31.241] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:34.640] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:35.601] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:36.540] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:37.492] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:39.045] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:40.046] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:40.994] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:41.942] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:42.891] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:56:55.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Gave 64 [Cherry Wood] to Lesbian_unu]
+[24Feb2025 13:57:59.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[24Feb2025 13:57:59.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[24Feb2025 13:58:11.043] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:58:38.596] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:58:39.694] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:58:41.141] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:58:42.103] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:58:42.394] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:58:43.095] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:58:44.144] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:58:45.343] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:58:46.343] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:58:47.342] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:02.044] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:04.194] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:05.742] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:06.693] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:07.642] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:08.615] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:16.445] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:17.397] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:48.355] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:49.304] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:50.241] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:51.191] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:52.141] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:53.092] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:54.043] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:55.490] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:56.442] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:57.391] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 13:59:59.144] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:00.093] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:01.042] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:01.993] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:02.942] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:03.890] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:04.842] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:05.940] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:06.893] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:07.841] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:20.442] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:21.392] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:22.343] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:23.289] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:24.245] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:25.194] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:26.145] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:27.091] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:28.047] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:29.006] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:29.945] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:30.892] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:31.843] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:33.041] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:33.990] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:34.992] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:35.941] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:36.891] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:00:41.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune suffocated in a wall
+[24Feb2025 14:00:41.099] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(434, -11, 59) minecraft:overworld
+[24Feb2025 14:00:43.199] [Server thread/DEBUG] [twilightforest/]: Player Kytsune (7bf33e8c-4ad9-39a5-ac9a-63b09fa6c4d7) respawned and received items held in storage
+[24Feb2025 14:00:59.046] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:00.191] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:09.092] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:10.040] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:10.996] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:11.929] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:12.890] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:13.840] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:15.144] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:16.092] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:32.591] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:33.507] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:34.499] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:35.902] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:36.825] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:38.040] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:01:46.045] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 14:01:46.046] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 emerald_stoneplate_ring
+[24Feb2025 14:01:46.046] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[24Feb2025 14:01:46.046] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[24Feb2025 14:01:46.047] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 14:01:46.047] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[24Feb2025 14:01:46.047] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[24Feb2025 14:02:57.501] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:02:59.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[24Feb2025 14:02:59.365] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[24Feb2025 14:03:03.453] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:03:29.194] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:03:30.248] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:03:49.148] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:03:51.494] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:03:54.342] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:03:57.548] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:04:19.402] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1 is being run through DFU (hash 55f9831fdf8d35df8191e3e13ab17e546d65a10fafbb3fdb700f14809a4bd08a), this will cause launch time delays
+[24Feb2025 14:04:19.494] [Server thread/DEBUG] [ModernFix/]: Structure kaisyn:village/forest_ruins/houses/forest_cartographer_1 is being run through DFU (hash 3034ae665c90ccd5f0a06411660b304877caba36a6575b97da09c1d3a93f757a), this will cause launch time delays
+[24Feb2025 14:04:25.126] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/catacombs_origin is being run through DFU (hash 3fa9eb3326aa86ad205200d6841e11d670015588c9e5c5ce02c2589e5e01f237), this will cause launch time delays
+[24Feb2025 14:04:25.298] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_tee_1 is being run through DFU (hash ccccdc9810bb4cd107d9052713a6d4018868fbfaff45dae73f8fb221785f4413), this will cause launch time delays
+[24Feb2025 14:04:25.329] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_tee_2 is being run through DFU (hash ddc035e32a14d18c922540490b5bfcebf9b2e259761be12fbdea81585f215a23), this will cause launch time delays
+[24Feb2025 14:04:25.335] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_turn_1 is being run through DFU (hash 55c1ab3858ca328b01d618ab63090048bf809f4f8a78644c2bf3a95e43d68f6c), this will cause launch time delays
+[24Feb2025 14:04:25.339] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/balcony is being run through DFU (hash bd6b73833ee18760771079d0577d7ce4114d78a30bde7faf326c4cad75e06be8), this will cause launch time delays
+[24Feb2025 14:04:25.353] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_zigzag is being run through DFU (hash e4aa2324c4f5665c93a3f3f1035544b00815c7cadde1dda9322cf7ac9325f5dc), this will cause launch time delays
+[24Feb2025 14:04:25.357] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/hallway_connector is being run through DFU (hash 0903bbcbe2eb4344a3458800358fd77dd87acc5748b8c529f6abf3c0e14146ff), this will cause launch time delays
+[24Feb2025 14:04:25.360] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/dropdown_hallway is being run through DFU (hash 04e33d7337431cb18c063bffc7b63fa98053b31a9ed5f59494927858847e57e6), this will cause launch time delays
+[24Feb2025 14:04:25.368] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_2 is being run through DFU (hash 9453f28bdd6b745cb38f92c708e152e1910c403ab4fcec53cb18024fae6e1c7e), this will cause launch time delays
+[24Feb2025 14:04:25.371] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/hallway/hallway_spiral_stairs is being run through DFU (hash 9d2a4ef561c42e7a62ab0b1b9eba12fe41be64dc2180eb25802b92706a7985c6), this will cause launch time delays
+[24Feb2025 14:04:25.374] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/end_room_wall is being run through DFU (hash fa6752c910b6419f7e91fb9ac6d0b60e7eac0bf7151df2da07b76d11d01b41ff), this will cause launch time delays
+[24Feb2025 14:04:25.375] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/boiler is being run through DFU (hash c10eb28f7ca575fda9e31f21e8a24942fc3d99c04e86cee1f70f42c0af38320c), this will cause launch time delays
+[24Feb2025 14:04:25.378] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_storage_1 is being run through DFU (hash 3776e200c1ea6c0e7a520c2cd43b3872ac017b1a9f0856eb6a42c47144855cad), this will cause launch time delays
+[24Feb2025 14:04:25.382] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_arch is being run through DFU (hash 1ba8425d8e64a74e58c0d95b0ca9903bb329c6ef4934ae834d3d46e8b14901cd), this will cause launch time delays
+[24Feb2025 14:04:25.386] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room_origin_1 is being run through DFU (hash a7d1737f84746d593892bfd10a077e78cd8646a61f67511f4b7519173d527f9d), this will cause launch time delays
+[24Feb2025 14:04:25.388] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/wall_crypt is being run through DFU (hash 55f20006c0a0d7b8268eeac4cd0d3377c004d30ccc14cf90a3034ba822241120), this will cause launch time delays
+[24Feb2025 14:04:25.390] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/trap_jail is being run through DFU (hash c9dcecb3c3096be04f646a5d1b91d104866647e7a1298a025818aa98b766ecb7), this will cause launch time delays
+[24Feb2025 14:04:25.396] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/ravager_prison is being run through DFU (hash 8beed8211af18c58fa3143832d111e7f4d2cb8fd28c6046dbd93078640bcd0e4), this will cause launch time delays
+[24Feb2025 14:04:25.408] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/small_spawner_1 is being run through DFU (hash 50e33a4b9356a0698f4cb9cf6a75e2eb81fe38aca765c982e2d1afb9adfc75f3), this will cause launch time delays
+[24Feb2025 14:04:25.411] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/trap_pitfall is being run through DFU (hash d5ba426cfcd818119f431d16cd3909b73fb128dd7f7bbb873e063abef0a334b9), this will cause launch time delays
+[24Feb2025 14:04:25.415] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/double_storage is being run through DFU (hash f7e8db79a930a748736e118e2ca1cca0e4f7901e6f526a4c2a2673611486fc01), this will cause launch time delays
+[24Feb2025 14:04:25.425] [Server thread/DEBUG] [ModernFix/]: Structure irons_spellbooks:catacombs/room/crypt_2 is being run through DFU (hash cd2c82202236fa12a230a3e1ea4e23bb934b80cdafb27c699483921ca2acf980), this will cause launch time delays
+[24Feb2025 14:04:25.936] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:04:28.942] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:04:53.447] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:04:54.745] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:05:07.693] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:05:09.150] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:05:21.495] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:05:22.593] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:05:29.997] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:05:32.743] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:05:35.963] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:05:56.694] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:06:16.445] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:06:21.099] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:06:21.153] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:06:22.147] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:06:24.649] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:06:26.243] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:07:06.815] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:07:08.545] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:07:59.353] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[24Feb2025 14:07:59.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[24Feb2025 14:08:19.675] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:08:24.863] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:08:34.914] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:09:49.494] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:10:17.693] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:10:18.642] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:10:20.297] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:10:25.643] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:10:33.648] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[24Feb2025 14:11:50.942] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[24Feb2025 14:11:51.993] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
