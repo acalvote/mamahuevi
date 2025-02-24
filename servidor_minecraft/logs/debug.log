@@ -15795,3 +15795,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Feb2025 23:18:09.243] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [24Feb2025 23:18:47.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dwaliin lost connection: Disconnected
 [24Feb2025 23:18:47.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin left the game
+[24Feb2025 23:22:33.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[24Feb2025 23:22:33.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[24Feb2025 23:27:33.125] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[24Feb2025 23:27:33.140] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
