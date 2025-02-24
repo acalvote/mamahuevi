@@ -332,6 +332,7 @@
       "minecraft:old_growth_pine_taiga": "2025-02-22 23:16:39 +0000",
       "minecraft:taiga": "2025-02-22 22:26:54 +0000",
       "minecraft:cherry_grove": "2025-02-23 23:34:33 +0000",
+      "minecraft:sunflower_plains": "2025-02-24 20:13:01 +0000",
       "minecraft:birch_forest": "2025-02-22 21:38:37 +0000",
       "minecraft:windswept_hills": "2025-02-22 22:09:43 +0000",
       "minecraft:bamboo_jungle": "2025-02-23 20:58:18 +0000",
@@ -352,6 +353,7 @@
       "minecraft:old_growth_spruce_taiga": "2025-02-22 23:15:55 +0000",
       "minecraft:windswept_savanna": "2025-02-22 22:09:15 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-02-24 19:45:44 +0000",
+      "minecraft:flower_forest": "2025-02-24 20:13:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 22:57:21 +0000",
       "minecraft:savanna": "2025-02-22 21:56:19 +0000",
       "minecraft:plains": "2025-02-22 21:48:32 +0000"
@@ -3920,9 +3922,27 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-02-24 20:28:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-24 20:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-02-24 19:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-24 20:22:07 +0000"
     },
     "done": true
   },
@@ -3944,6 +3964,18 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-02-24 20:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-24 20:22:07 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_gray_wool": "2025-02-24 19:43:21 +0000"
@@ -3953,6 +3985,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_tank": {
     "criteria": {
       "has_item": "2025-02-24 19:52:45 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-02-24 20:22:07 +0000"
     },
     "done": true
   },

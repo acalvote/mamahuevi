@@ -3332,3 +3332,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [24Feb2025 20:16:03.418] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
 [24Feb2025 20:16:03.430] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
 [24Feb2025 20:16:03.435] [Worker-Main-3/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[24Feb2025 20:18:52.523] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[24Feb2025 20:18:52.523] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[24Feb2025 20:18:55.592] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[24Feb2025 20:28:04.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[24Feb2025 20:28:27.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[24Feb2025 20:31:18.842] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[24Feb2025 20:31:18.846] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[24Feb2025 20:31:18.849] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[24Feb2025 20:31:18.894] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[24Feb2025 20:31:18.948] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[24Feb2025 20:31:19.001] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[24Feb2025 20:31:19.054] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[24Feb2025 20:31:19.056] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[24Feb2025 20:31:19.108] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[24Feb2025 20:31:19.159] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[24Feb2025 20:31:19.212] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[24Feb2025 20:31:19.264] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[24Feb2025 20:31:20.288] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[24Feb2025 20:31:20.714] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[24Feb2025 20:31:20.882] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[24Feb2025 20:31:20.898] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[24Feb2025 20:31:20.898] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[24Feb2025 20:31:21.020] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[24Feb2025 20:31:23.510] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Royce[/127.62.241.54:59431] logged in with entity id 65114 at (-30.5, 250.0, -1.5)
+[24Feb2025 20:31:23.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce joined the game
+[24Feb2025 20:31:23.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce has made the advancement [Alexs Mobs Interaction]
+[24Feb2025 20:31:23.752] [Server thread/INFO] [Jade/]: Syncing config to Royce (9f678283-671d-30c0-83f7-b0c3851fccd5)
+[24Feb2025 20:33:44.163] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Feb2025 20:35:05.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[24Feb2025 20:35:41.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[24Feb2025 20:36:34.414] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[24Feb2025 20:37:12.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
