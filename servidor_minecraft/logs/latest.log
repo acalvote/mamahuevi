@@ -3279,3 +3279,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 15:17:45.692] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_more_combine_durability] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
 [25Feb2025 15:18:55.738] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dwaliin lost connection: Disconnected
 [25Feb2025 15:18:55.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin left the game
+[25Feb2025 15:30:28.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> hl
