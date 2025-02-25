@@ -6552,5 +6552,41 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/smoked_bat_wing_campfire": {
+    "criteria": {
+      "has_bat_wing": "2025-02-25 19:09:23 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/bat_rolls": {
+    "criteria": {
+      "has_bat_wing": "2025-02-25 19:09:23 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/bat_soup": {
+    "criteria": {
+      "has_bat_wing": "2025-02-25 19:09:23 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing_smoking": {
+    "criteria": {
+      "has_bat_wing": "2025-02-25 19:09:23 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing": {
+    "criteria": {
+      "has_bat_wing": "2025-02-25 19:09:23 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/bat_cookie": {
+    "criteria": {
+      "has_bat_wing": "2025-02-25 19:09:23 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
