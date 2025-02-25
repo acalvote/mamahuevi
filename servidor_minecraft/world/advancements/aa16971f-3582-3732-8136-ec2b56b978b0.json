@@ -4159,6 +4159,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-02-25 20:43:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-25 18:50:08 +0000"
@@ -4254,6 +4260,12 @@
       "has_granite": "2025-02-25 18:42:45 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-02-25 20:43:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
@@ -4447,6 +4459,12 @@
     },
     "done": true
   },
+  "dummmmmmy:recipes/dummy_crafting": {
+    "criteria": {
+      "has_hay_block": "2025-02-25 20:33:01 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/frozen/obsidian": {
     "criteria": {
       "has_magma_block": "2025-02-25 19:02:34 +0000"
@@ -4630,6 +4648,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-02-25 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-02-25 20:33:01 +0000"
     },
     "done": true
   },

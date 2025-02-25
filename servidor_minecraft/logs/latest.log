@@ -3650,3 +3650,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 20:19:52.750] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dwaliin lost connection: Disconnected
 [25Feb2025 20:19:52.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin left the game
 [25Feb2025 20:26:26.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 436.500000, -32.500000, 83.500000]
+[25Feb2025 20:28:57.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1080, y=149, z=-273} BlockPos{x=1078, y=148, z=-273}
+[25Feb2025 20:28:57.341] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1080, y=149, z=-273} BlockPos{x=1078, y=148, z=-273}
+[25Feb2025 20:34:59.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lesbian_unu was slain by Bison
+[25Feb2025 20:34:59.921] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(928, 90, -432) minecraft:overworld
+[25Feb2025 20:35:26.085] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[25Feb2025 20:43:30.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lesbian_unu has made the advancement [The Parrots and the Bats]
