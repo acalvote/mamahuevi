@@ -3302,3 +3302,50 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 15:36:39.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin joined the game
 [25Feb2025 15:36:39.117] [Server thread/INFO] [Jade/]: Syncing config to Dwaliin (6851f941-6c43-3cfa-87f0-35d757f2e1cb)
 [25Feb2025 15:37:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to Dwaliin]
+[25Feb2025 15:45:23.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[25Feb2025 15:46:21.230] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dwaliin lost connection: Disconnected
+[25Feb2025 15:46:21.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin left the game
+[25Feb2025 15:46:24.065] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[25Feb2025 15:46:24.119] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[25Feb2025 15:46:24.166] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[25Feb2025 15:46:24.214] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[25Feb2025 15:46:24.264] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[25Feb2025 15:46:24.317] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[25Feb2025 15:46:24.364] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[25Feb2025 15:46:24.415] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[25Feb2025 15:46:24.462] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[25Feb2025 15:46:24.517] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[25Feb2025 15:46:24.563] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[25Feb2025 15:46:24.618] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[25Feb2025 15:46:25.007] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[25Feb2025 15:46:25.171] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[25Feb2025 15:46:25.220] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[25Feb2025 15:46:25.225] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[25Feb2025 15:46:25.225] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[25Feb2025 15:46:25.300] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[25Feb2025 15:46:28.841] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dwaliin[/127.201.246.21:45593] logged in with entity id 20979 at (-474.33925787047787, 100.0, 548.1284483842171)
+[25Feb2025 15:46:28.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin joined the game
+[25Feb2025 15:46:29.048] [Server thread/INFO] [Jade/]: Syncing config to Dwaliin (6851f941-6c43-3cfa-87f0-35d757f2e1cb)
+[25Feb2025 15:47:23.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dwaliin lost connection: Disconnected
+[25Feb2025 15:47:23.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin left the game
+[25Feb2025 15:47:26.218] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[25Feb2025 15:47:26.269] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[25Feb2025 15:47:26.315] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[25Feb2025 15:47:26.371] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[25Feb2025 15:47:26.425] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[25Feb2025 15:47:26.470] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[25Feb2025 15:47:26.517] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[25Feb2025 15:47:26.568] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[25Feb2025 15:47:26.624] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[25Feb2025 15:47:26.668] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[25Feb2025 15:47:26.716] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[25Feb2025 15:47:26.765] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[25Feb2025 15:47:27.313] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[25Feb2025 15:47:27.618] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[25Feb2025 15:47:27.710] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[25Feb2025 15:47:27.710] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[25Feb2025 15:47:27.721] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[25Feb2025 15:47:27.845] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[25Feb2025 15:47:31.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dwaliin[/127.201.246.21:46361] logged in with entity id 21095 at (-474.68441785388114, 100.0, 551.6355049946432)
+[25Feb2025 15:47:31.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin joined the game
+[25Feb2025 15:47:31.204] [Server thread/INFO] [Jade/]: Syncing config to Dwaliin (6851f941-6c43-3cfa-87f0-35d757f2e1cb)

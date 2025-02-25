@@ -10,9 +10,9 @@
 	scaledItemDrops = true
 	scaledProjectiles = true
 	scaledExplosions = true
-	keepAllScalesOnRespawn = false
+	keepAllScalesOnRespawn = true
 	accurateNetherPortals = true
 	scalesKeptOnRespawn = []
 	enableCommands = true
-	enableDebugCommands = false
+	enableDebugCommands = true
 
