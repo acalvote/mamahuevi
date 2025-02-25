@@ -3219,3 +3219,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 14:34:17.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune joined the game
 [25Feb2025 14:34:17.427] [Server thread/INFO] [Jade/]: Syncing config to Kytsune (7bf33e8c-4ad9-39a5-ac9a-63b09fa6c4d7)
 [25Feb2025 14:34:34.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 6.500000, 250.500000, 8.500000]
+[25Feb2025 14:42:10.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 436.500000, -32.500000, 83.500000]
+[25Feb2025 14:42:21.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[25Feb2025 14:42:30.773] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune lost connection: Disconnected
+[25Feb2025 14:42:30.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune left the game
+[25Feb2025 14:42:33.764] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[25Feb2025 14:42:33.817] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[25Feb2025 14:42:33.870] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[25Feb2025 14:42:33.923] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[25Feb2025 14:42:33.978] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[25Feb2025 14:42:34.031] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[25Feb2025 14:42:34.083] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[25Feb2025 14:42:34.136] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[25Feb2025 14:42:34.189] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[25Feb2025 14:42:34.242] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[25Feb2025 14:42:34.295] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[25Feb2025 14:42:34.347] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[25Feb2025 14:42:35.121] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[25Feb2025 14:42:35.553] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[25Feb2025 14:42:35.725] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[25Feb2025 14:42:35.726] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[25Feb2025 14:42:35.758] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[25Feb2025 14:42:35.895] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[25Feb2025 14:42:38.577] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kytsune[/127.62.241.54:34775] logged in with entity id 10036 at (432.69999998807907, -38.0, 85.69999998807907)
+[25Feb2025 14:42:38.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune joined the game
+[25Feb2025 14:42:38.725] [Server thread/INFO] [Jade/]: Syncing config to Kytsune (7bf33e8c-4ad9-39a5-ac9a-63b09fa6c4d7)
+[25Feb2025 14:43:22.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[25Feb2025 14:43:53.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
