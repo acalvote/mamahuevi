@@ -859,11 +859,10 @@
 		"origins:lay_eggs" = true
 		"origins:vegetarian" = true
 
-	[origins."strictly:dwarf"]
+	[origins."strictly:dwarft"]
 		enabled = true
 		"strictly:haste" = true
 		"strictly:potent_brew" = true
-		"strictly:miniature_dwarf" = true
 		"strictly:dense" = true
 		"strictly:insatiable_hunger" = true
 		"strictly:gold_lover" = true
@@ -871,6 +870,7 @@
 		"strictly:pickaxeless_stone" = true
 		"strictly:jump" = true
 		"strictly:step_height" = true
+		"strictly:miniature_dwarf" = false
 
 	[origins."origins-plus-plus:ram"]
 		enabled = true
@@ -1258,7 +1258,6 @@
 	[origins."medievalorigins:dwarf"]
 		enabled = true
 		"medievalorigins:dwarf/dwarven_tech" = true
-		"medievalorigins:dwarf/miniature" = true
 		"medievalorigins:dwarf/nocturnal_eyes" = true
 		"medievalorigins:dwarf/darkness_dweller" = true
 		"medievalorigins:dwarf/dense" = true
@@ -1266,6 +1265,7 @@
 		"medievalorigins:dwarf/mythril_resonance" = true
 		"medievalorigins:dwarf/pickaxeless_stone" = true
 		"medievalorigins:dwarf/helmet_spawn" = true
+		"medievalorigins:dwarf/miniature" = false
 
 	[origins."origins-plus-plus:malfunction"]
 		enabled = true
@@ -2446,4 +2446,17 @@
 		"origins-plus-plus:snake/health" = true
 		"origins-plus-plus:snake/intimidate" = true
 		"origins-plus-plus:snake/lunge" = true
+
+	[origins."strictly:dwarf"]
+		enabled = true
+		"strictly:haste" = true
+		"strictly:potent_brew" = true
+		"strictly:miniature_dwarf" = true
+		"strictly:dense" = true
+		"strictly:insatiable_hunger" = true
+		"strictly:gold_lover" = true
+		"strictly:nocturnal_eyes1" = true
+		"strictly:pickaxeless_stone" = true
+		"strictly:jump" = true
+		"strictly:step_height" = true
 
