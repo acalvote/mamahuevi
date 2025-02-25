@@ -16781,3 +16781,53 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 18:14:34.635] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [25Feb2025 18:14:55.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [25Feb2025 18:14:55.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[25Feb2025 18:15:12.420] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:15:20.541] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:15:56.837] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:16:04.742] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:16:05.537] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:16:06.332] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:16:07.138] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:16:22.288] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:16:23.434] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:16:24.488] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:16:25.781] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:16:32.337] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:16:38.893] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:16:58.947] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:17:00.038] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:17:21.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[25Feb2025 18:17:21.439] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[25Feb2025 18:18:04.512] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[25Feb2025 18:19:15.714] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[25Feb2025 18:19:26.839] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[25Feb2025 18:19:55.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[25Feb2025 18:19:55.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[25Feb2025 18:20:26.548] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:20:56.661] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:21:05.823] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:21:08.240] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:22:10.005] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/tower
+[25Feb2025 18:22:10.012] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/halves/villager_cage
+[25Feb2025 18:22:10.017] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_south
+[25Feb2025 18:22:10.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/camp_north
+[25Feb2025 18:22:10.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_cage
+[25Feb2025 18:22:10.020] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/iron_golem_cage
+[25Feb2025 18:22:10.021] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/barrels
+[25Feb2025 18:22:10.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/villager_cage_half_guard_tower
+[25Feb2025 18:22:10.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/decorations/logs
+[25Feb2025 18:22:10.023] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:evoker_fort/villager_spawns/villager_normal
+[25Feb2025 18:22:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[25Feb2025 18:22:49.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin has made the advancement [Mine? Mine? Mine?]
+[25Feb2025 18:23:19.639] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:23:25.494] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:23:51.518] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:23:52.025] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:23:52.074] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:23:57.348] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:23:57.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[25Feb2025 18:24:16.656] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:24:17.132] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 18:24:55.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[25Feb2025 18:24:55.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[25Feb2025 18:25:03.487] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0

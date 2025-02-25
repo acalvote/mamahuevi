@@ -3172,3 +3172,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 18:06:25.109] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [25Feb2025 18:06:25.110] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [25Feb2025 18:06:25.110] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[25Feb2025 18:22:33.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[25Feb2025 18:22:49.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin has made the advancement [Mine? Mine? Mine?]
+[25Feb2025 18:23:57.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
