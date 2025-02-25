@@ -16473,3 +16473,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 17:31:47.992] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [25Feb2025 17:31:51.136] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [25Feb2025 17:31:54.230] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 17:34:31.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[25Feb2025 17:34:31.559] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[25Feb2025 17:35:25.654] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of lemoned:lemon_farm
+[25Feb2025 17:36:17.232] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 17:36:19.136] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 17:36:21.352] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 17:36:21.614] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 17:36:41.682] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 17:37:56.334] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 17:39:05.389] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/base_plate
+[25Feb2025 17:39:05.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/feature_plates
+[25Feb2025 17:39:05.394] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/tower
+[25Feb2025 17:39:05.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/targets
+[25Feb2025 17:39:05.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/cage
+[25Feb2025 17:39:05.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/log
+[25Feb2025 17:39:05.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/smith_tent
+[25Feb2025 17:39:05.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/golem_cage
+[25Feb2025 17:39:29.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[25Feb2025 17:39:30.864] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[25Feb2025 17:39:31.555] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[25Feb2025 17:39:31.572] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[25Feb2025 17:40:06.097] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 17:40:06.953] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 17:40:07.490] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 17:40:09.583] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 17:40:10.338] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 17:40:10.990] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0

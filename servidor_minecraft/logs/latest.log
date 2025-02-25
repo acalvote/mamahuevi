@@ -3154,3 +3154,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 17:16:37.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Gave 10 experience levels to Dwaliin]
 [25Feb2025 17:17:06.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set 11 experience levels on Dwaliin]
 [25Feb2025 17:28:11.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 436.500000, -32.500000, 83.500000]
+[25Feb2025 17:39:29.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
