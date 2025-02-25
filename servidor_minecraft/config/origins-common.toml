@@ -870,7 +870,7 @@
 		"strictly:pickaxeless_stone" = true
 		"strictly:jump" = true
 		"strictly:step_height" = true
-		"strictly:miniature_dwarf" = false
+		"strictly:miniature_dwarf" = true
 
 	[origins."origins-plus-plus:ram"]
 		enabled = true
@@ -1265,7 +1265,7 @@
 		"medievalorigins:dwarf/mythril_resonance" = true
 		"medievalorigins:dwarf/pickaxeless_stone" = true
 		"medievalorigins:dwarf/helmet_spawn" = true
-		"medievalorigins:dwarf/miniature" = false
+		"medievalorigins:dwarf/miniature" = true
 
 	[origins."origins-plus-plus:malfunction"]
 		enabled = true
