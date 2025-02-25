@@ -6384,9 +6384,27 @@
     },
     "done": true
   },
+  "moredelight:recipes/cooking/carrot_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-25 17:44:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-25 17:44:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-02-25 17:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-02-25 17:44:45 +0000"
     },
     "done": true
   },
