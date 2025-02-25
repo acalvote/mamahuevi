@@ -6384,6 +6384,30 @@
     },
     "done": true
   },
+  "fruitsdelight:recipes/misc/pineapple_crate": {
+    "criteria": {
+      "has_pineapple": "2025-02-25 18:04:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-02-25 18:09:30 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/stuffed_cod": {
+    "criteria": {
+      "has_cod": "2025-02-25 18:09:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-02-25 18:06:10 +0000"
+    },
+    "done": true
+  },
   "moredelight:recipes/cooking/carrot_soup": {
     "criteria": {
       "has_any_ingredient": "2025-02-25 17:44:45 +0000"
@@ -6420,9 +6444,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-02-25 18:09:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-02-25 17:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-02-25 18:09:30 +0000"
     },
     "done": true
   },
