@@ -57,7 +57,9 @@
       "kbr": 1.0
     }
   },
-  "skins": {},
+  "skins": {
+    "aa16971f-3582-3732-8136-ec2b56b978b0": {}
+  },
   "player_scaling_settings": {},
   "scaling_settings": {
     "projectile_dmg": {},

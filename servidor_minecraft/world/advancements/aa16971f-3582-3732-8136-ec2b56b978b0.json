@@ -3922,27 +3922,9 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
-    "criteria": {
-      "has_item": "2025-02-24 20:28:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-02-24 20:22:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-02-24 19:43:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-02-24 20:22:07 +0000"
     },
     "done": true
   },
@@ -3964,18 +3946,6 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_black": {
-    "criteria": {
-      "has_black_wool": "2025-02-24 20:22:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-02-24 20:22:07 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_gray": {
     "criteria": {
       "has_gray_wool": "2025-02-24 19:43:21 +0000"
@@ -3988,15 +3958,51 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-02-24 19:52:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-24 20:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-24 20:22:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-02-24 20:22:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-24 20:22:07 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2025-02-24 20:22:07 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_vault": {
+  "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
-      "has_item": "2025-02-24 19:52:45 +0000"
+      "has_item": "2025-02-24 20:28:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-02-25 18:31:34 +0000"
     },
     "done": true
   },
