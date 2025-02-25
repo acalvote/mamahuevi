@@ -335,6 +335,7 @@
       "minecraft:windswept_hills": "2025-02-22 21:57:22 +0000",
       "minecraft:savanna_plateau": "2025-02-24 21:58:57 +0000",
       "minecraft:beach": "2025-02-24 22:07:25 +0000",
+      "minecraft:dark_forest": "2025-02-25 22:25:05 +0000",
       "minecraft:sparse_jungle": "2025-02-22 21:48:51 +0000",
       "minecraft:river": "2025-02-22 21:45:10 +0000",
       "minecraft:lukewarm_ocean": "2025-02-24 22:51:07 +0000",
@@ -6708,6 +6709,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/toxic_quiver": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-02-25 22:21:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
       "has_gray_wool": "2025-02-25 20:57:09 +0000"
@@ -6807,6 +6814,12 @@
   "fruitsdelight:recipes/food/hawberry_stick": {
     "criteria": {
       "has_hawberry": "2025-02-25 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-02-25 22:21:33 +0000"
     },
     "done": true
   },

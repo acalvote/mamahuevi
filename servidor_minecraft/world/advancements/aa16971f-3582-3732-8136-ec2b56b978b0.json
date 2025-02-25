@@ -4981,6 +4981,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2025-02-25 22:26:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-25 21:58:31 +0000"
