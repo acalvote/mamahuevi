@@ -4987,12 +4987,6 @@
     },
     "done": true
   },
-  "storagedelight:recipes/decorations/oak_cabinet_with_glass_doors": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-25 14:43:37 +0000"
@@ -5005,12 +4999,6 @@
     },
     "done": true
   },
-  "storagedelight:recipes/decorations/oak_drawer_with_door": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-25 14:43:37 +0000"
@@ -5020,12 +5008,6 @@
   "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-25 14:43:37 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/oak_single_door_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
     },
     "done": true
   },
@@ -5047,18 +5029,6 @@
     },
     "done": true
   },
-  "storagedelight:recipes/decorations/glass_oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-25 14:43:37 +0000"
@@ -5068,12 +5038,6 @@
   "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-25 14:43:37 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/oak_drawer_with_books": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
     },
     "done": true
   },
@@ -5089,12 +5053,6 @@
     },
     "done": true
   },
-  "storagedelight:recipes/decorations/oak_drawer": {
-    "criteria": {
-      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-25 14:43:37 +0000"
@@ -5104,6 +5062,48 @@
   "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-02-25 14:43:37 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/oak_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/oak_drawer_with_door": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/oak_single_door_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/glass_oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/oak_drawer_with_books": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/oak_drawer": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-02-25 14:43:47 +0000"
     },
     "done": true
   },
