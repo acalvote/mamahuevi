@@ -357,6 +357,7 @@
       "minecraft:flower_forest": "2025-02-24 20:13:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-02-22 22:57:21 +0000",
       "minecraft:deep_dark": "2025-02-25 19:06:17 +0000",
+      "minecraft:meadow": "2025-02-25 19:49:09 +0000",
       "minecraft:savanna": "2025-02-22 21:56:19 +0000",
       "minecraft:plains": "2025-02-22 21:48:32 +0000"
     },
@@ -4146,6 +4147,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-02-25 19:50:36 +0000"
+    },
+    "done": false
+  },
   "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-25 18:42:45 +0000"
@@ -4293,6 +4300,12 @@
   "create:recipes/building_blocks/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-02-25 18:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-02-25 19:49:03 +0000"
     },
     "done": true
   },
@@ -4599,6 +4612,12 @@
   "nethersdelight:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2025-02-25 19:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-02-25 19:50:36 +0000"
     },
     "done": true
   },
