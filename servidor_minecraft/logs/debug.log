@@ -17550,3 +17550,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 14:46:29.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [25Feb2025 14:51:29.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [25Feb2025 14:51:29.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[25Feb2025 14:56:29.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[25Feb2025 14:56:29.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[25Feb2025 15:01:29.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[25Feb2025 15:01:29.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
