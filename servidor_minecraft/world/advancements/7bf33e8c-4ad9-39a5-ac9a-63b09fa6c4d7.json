@@ -5107,5 +5107,17 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/frozen/obsidian": {
+    "criteria": {
+      "has_magma_block": "2025-02-25 17:50:13 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-02-25 17:57:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

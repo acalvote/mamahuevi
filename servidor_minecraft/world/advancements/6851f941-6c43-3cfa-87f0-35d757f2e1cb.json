@@ -6390,6 +6390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-25 17:55:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-02-25 17:44:45 +0000"
@@ -6402,6 +6408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-02-25 17:55:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-02-25 17:44:45 +0000"
@@ -6411,6 +6423,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-02-25 17:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-25 17:55:26 +0000"
     },
     "done": true
   },
