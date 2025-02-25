@@ -5597,15 +5597,58 @@
     },
     "done": true
   },
-  "veggiesdelight:main/sweet_potato_master": {
+  "storagedelight:recipes/decorations/glass_dark_oak_cabinet": {
     "criteria": {
-      "A": "2025-02-24 23:18:25 +0000"
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
     },
-    "done": false
+    "done": true
   },
-  "create:recipes/building_blocks/birch_window": {
+  "storagedelight:recipes/decorations/dark_oak_single_door_cabinet": {
     "criteria": {
-      "has_ingredient": "2025-02-24 22:54:42 +0000"
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_cabinet_with_glass_doors": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer_with_books": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "storagedelight:recipes/decorations/dark_oak_drawer_with_door": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-02-24 21:26:00 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-02-24 21:27:59 +0000",
+      "1": "2025-02-24 22:15:19 +0000"
     },
     "done": true
   },
@@ -5621,15 +5664,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+  "comforts:sleeping_bag_brown": {
     "criteria": {
-      "has_glass": "2025-02-24 22:14:37 +0000"
+      "has_brown_wool": "2025-02-24 21:33:40 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "comforts:hammock_brown": {
     "criteria": {
-      "has_planks": "2025-02-24 22:54:42 +0000"
+      "has_brown_wool": "2025-02-24 21:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-02-24 21:33:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-24 21:37:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-24 21:37:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-02-24 21:37:23 +0000"
     },
     "done": true
   },
@@ -5639,9 +5706,93 @@
     },
     "done": true
   },
-  "storagedelight:recipes/decorations/glass_dark_oak_cabinet": {
+  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
     "criteria": {
-      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+      "beef_patty": "2025-02-24 21:37:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty": {
+    "criteria": {
+      "beef_patty": "2025-02-24 21:37:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/beef_patty_from_smoking": {
+    "criteria": {
+      "beef_patty": "2025-02-24 21:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "farmersplus:recipes/cooking/lard_bucket": {
+    "criteria": {
+      "has_porkchop": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-24 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-02-24 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-02-24 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2025-02-24 21:37:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2025-02-24 21:37:29 +0000"
     },
     "done": true
   },
@@ -5651,27 +5802,27 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
+  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
     "criteria": {
-      "has_item": "2025-02-24 22:54:08 +0000"
+      "has_item": "2025-02-24 21:37:31 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/combat/silent_quiver": {
+  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
     "criteria": {
-      "has_feather": "2025-02-24 22:52:32 +0000"
+      "has_bone_meal": "2025-02-24 21:37:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
+  "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
-      "has_beetroot": "2025-02-24 21:37:50 +0000"
+      "has_bone_meal": "2025-02-24 21:37:31 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_stained_glass": {
+  "create:recipes/misc/crafting/tree_fertilizer": {
     "criteria": {
-      "has_glass": "2025-02-24 22:14:37 +0000"
+      "has_item": "2025-02-24 21:37:31 +0000"
     },
     "done": true
   },
@@ -5681,27 +5832,213 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_door": {
+  "moredelight:recipes/cooking/diced_potatoes_with_egg_and_tomato": {
     "criteria": {
-      "has_planks": "2025-02-24 22:54:42 +0000"
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+  "largemeals:recipes/cooking/red_soup": {
     "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-02-24 22:44:06 +0000"
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_fence": {
+  "farmersdelight:recipes/cooking/dumplings": {
     "criteria": {
-      "has_planks": "2025-02-24 22:54:42 +0000"
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty_from_campfire_cooking": {
+  "moredelight:recipes/cooking/diced_potatoes_with_porkchop": {
     "criteria": {
-      "beef_patty": "2025-02-24 21:37:24 +0000"
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/pasta_with_mushroom_sauce": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/hearty_lunch": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-24 21:37:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-02-24 21:37:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-02-24 21:37:50 +0000"
+    },
+    "done": true
+  },
+  "largemeals:recipes/cooking/cod_deluxe": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 21:37:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/onion": {
+    "criteria": {
+      "has_onion_crate": "2025-02-24 21:37:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/potato_from_crate": {
+    "criteria": {
+      "has_potato_crate": "2025-02-24 21:38:06 +0000"
+    },
+    "done": true
+  },
+  "veggiesdelight:main/fruit_veggie": {
+    "criteria": {
+      "fruit": "2025-02-24 21:38:12 +0000"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/misc/lemon_seeds": {
+    "criteria": {
+      "has_lemon": "2025-02-24 21:42:20 +0000"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/misc/lemon_crate": {
+    "criteria": {
+      "has_lemon": "2025-02-24 21:42:20 +0000"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/food/lemon_juice": {
+    "criteria": {
+      "has_lemon": "2025-02-24 21:42:20 +0000"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/food/lemon_cookie": {
+    "criteria": {
+      "has_lemon": "2025-02-24 21:42:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-24 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-24 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-24 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-02-24 21:51:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_gray": {
+    "criteria": {
+      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
+    },
+    "done": true
+  },
+  "vintagedelight:main/harvest_salt": {
+    "criteria": {
+      "harvest_salt": "2025-02-24 22:07:40 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/steak_sandwich": {
+    "criteria": {
+      "has_cooked_beef": "2025-02-24 22:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
     },
     "done": true
   },
@@ -5729,147 +6066,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/birch_sign": {
-    "criteria": {
-      "has_planks": "2025-02-24 22:54:42 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_brown": {
-    "criteria": {
-      "has_brown_wool": "2025-02-24 21:33:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-02-24 22:54:42 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/hotcream": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 23:07:10 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_brown": {
-    "criteria": {
-      "has_brown_wool": "2025-02-24 21:33:40 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/diced_potatoes_with_egg_and_tomato": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/bread": {
-    "criteria": {
-      "has_wheat": "2025-02-24 21:37:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_slab": {
-    "criteria": {
-      "has_planks": "2025-02-24 22:54:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/hay_block": {
-    "criteria": {
-      "has_wheat": "2025-02-24 21:37:29 +0000"
-    },
-    "done": true
-  },
-  "fruitsdelight:recipes/misc/lemon_seeds": {
-    "criteria": {
-      "has_lemon": "2025-02-24 21:42:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-24 21:51:42 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/dark_oak_single_door_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-02-24 22:54:42 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/dark_oak_cabinet_with_glass_doors": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
-    "criteria": {
-      "has_kelp": "2025-02-24 22:55:36 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/food/steak_sandwich": {
-    "criteria": {
-      "has_cooked_beef": "2025-02-24 22:12:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/appliances/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-02-24 21:37:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-24 22:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-02-24 23:07:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop": {
-    "criteria": {
-      "has_porkchop": "2025-02-24 21:37:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_bed": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/dark_oak_drawer_with_books": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
-    },
-    "done": true
-  },
-  "fruitsdelight:recipes/misc/lemon_crate": {
-    "criteria": {
-      "has_lemon": "2025-02-24 21:42:20 +0000"
-    },
-    "done": true
-  },
-  "largemeals:recipes/cooking/red_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
     },
     "done": true
   },
@@ -5879,147 +6078,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/beef_patty": {
-    "criteria": {
-      "beef_patty": "2025-02-24 21:37:24 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-02-24 21:37:50 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/building_blocks/letios_compost_from_bone_alt": {
-    "criteria": {
-      "has_bone_meal": "2025-02-24 21:37:31 +0000"
-    },
-    "done": true
-  },
-  "fruitsdelight:recipes/food/lemon_juice": {
-    "criteria": {
-      "has_lemon": "2025-02-24 21:42:20 +0000"
-    },
-    "done": true
-  },
-  "vintagedelight:main/harvest_salt": {
-    "criteria": {
-      "harvest_salt": "2025-02-24 22:07:40 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-02-24 21:37:23 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-02-24 22:14:37 +0000"
     },
     "done": true
   },
-  "farmersplus:recipes/cooking/lard_bucket": {
-    "criteria": {
-      "has_porkchop": "2025-02-24 21:37:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-24 22:14:37 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/cooking/diced_potatoes_with_porkchop": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-24 21:51:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-02-24 21:37:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-02-24 21:37:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_carpet": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/potato_from_crate": {
-    "criteria": {
-      "has_potato_crate": "2025-02-24 21:38:06 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-02-24 21:37:29 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/onion": {
-    "criteria": {
-      "has_onion_crate": "2025-02-24 21:37:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-02-24 21:37:31 +0000"
-    },
-    "done": true
-  },
-  "largemeals:recipes/cooking/cod_deluxe": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:50 +0000"
-    },
-    "done": true
-  },
-  "aquaculture:recipes/aquaculture/tackle_box": {
-    "criteria": {
-      "has_items": "2025-02-24 22:55:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-02-24 22:55:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/fish_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
-    },
-    "done": true
-  },
-  "largemeals:recipes/cooking/pasta_with_mushroom_sauce": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
     },
     "done": true
   },
@@ -6035,45 +6102,9 @@
     },
     "done": true
   },
-  "veggiesdelight:main/fruit_veggie": {
-    "criteria": {
-      "fruit": "2025-02-24 21:38:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-02-24 22:34:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-24 22:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-02-24 21:33:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-02-24 22:55:36 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_light_gray": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-02-24 21:37:29 +0000"
     },
     "done": true
   },
@@ -6083,100 +6114,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/cooked_mutton_chops": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-02-24 21:37:23 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/tree_fertilizer": {
-    "criteria": {
-      "has_item": "2025-02-24 21:37:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/dark_oak_cabinet": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
-    },
-    "done": true
-  },
-  "fruitsdelight:recipes/food/lemon_cookie": {
-    "criteria": {
-      "has_lemon": "2025-02-24 21:42:20 +0000"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2025-02-24 21:27:59 +0000",
-      "1": "2025-02-24 22:15:19 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-02-24 22:44:07 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2025-02-24 22:34:54 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-02-24 22:34:54 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2025-02-24 21:37:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-02-24 22:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-02-24 21:37:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/pumpkin_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/barbecue_stick": {
-    "criteria": {
-      "has_onion": "2025-02-24 21:37:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
-    "criteria": {
-      "cooked_mutton_chops": "2025-02-24 21:37:23 +0000"
     },
     "done": true
   },
@@ -6198,6 +6138,48 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2025-02-24 22:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-02-24 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-02-24 22:34:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-02-24 22:34:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2025-02-24 22:34:54 +0000"
@@ -6210,33 +6192,15 @@
     },
     "done": true
   },
-  "largemeals:recipes/cooking/hearty_lunch": {
+  "minecraft:recipes/decorations/cartography_table": {
     "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+      "has_paper": "2025-02-24 22:34:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/glass_bottle": {
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
-      "has_glass": "2025-02-24 22:14:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/beef_patty_from_smoking": {
-    "criteria": {
-      "beef_patty": "2025-02-24 21:37:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-24 21:51:42 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/dark_oak_drawer": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
+      "has_sentry_armor_trim_smithing_template": "2025-02-24 22:44:06 +0000"
     },
     "done": true
   },
@@ -6246,21 +6210,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
+  "minecraft:recipes/redstone/trapped_chest": {
     "criteria": {
-      "has_planks": "2025-02-24 22:54:42 +0000"
+      "has_tripwire_hook": "2025-02-24 22:44:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_stained_glass": {
+  "skilltree:recipes/combat/silent_quiver": {
     "criteria": {
-      "has_glass": "2025-02-24 22:14:37 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
-    "criteria": {
-      "has_item": "2025-02-24 21:26:00 +0000"
+      "has_feather": "2025-02-24 22:52:32 +0000"
     },
     "done": true
   },
@@ -6270,63 +6228,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_stained_glass": {
-    "criteria": {
-      "has_glass": "2025-02-24 22:14:37 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
-    },
-    "done": true
-  },
-  "storagedelight:recipes/decorations/dark_oak_drawer_with_door": {
-    "criteria": {
-      "has_dark_oak_trapdoor": "2025-02-24 21:23:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_gray_banner": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_light_gray": {
-    "criteria": {
-      "has_light_gray_wool": "2025-02-24 21:57:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-02-24 22:34:54 +0000"
-    },
-    "done": true
-  },
-  "farmersplus:recipes/building/kelp_block": {
-    "criteria": {
-      "has_kelp": "2025-02-24 22:55:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-02-24 21:51:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-02-24 22:52:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-02-24 22:54:42 +0000"
     },
     "done": true
   },
@@ -6336,29 +6240,125 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
-    "criteria": {
-      "has_onion": "2025-02-24 21:37:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-02-24 22:52:39 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
+  "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
-      "has_any_ingredient": "2025-02-24 21:37:46 +0000"
+      "has_item": "2025-02-24 22:54:08 +0000"
     },
     "done": true
   },
-  "create:recipes/building_blocks/tiled_glass_from_glass_colorless_stonecutting": {
+  "create:recipes/building_blocks/birch_window": {
     "criteria": {
-      "has_glass_colorless": "2025-02-24 22:14:37 +0000"
+      "has_ingredient": "2025-02-24 22:54:42 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-02-24 22:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-02-24 22:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-02-24 22:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2025-02-24 22:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-02-24 22:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2025-02-24 22:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-02-24 22:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-02-24 22:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-02-24 22:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-02-24 22:55:36 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2025-02-24 22:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-02-24 22:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-02-24 22:55:36 +0000"
+    },
+    "done": true
+  },
+  "farmersplus:recipes/building/kelp_block": {
+    "criteria": {
+      "has_kelp": "2025-02-24 22:55:36 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-24 23:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-02-24 23:07:10 +0000"
+    },
+    "done": true
+  },
+  "veggiesdelight:main/sweet_potato_master": {
+    "criteria": {
+      "A": "2025-02-24 23:18:25 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
