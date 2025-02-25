@@ -3483,3 +3483,52 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 19:36:34.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2280ms or 45 ticks behind
 [25Feb2025 19:36:52.497] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2657ms or 53 ticks behind
 [25Feb2025 19:37:09.980] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
+[25Feb2025 19:37:19.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dwaliin lost connection: Disconnected
+[25Feb2025 19:37:19.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin left the game
+[25Feb2025 19:37:19.420] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Feb2025 19:39:51.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> q haces
+[25Feb2025 19:40:07.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lesbian_unu> que no le va
+[25Feb2025 19:40:15.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> JAAJJ que pargela
+[25Feb2025 19:40:17.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> le robamos?
+[25Feb2025 19:40:30.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lesbian_unu> un beso
+[25Feb2025 19:41:54.324] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[25Feb2025 19:41:54.371] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[25Feb2025 19:41:54.418] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[25Feb2025 19:41:54.463] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[25Feb2025 19:41:54.510] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[25Feb2025 19:41:54.555] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[25Feb2025 19:41:54.600] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[25Feb2025 19:41:54.646] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[25Feb2025 19:41:54.694] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[25Feb2025 19:41:54.740] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[25Feb2025 19:41:54.787] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[25Feb2025 19:41:54.832] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[25Feb2025 19:41:55.661] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[25Feb2025 19:41:56.023] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[25Feb2025 19:41:56.123] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[25Feb2025 19:41:56.123] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[25Feb2025 19:41:56.131] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[25Feb2025 19:41:56.269] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[25Feb2025 19:41:59.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dwaliin[/127.201.246.21:60155] logged in with entity id 62706 at (-466.06233165649877, 100.5625, 539.144500002265)
+[25Feb2025 19:41:59.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin joined the game
+[25Feb2025 19:41:59.179] [Server thread/INFO] [Jade/]: Syncing config to Dwaliin (6851f941-6c43-3cfa-87f0-35d757f2e1cb)
+[25Feb2025 19:42:12.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Feb2025 19:42:16.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> n'
+[25Feb2025 19:42:18.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> n0
+[25Feb2025 19:42:29.934] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2844ms or 56 ticks behind
+[25Feb2025 19:42:48.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3743ms or 74 ticks behind
+[25Feb2025 19:43:06.364] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2774ms or 55 ticks behind
+[25Feb2025 19:43:23.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2174ms or 43 ticks behind
+[25Feb2025 19:43:40.933] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2443ms or 48 ticks behind
+[25Feb2025 19:43:58.218] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[25Feb2025 19:44:15.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2085ms or 41 ticks behind
+[25Feb2025 19:44:32.541] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Feb2025 19:44:51.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[25Feb2025 19:45:08.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[25Feb2025 19:45:25.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[25Feb2025 19:45:43.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[25Feb2025 19:46:00.623] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[25Feb2025 19:46:17.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
+[25Feb2025 19:46:35.043] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
+[25Feb2025 19:46:52.458] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2418ms or 48 ticks behind
+[25Feb2025 19:47:14.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
