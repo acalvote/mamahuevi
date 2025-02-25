@@ -3187,3 +3187,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 14:04:30.504] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:quality_equipment_chestplate] from power ResourceKey[apoli:configured_power / origins-classes:quality_equipment]
 [25Feb2025 14:04:30.505] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_less_material_cost] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
 [25Feb2025 14:04:30.505] [Server thread/INFO] [io.github.apace100.apoli.Apoli/]: Adding subpower ResourceKey[apoli:configured_power / origins-classes:efficient_repairs_more_combine_durability] from power ResourceKey[apoli:configured_power / origins-classes:efficient_repairs]
+[25Feb2025 14:14:22.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dwaliin lost connection: Disconnected
+[25Feb2025 14:14:22.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin left the game
+[25Feb2025 14:14:22.625] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
