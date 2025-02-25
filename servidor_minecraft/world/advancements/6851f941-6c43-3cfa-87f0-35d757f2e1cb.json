@@ -6420,6 +6420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-02-25 18:40:34 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/jungle_banister": {
     "criteria": {
       "has_item": "2025-02-25 18:06:10 +0000"
@@ -6429,6 +6435,12 @@
   "farmersdelight:recipes/cooking/hot_cocoa": {
     "criteria": {
       "has_any_ingredient": "2025-02-25 18:20:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-02-25 18:40:34 +0000"
     },
     "done": true
   },
