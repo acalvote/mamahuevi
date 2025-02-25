@@ -3190,3 +3190,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 14:14:22.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dwaliin lost connection: Disconnected
 [25Feb2025 14:14:22.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin left the game
 [25Feb2025 14:14:22.625] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25Feb2025 14:22:05.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 436.500000, 45.500000, 83.500000]
+[25Feb2025 14:22:28.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[25Feb2025 14:25:11.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[25Feb2025 14:25:21.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 414.500000, 93.500000, 115.500000]

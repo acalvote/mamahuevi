@@ -16526,3 +16526,60 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 14:16:29.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [25Feb2025 14:16:29.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [25Feb2025 14:20:47.777] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:21:13.128] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:21:29.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[25Feb2025 14:21:29.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[25Feb2025 14:21:31.479] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:21:32.128] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:21:32.879] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:22:05.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 436.500000, 45.500000, 83.500000]
+[25Feb2025 14:22:28.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[25Feb2025 14:25:11.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[25Feb2025 14:25:16.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_1
+[25Feb2025 14:25:16.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_leatherworker_1
+[25Feb2025 14:25:16.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/straight_05
+[25Feb2025 14:25:16.953] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_armorer_1
+[25Feb2025 14:25:16.954] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_cartographer_1
+[25Feb2025 14:25:16.957] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_8
+[25Feb2025 14:25:16.959] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_house_1
+[25Feb2025 14:25:21.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 414.500000, 93.500000, 115.500000]
+[25Feb2025 14:26:29.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[25Feb2025 14:26:29.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[25Feb2025 14:27:17.336] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:17.530] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:17.680] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:19.079] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:25.628] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:26.376] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:27.226] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:27.875] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:49.126] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:50.380] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:51.281] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:54.726] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:55.027] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:27:55.289] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:28:08.577] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:23.379] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:23.976] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:34.077] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:34.577] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:36.131] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:36.430] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:37.927] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:44.732] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:45.229] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:45.779] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:46.329] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:46.881] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:47.378] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:47.679] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:48.080] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:48.429] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:48.928] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:49.279] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:52.929] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:57.032] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:30:57.277] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:31:06.876] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[25Feb2025 14:31:09.125] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
