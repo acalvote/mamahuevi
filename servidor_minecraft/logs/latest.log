@@ -3873,3 +3873,45 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 21:39:32.978] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [25Feb2025 21:40:32.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune was slain by Lesbian_unu
 [25Feb2025 21:40:32.836] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-31, 250, 26) minecraft:overworld
+[25Feb2025 21:40:36.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to Lesbian_unu]
+[25Feb2025 21:40:39.869] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[25Feb2025 21:40:39.869] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 silver_ring
+[25Feb2025 21:40:39.869] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[25Feb2025 21:40:39.870] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[25Feb2025 21:40:39.870] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[25Feb2025 21:40:39.870] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[25Feb2025 21:40:39.870] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[25Feb2025 21:40:39.871] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[25Feb2025 21:40:39.871] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[25Feb2025 21:40:39.871] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[25Feb2025 21:40:39.871] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[25Feb2025 21:40:39.871] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[25Feb2025 21:40:39.872] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[25Feb2025 21:40:39.872] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[25Feb2025 21:40:39.873] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[25Feb2025 21:42:03.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lesbian_unu was shot by Kytsune
+[25Feb2025 21:42:03.619] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-31, 250, 25) minecraft:overworld
+[25Feb2025 21:42:25.233] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[25Feb2025 21:43:22.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lesbian_unu was smitten by Dwaliin
+[25Feb2025 21:43:22.471] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-35, 250, 9) minecraft:overworld
+[25Feb2025 21:43:33.532] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[25Feb2025 21:44:17.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lesbian_unu was smitten by Dwaliin
+[25Feb2025 21:44:17.461] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-26, 250, 18) minecraft:overworld
+[25Feb2025 21:44:27.987] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[25Feb2025 21:45:36.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin was slain by Kytsune
+[25Feb2025 21:45:36.035] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-64, 250, 47) minecraft:overworld
+[25Feb2025 21:46:01.584] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[25Feb2025 21:46:01.584] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[25Feb2025 21:46:01.584] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[25Feb2025 21:46:01.585] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[25Feb2025 21:46:17.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set 17 experience levels on Dwaliin]
+[25Feb2025 21:46:25.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set 28 experience levels on Kytsune]
+[25Feb2025 21:46:38.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set 1 experience levels on Lesbian_unu]
+[25Feb2025 21:47:03.092] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[25Feb2025 21:47:20.677] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2587ms or 51 ticks behind
+[25Feb2025 21:47:37.956] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2315ms or 46 ticks behind
+[25Feb2025 21:47:52.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set 8 experience levels on Lesbian_unu]
+[25Feb2025 21:47:55.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2485ms or 49 ticks behind
+[25Feb2025 21:48:13.108] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lesbian_unu lost connection: Disconnected
+[25Feb2025 21:48:13.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lesbian_unu left the game
+[25Feb2025 21:48:13.688] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3297ms or 65 ticks behind
