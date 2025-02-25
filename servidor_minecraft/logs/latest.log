@@ -3155,3 +3155,34 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [25Feb2025 16:04:39.479] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [25Feb2025 16:04:39.480] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [25Feb2025 16:04:53.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Gave 6 experience levels to Dwaliin]
+[25Feb2025 16:07:22.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[25Feb2025 16:07:47.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[25Feb2025 16:08:00.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[25Feb2025 16:10:18.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dwaliin lost connection: Disconnected
+[25Feb2025 16:10:18.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin left the game
+[25Feb2025 16:10:22.216] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[25Feb2025 16:10:22.261] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[25Feb2025 16:10:22.303] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[25Feb2025 16:10:22.354] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[25Feb2025 16:10:22.404] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[25Feb2025 16:10:22.456] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[25Feb2025 16:10:22.501] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[25Feb2025 16:10:22.552] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[25Feb2025 16:10:22.603] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[25Feb2025 16:10:22.650] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[25Feb2025 16:10:22.705] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[25Feb2025 16:10:22.756] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[25Feb2025 16:10:23.158] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[25Feb2025 16:10:23.325] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[25Feb2025 16:10:23.402] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[25Feb2025 16:10:23.402] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[25Feb2025 16:10:23.406] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[25Feb2025 16:10:23.490] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[25Feb2025 16:10:27.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dwaliin[/127.201.246.21:36901] logged in with entity id 1966 at (-470.2439447077015, 100.0, 544.5452277737038)
+[25Feb2025 16:10:27.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin joined the game
+[25Feb2025 16:10:27.245] [Server thread/INFO] [Jade/]: Syncing config to Dwaliin (6851f941-6c43-3cfa-87f0-35d757f2e1cb)
+[25Feb2025 16:15:05.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hi
+[25Feb2025 16:15:15.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[25Feb2025 16:15:15.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: scale<--[HERE]
+[25Feb2025 16:15:42.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: An entity is required to run this command here
+[25Feb2025 16:16:03.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: An entity is required to run this command here

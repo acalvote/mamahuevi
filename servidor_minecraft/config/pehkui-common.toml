@@ -12,7 +12,7 @@
 	scaledExplosions = true
 	keepAllScalesOnRespawn = true
 	accurateNetherPortals = true
-	scalesKeptOnRespawn = []
+	scalesKeptOnRespawn = true
 	enableCommands = true
 	enableDebugCommands = true
 
