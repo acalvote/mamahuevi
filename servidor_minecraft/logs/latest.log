@@ -3962,3 +3962,24 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Feb2025 21:14:55.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune lost connection: Disconnected
 [26Feb2025 21:14:55.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune left the game
 [26Feb2025 21:14:56.019] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Feb2025 21:29:08.489] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Feb2025 21:29:08.536] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Feb2025 21:29:08.586] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Feb2025 21:29:08.638] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Feb2025 21:29:08.687] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Feb2025 21:29:08.736] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Feb2025 21:29:08.785] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Feb2025 21:29:08.835] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Feb2025 21:29:08.886] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Feb2025 21:29:08.934] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Feb2025 21:29:08.984] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Feb2025 21:29:09.033] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Feb2025 21:29:09.603] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Feb2025 21:29:09.875] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Feb2025 21:29:10.008] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Feb2025 21:29:10.009] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Feb2025 21:29:10.040] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[26Feb2025 21:29:10.130] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[26Feb2025 21:29:13.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dwaliin[/127.201.246.21:39509] logged in with entity id 44405 at (-21.213026162461528, 255.0, -12.900852795642134)
+[26Feb2025 21:29:13.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin joined the game
+[26Feb2025 21:29:13.441] [Server thread/INFO] [Jade/]: Syncing config to Dwaliin (6851f941-6c43-3cfa-87f0-35d757f2e1cb)
