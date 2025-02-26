@@ -17126,3 +17126,156 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Feb2025 18:45:03.769] [Server thread/INFO] [Easy NPC/]: Opening menu ae944930-907d-4dc9-990a-dc3a04db5209 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-16.44, y=255.00, z=-21.93] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[Humanoid]}]
 [26Feb2025 18:45:04.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [26Feb2025 18:45:04.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[26Feb2025 18:45:57.211] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b50d7d57-6745-40cc-8b63-3cd82ef7c0ac]
+[26Feb2025 18:46:03.809] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b50d7d57-6745-40cc-8b63-3cd82ef7c0ac]
+[26Feb2025 18:46:09.165] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b50d7d57-6745-40cc-8b63-3cd82ef7c0ac]
+[26Feb2025 18:46:14.708] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b50d7d57-6745-40cc-8b63-3cd82ef7c0ac]
+[26Feb2025 18:46:19.305] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b50d7d57-6745-40cc-8b63-3cd82ef7c0ac]
+[26Feb2025 18:46:31.504] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:wisp 1: [b50d7d57-6745-40cc-8b63-3cd82ef7c0ac]
+[26Feb2025 18:47:09.306] [Server thread/INFO] [Easy NPC/]: Opening menu f9e1eec6-41fe-44a5-bc41-23125ca4bdef for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-16.55, y=255.00, z=-19.66] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:47:17.567] [Server thread/INFO] [Easy NPC/]: Opening menu 2cbbe33e-3c4d-4a6f-86f2-8b5934b76313 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-16.55, y=255.00, z=-19.66] with ConfigurationMenu.NONE_TRADING[translation{key='text.easy_npc.config.none_trading.title', args=[Humanoid]}]
+[26Feb2025 18:47:19.004] [Server thread/INFO] [Easy NPC/]: Opening menu 66c45349-9806-42c9-92c4-128070380784 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-16.55, y=255.00, z=-19.66] with AdvancedTradingConfigurationMenu[translation{key='text.easy_npc.config.advanced_trading.title', args=[Humanoid]}]
+[26Feb2025 18:47:20.160] [Server thread/INFO] [Easy NPC/]: Opening menu 4c7b7095-56b3-4e07-a206-d43e82a63db2 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-16.55, y=255.00, z=-19.66] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Humanoid]}]
+[26Feb2025 18:47:21.757] [Server thread/INFO] [Easy NPC/]: Opening menu 52d307ac-d756-4322-b43d-e338f0b6e6eb for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-16.55, y=255.00, z=-19.66] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:47:48.967] [Server thread/INFO] [Easy NPC/]: Opening menu 44bcf5b6-033f-43a7-ac91-c194ebf2620f for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-16.68, y=255.00, z=-19.54] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:47:50.715] [Server thread/INFO] [Easy NPC/]: Opening menu b61d3182-33fe-4b89-b03d-9ca5ea4e9f1e for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-16.68, y=255.00, z=-19.54] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:47:51.766] [Server thread/INFO] [Easy NPC/]: Opening menu 95d6975a-50e0-46ec-98af-1cef498d4aa7 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-16.68, y=255.00, z=-19.54] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[Humanoid]}]
+[26Feb2025 18:49:06.532] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:08.530] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:11.531] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:17.482] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:21.027] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:23.431] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:26.832] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:27.083] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:32.333] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:39.931] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:41.582] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:43.481] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:46.130] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:46.879] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:49.332] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:49.818] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:49.819] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:49:54.079] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:50:04.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[26Feb2025 18:50:04.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[26Feb2025 18:50:11.679] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:50:12.028] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:50:12.282] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:50:12.780] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:50:13.031] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:50:13.633] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:50:15.833] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:50:16.931] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:50:32.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Gave 1 [Barrier] to Kytsune]
+[26Feb2025 18:50:53.578] [Server thread/INFO] [Easy NPC/]: Opening menu 6d2032ae-20c0-4e70-b993-3a8cb5beebf3 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.51, y=255.00, z=-14.50] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:51:09.279] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:51:14.515] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:51:37.469] [Server thread/INFO] [Easy NPC/]: Opening menu fafdf121-b591-4833-8210-d4e87fd3926c for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-15.27] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:51:39.618] [Server thread/INFO] [Easy NPC/]: Opening menu af1d8851-33a2-4f98-9d8c-241c9d92ed74 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-15.27] with EquipmentConfigurationMenu[translation{key='text.easy_npc.config.equipment.title', args=[Humanoid]}]
+[26Feb2025 18:51:47.173] [Server thread/INFO] [Easy NPC/]: Opening menu 5166a133-5ef3-4a9d-8b5e-95edaeed5980 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.81, y=255.00, z=-14.58] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:51:48.364] [Server thread/INFO] [Easy NPC/]: Opening menu 904762b4-dbac-496c-b007-10986d903554 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.81, y=255.00, z=-14.58] with ConfigurationMenu.NONE_TRADING[translation{key='text.easy_npc.config.none_trading.title', args=[Humanoid]}]
+[26Feb2025 18:51:49.117] [Server thread/INFO] [Easy NPC/]: Opening menu a97b3146-54b7-4f86-92b8-797bad77dfe4 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.81, y=255.00, z=-14.58] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Humanoid]}]
+[26Feb2025 18:54:40.645] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:41.322] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:41.921] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:42.574] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:43.173] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:43.821] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:44.321] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:45.097] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:45.725] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:46.221] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:46.732] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:47.228] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:47.728] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:48.223] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:48.722] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:49.370] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:50.048] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:50.521] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:51.020] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:51.519] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:52.022] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:52.518] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:53.172] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:53.671] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:54.569] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:55.368] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:55.870] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:56.522] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:56.923] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:57.422] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:57.821] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:54:59.953] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:00.318] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:01.117] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:01.623] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:02.123] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:02.626] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:02.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to Dwaliin]
+[26Feb2025 18:55:04.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[26Feb2025 18:55:04.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[26Feb2025 18:55:17.662] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:18.312] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:18.962] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:22.864] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:23.466] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:23.864] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:24.365] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:24.918] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:25.417] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:25.918] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:26.418] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:26.918] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:27.569] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:28.369] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:28.770] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:29.422] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:29.821] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:30.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 0.500000, 252.500000, 0.500000]
+[26Feb2025 18:55:30.571] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:31.222] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:31.871] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:32.968] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:33.967] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:34.366] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:34.866] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:35.870] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:36.573] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:37.078] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:37.571] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:38.124] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:39.019] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:39.418] [Server thread/INFO] [Easy NPC/]: Opening menu 58ee8aee-8676-4815-ae54-4688962ff676 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.65, y=255.00, z=-14.82] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:55:39.820] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:40.272] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:40.667] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:41.075] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:41.738] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:42.128] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:42.521] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:42.971] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:43.394] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:43.772] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:44.420] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:44.818] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:45.321] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:45.972] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:46.382] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:46.874] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:47.268] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:47.670] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:48.074] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:48.869] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:49.270] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:49.822] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:50.372] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:50.770] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:51.879] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:52.571] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:53.122] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:53.521] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:53.923] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 18:55:56.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has made the advancement [Deep Extraction]
