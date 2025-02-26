@@ -5622,6 +5622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-02-26 21:06:02 +0000"
+    },
+    "done": true
+  },
   "moredelight:main/get_toast_with_egg": {
     "criteria": {
       "toast_with_egg": "2025-02-26 19:44:21 +0000"
@@ -5676,6 +5682,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-02-26 20:57:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-02-26 20:01:27 +0000"
@@ -5709,6 +5721,12 @@
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-02-26 18:50:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-02-26 21:07:15 +0000"
     },
     "done": true
   },
@@ -5847,6 +5865,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-02-26 20:06:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-02-26 21:07:15 +0000"
     },
     "done": true
   },
@@ -6141,6 +6165,12 @@
   "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
     "criteria": {
       "has_ingots_zinc": "2025-02-26 20:16:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-02-26 21:06:02 +0000"
     },
     "done": true
   },

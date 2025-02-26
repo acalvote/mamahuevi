@@ -3890,3 +3890,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Feb2025 20:58:51.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to Royce]
 [26Feb2025 20:58:58.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce lost connection: Timed out
 [26Feb2025 20:58:58.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce left the game
+[26Feb2025 20:59:10.567] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Feb2025 20:59:10.657] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Feb2025 20:59:10.657] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Feb2025 20:59:10.671] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Feb2025 20:59:10.728] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Feb2025 20:59:10.728] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Feb2025 20:59:10.789] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Feb2025 20:59:10.867] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Feb2025 20:59:10.868] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Feb2025 20:59:10.967] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Feb2025 20:59:11.036] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Feb2025 20:59:11.076] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Feb2025 20:59:16.190] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Feb2025 20:59:19.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 0.500000, 252.500000, 0.500000]
+[26Feb2025 20:59:22.900] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Feb2025 20:59:28.424] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Feb2025 20:59:28.424] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Feb2025 20:59:29.105] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[26Feb2025 20:59:32.531] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[26Feb2025 20:59:35.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Royce[/127.27.103.237:50993] logged in with entity id 38981 at (240.5, 70.875, -221.5)
+[26Feb2025 20:59:36.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce joined the game
+[26Feb2025 20:59:36.106] [Server thread/INFO] [Jade/]: Syncing config to Royce (9f678283-671d-30c0-83f7-b0c3851fccd5)
+[26Feb2025 20:59:57.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[26Feb2025 21:00:31.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to Royce]
+[26Feb2025 21:00:36.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set the weather to clear]
+[26Feb2025 21:02:09.624] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce lost connection: Disconnected
+[26Feb2025 21:02:09.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce left the game
+[26Feb2025 21:04:38.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 242.500000, 70.500000, 56.500000]
+[26Feb2025 21:07:06.828] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/4980, l='ServerLevel[Mundo nuevo]', x=84.05, y=64.00, z=-192.08, removed=DISCARDED]
+[26Feb2025 21:08:44.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin tried to swim in lava
+[26Feb2025 21:08:44.330] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-469, 100, 539) minecraft:overworld
+[26Feb2025 21:08:54.727] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Feb2025 21:08:54.728] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Feb2025 21:08:54.728] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Feb2025 21:08:54.728] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
