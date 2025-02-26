@@ -6895,5 +6895,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-02-26 19:38:34 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/cutting/ice_bow": {
+    "criteria": {
+      "has_bow": "2025-02-26 19:38:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

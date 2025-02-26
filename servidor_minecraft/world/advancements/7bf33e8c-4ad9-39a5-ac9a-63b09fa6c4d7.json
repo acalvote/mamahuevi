@@ -5586,15 +5586,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-02-26 19:39:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-02-26 19:11:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-02-26 19:39:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-02-26 18:50:00 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/get_toast_with_egg": {
+    "criteria": {
+      "toast_with_egg": "2025-02-26 19:44:21 +0000"
     },
     "done": true
   },
@@ -5622,6 +5640,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-02-26 19:39:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-02-26 19:11:14 +0000"
@@ -5640,9 +5664,21 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-02-26 19:39:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-26 18:50:00 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_brown": {
+    "criteria": {
+      "has_brown_wool": "2025-02-26 19:39:36 +0000"
     },
     "done": true
   },
@@ -5682,6 +5718,12 @@
     },
     "done": true
   },
+  "farmersplus:recipes/misc/sugar_cane_from_bale": {
+    "criteria": {
+      "has_sugar_cane_bale": "2025-02-26 19:44:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2025-02-26 18:27:02 +0000"
@@ -5691,6 +5733,12 @@
   "mynethersdelight:recipes/food/boiled_egg_from_campfire_cooking": {
     "criteria": {
       "boiled_egg": "2025-02-26 18:50:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-02-26 19:39:35 +0000"
     },
     "done": true
   },
@@ -5784,6 +5832,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-02-26 19:39:36 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/food/boiled_egg_cooking": {
     "criteria": {
       "boiled_egg": "2025-02-26 18:50:32 +0000"
@@ -5796,9 +5850,27 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_black": {
+    "criteria": {
+      "has_black_wool": "2025-02-26 19:39:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-02-26 18:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-02-26 19:39:35 +0000"
+    },
+    "done": true
+  },
+  "farmersplus:recipes/misc/apple_from_bag": {
+    "criteria": {
+      "has_apple_bag": "2025-02-26 19:44:35 +0000"
     },
     "done": true
   },
@@ -5817,6 +5889,18 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-26 19:08:09 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_black": {
+    "criteria": {
+      "has_black_wool": "2025-02-26 19:39:35 +0000"
+    },
+    "done": true
+  },
+  "farmersplus:recipes/misc/golden_carrot_from_crate": {
+    "criteria": {
+      "has_golden_carrot_crate": "2025-02-26 19:44:45 +0000"
     },
     "done": true
   },

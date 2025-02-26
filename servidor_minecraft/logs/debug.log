@@ -19049,3 +19049,844 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Feb2025 19:36:50.528] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [26Feb2025 19:36:51.020] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [26Feb2025 19:36:51.526] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:52.023] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:52.525] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:53.019] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:53.528] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:54.039] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:54.543] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:54.693] [Server thread/INFO] [Easy NPC/]: Opening menu f26347be-6f19-45f9-acfe-0df3a377d1d4 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.19] with EditorMenuHandler{editorType=ACTION_DATA, easyNPC=Humanoid['Willy'/3569, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-14.50], screenData=ScreenData[uuid=3676cb48-b2c4-4d40-9061-0956e1fcd2a4, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=null, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_DISTANCE_CLOSE:[{Type:"OPEN_DEFAULT_DIALOG"}],ON_INTERACTION:[{Type:"OPEN_TRADING_SCREEN"},{Type:"OPEN_DEFAULT_DIALOG"}]}},ActionEventType:"ON_DISTANCE_CLOSE",ConfigurationType:"DISTANCE_ACTION",DialogData:{Default:"default",DialogDataSet:[{Buttons:[],Label:"default",Name:"Basic Dialog",Texts:[{Text:"Hola @initiator ! Soy @npc y este es el mercado, estamos abiertos cuando quieras!"}]}],Type:"BASIC"},EditorType:"NONE"}]}
+[26Feb2025 19:36:55.025] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:55.483] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:56.019] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:56.524] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:56.670] [Server thread/INFO] [Easy NPC/]: Opening menu 34726d0e-d7e8-4f60-9bd4-30b9be2a8eac for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.19] with EditorMenuHandler{editorType=ACTION_DATA, easyNPC=Humanoid['Willy'/3569, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-14.50], screenData=ScreenData[uuid=3676cb48-b2c4-4d40-9061-0956e1fcd2a4, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=null, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_DISTANCE_CLOSE:[],ON_INTERACTION:[{Type:"OPEN_TRADING_SCREEN"},{Type:"OPEN_DEFAULT_DIALOG"}]}},ActionEventType:"ON_DISTANCE_CLOSE",ConfigurationType:"DISTANCE_ACTION",DialogData:{Default:"default",DialogDataSet:[{Buttons:[],Label:"default",Name:"Basic Dialog",Texts:[{Text:"Hola @initiator ! Soy @npc y este es el mercado, estamos abiertos cuando quieras!"}]}],Type:"BASIC"},EditorType:"NONE"}]}
+[26Feb2025 19:36:57.023] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:57.524] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:58.073] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:58.570] [Server thread/INFO] [Easy NPC/]: Opening menu 4710c224-dfa0-42e5-af84-e9afe4d020ed for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.19] with ConfigurationMenu.DISTANCE_ACTION[translation{key='text.easy_npc.config.distance_action.title', args=[Willy]}]
+[26Feb2025 19:36:58.870] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:59.371] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:36:59.524] [Server thread/INFO] [Easy NPC/]: Opening menu 1dd6a21b-3c31-431a-b197-a5fceb6d3498 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.19] with EditorMenuHandler{editorType=ACTION_DATA_ENTRY, easyNPC=Humanoid['Willy'/3569, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-14.50], screenData=ScreenData[uuid=3676cb48-b2c4-4d40-9061-0956e1fcd2a4, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=d2a08f49-d3dc-35c4-9afe-804f58ef7eff, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_DISTANCE_CLOSE:[],ON_INTERACTION:[{Type:"OPEN_TRADING_SCREEN"},{Type:"OPEN_DEFAULT_DIALOG"}]}},ActionEventType:"ON_DISTANCE_VERY_CLOSE",ConfigurationType:"DISTANCE_ACTION",DialogData:{Default:"default",DialogDataSet:[{Buttons:[],Label:"default",Name:"Basic Dialog",Texts:[{Text:"Hola @initiator ! Soy @npc y este es el mercado, estamos abiertos cuando quieras!"}]}],Type:"BASIC"},EditorType:"NONE"}]}
+[26Feb2025 19:36:59.888] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:00.371] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:01.020] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:01.583] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:02.084] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:02.583] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:03.324] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:03.670] [Server thread/INFO] [Easy NPC/]: Opening menu 1523ea7c-7567-4dcf-9655-75c496043c14 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.19] with EditorMenuHandler{editorType=ACTION_DATA, easyNPC=Humanoid['Willy'/3569, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-14.50], screenData=ScreenData[uuid=3676cb48-b2c4-4d40-9061-0956e1fcd2a4, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=null, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_DISTANCE_CLOSE:[],ON_DISTANCE_VERY_CLOSE:[{Type:"OPEN_DEFAULT_DIALOG"}],ON_INTERACTION:[{Type:"OPEN_TRADING_SCREEN"},{Type:"OPEN_DEFAULT_DIALOG"}]}},ActionEventType:"ON_DISTANCE_VERY_CLOSE",ConfigurationType:"DISTANCE_ACTION",DialogData:{Default:"default",DialogDataSet:[{Buttons:[],Label:"default",Name:"Basic Dialog",Texts:[{Text:"Hola @initiator ! Soy @npc y este es el mercado, estamos abiertos cuando quieras!"}]}],Type:"BASIC"},EditorType:"NONE"}]}
+[26Feb2025 19:37:03.724] [Server thread/INFO] [Easy NPC/]: Opening menu b2652ed8-9375-4c94-827d-6cc69cde4979 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.19] with DialogMenuHandler{displayName=literal{Willy}[style={color=#FFFF00}]}
+[26Feb2025 19:37:03.984] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:04.584] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:05.084] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:05.619] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:06.085] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:06.621] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:07.275] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:07.840] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:08.370] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:08.875] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:09.771] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:10.670] [Server thread/INFO] [Easy NPC/]: Opening menu 966af6ad-973b-44d0-b704-b7a1f5634ca0 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.34, y=255.00, z=-14.38] with DialogMenuHandler{displayName=literal{Willy}[style={color=#FFFF00}]}
+[26Feb2025 19:37:11.122] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:11.625] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:12.123] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:12.722] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:13.221] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:13.324] [Server thread/INFO] [Easy NPC/]: Opening menu d09a10d7-7851-42b3-81ea-7fd28e5a757e for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Willy]}]
+[26Feb2025 19:37:13.878] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:14.374] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:14.668] [Server thread/INFO] [Easy NPC/]: Opening menu 15a2b864-324e-4a98-8cf1-49231bc0d58e for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.BASIC_ACTION[translation{key='text.easy_npc.config.basic_action.title', args=[Willy]}]
+[26Feb2025 19:37:14.874] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:15.371] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:15.669] [Server thread/INFO] [Easy NPC/]: Opening menu d362db80-6a1b-4b3f-8d3d-a50632a835a0 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.DISTANCE_ACTION[translation{key='text.easy_npc.config.distance_action.title', args=[Willy]}]
+[26Feb2025 19:37:16.071] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:16.672] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:17.169] [Server thread/INFO] [Easy NPC/]: Opening menu b758d7ba-98d5-42e1-81a2-7da74820cce9 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with EditorMenuHandler{editorType=ACTION_DATA, easyNPC=Humanoid['Willy'/3569, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-14.50], screenData=ScreenData[uuid=3676cb48-b2c4-4d40-9061-0956e1fcd2a4, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=null, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_DISTANCE_CLOSE:[],ON_DISTANCE_VERY_CLOSE:[{Type:"OPEN_DEFAULT_DIALOG"}],ON_INTERACTION:[{Type:"OPEN_TRADING_SCREEN"},{Type:"OPEN_DEFAULT_DIALOG"}]}},ActionEventType:"ON_DISTANCE_VERY_CLOSE",ConfigurationType:"DISTANCE_ACTION",DialogData:{Default:"default",DialogDataSet:[{Buttons:[],Label:"default",Name:"Basic Dialog",Texts:[{Text:"Hola @initiator ! Soy @npc y este es el mercado, estamos abiertos cuando quieras!"}]}],Type:"BASIC"},EditorType:"NONE"}]}
+[26Feb2025 19:37:17.170] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:17.670] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:18.172] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:18.677] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:18.773] [Server thread/INFO] [Easy NPC/]: Opening menu de8ec2cc-1501-4ff0-9618-ff1bb223203f for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with EditorMenuHandler{editorType=ACTION_DATA, easyNPC=Humanoid['Willy'/3569, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-14.50], screenData=ScreenData[uuid=3676cb48-b2c4-4d40-9061-0956e1fcd2a4, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=null, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_DISTANCE_CLOSE:[],ON_DISTANCE_VERY_CLOSE:[],ON_INTERACTION:[{Type:"OPEN_TRADING_SCREEN"},{Type:"OPEN_DEFAULT_DIALOG"}]}},ActionEventType:"ON_DISTANCE_VERY_CLOSE",ConfigurationType:"DISTANCE_ACTION",DialogData:{Default:"default",DialogDataSet:[{Buttons:[],Label:"default",Name:"Basic Dialog",Texts:[{Text:"Hola @initiator ! Soy @npc y este es el mercado, estamos abiertos cuando quieras!"}]}],Type:"BASIC"},EditorType:"NONE"}]}
+[26Feb2025 19:37:19.271] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:19.776] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:20.271] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:20.769] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:21.128] [Server thread/INFO] [Easy NPC/]: Opening menu d6ed2382-a364-46ff-9813-a0df0d98c761 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.DISTANCE_ACTION[translation{key='text.easy_npc.config.distance_action.title', args=[Willy]}]
+[26Feb2025 19:37:21.271] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/fd_farm
+[26Feb2025 19:37:21.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/house/house_3
+[26Feb2025 19:37:21.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/house/house_1
+[26Feb2025 19:37:21.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/cartographer
+[26Feb2025 19:37:21.299] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/priest_tower
+[26Feb2025 19:37:21.301] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/villager/jungle
+[26Feb2025 19:37:21.308] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/house/house_2
+[26Feb2025 19:37:21.313] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/fishmonger
+[26Feb2025 19:37:21.316] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/smith
+[26Feb2025 19:37:21.414] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/farm
+[26Feb2025 19:37:21.418] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/library
+[26Feb2025 19:37:21.457] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:21.923] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:22.035] [Server thread/INFO] [Easy NPC/]: Opening menu c43c0482-b8df-4975-9a1f-e1e4245f7e7d for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.BASIC_ACTION[translation{key='text.easy_npc.config.basic_action.title', args=[Willy]}]
+[26Feb2025 19:37:22.520] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:23.021] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:23.632] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:23.672] [Server thread/INFO] [Easy NPC/]: Opening menu da7e6ac2-afe4-4a9d-b126-640ca5811cf2 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Willy]}]
+[26Feb2025 19:37:24.132] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:24.834] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:25.482] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:26.035] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:27.285] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:28.369] [Server thread/INFO] [Easy NPC/]: Opening menu 0bf4ec4d-f6f4-45a1-ad0c-45b17ecae68f for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.BASIC_ACTION[translation{key='text.easy_npc.config.basic_action.title', args=[Willy]}]
+[26Feb2025 19:37:28.774] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:30.025] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:30.528] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:31.023] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:31.521] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:31.522] [Server thread/INFO] [Easy NPC/]: Opening menu 2e74b33d-d5ca-4795-9edb-2839eb5d433b for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with EditorMenuHandler{editorType=ACTION_DATA_ENTRY, easyNPC=Humanoid['Willy'/3569, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-14.50], screenData=ScreenData[uuid=3676cb48-b2c4-4d40-9061-0956e1fcd2a4, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=d2a08f49-d3dc-35c4-9afe-804f58ef7eff, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_DISTANCE_CLOSE:[],ON_DISTANCE_VERY_CLOSE:[],ON_INTERACTION:[{Type:"OPEN_TRADING_SCREEN"},{Type:"OPEN_DEFAULT_DIALOG"}]}},ActionEventType:"ON_HURT",ConfigurationType:"BASIC_ACTION",DialogData:{Default:"default",DialogDataSet:[{Buttons:[],Label:"default",Name:"Basic Dialog",Texts:[{Text:"Hola @initiator ! Soy @npc y este es el mercado, estamos abiertos cuando quieras!"}]}],Type:"BASIC"},EditorType:"NONE"}]}
+[26Feb2025 19:37:33.121] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:34.369] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:35.670] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:35.971] [Server thread/INFO] [Easy NPC/]: Opening menu bd4ac80c-d0d9-4c26-9c9d-668c30486ace for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Willy]}]
+[26Feb2025 19:37:36.922] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:38.271] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:40.819] [Server thread/INFO] [Easy NPC/]: Opening menu e5400694-e6bf-4fca-9e70-c431bc8335f5 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.ABILITIES_ATTRIBUTE[translation{key='text.easy_npc.config.abilities_attribute.title', args=[Willy]}]
+[26Feb2025 19:37:41.375] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:41.873] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:43.173] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:43.673] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:44.980] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:45.473] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:46.084] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:46.585] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:47.123] [Server thread/INFO] [Easy NPC/]: Opening menu 388fdf86-3626-4c58-9967-3de444d1c9c3 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Willy]}]
+[26Feb2025 19:37:47.134] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:49.726] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:50.422] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:51.123] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:51.834] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:52.971] [Server thread/INFO] [Easy NPC/]: Opening menu 298db2ad-c106-4709-809c-c2ddd6676f56 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.BASIC_ACTION[translation{key='text.easy_npc.config.basic_action.title', args=[Willy]}]
+[26Feb2025 19:37:53.723] [Server thread/INFO] [Easy NPC/]: Opening menu 0a809dfb-c625-4564-aaaa-2a49fb4293c6 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with EditorMenuHandler{editorType=ACTION_DATA_ENTRY, easyNPC=Humanoid['Willy'/3569, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-14.50], screenData=ScreenData[uuid=3676cb48-b2c4-4d40-9061-0956e1fcd2a4, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=d2a08f49-d3dc-35c4-9afe-804f58ef7eff, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_DISTANCE_CLOSE:[],ON_DISTANCE_VERY_CLOSE:[],ON_INTERACTION:[{Type:"OPEN_TRADING_SCREEN"},{Type:"OPEN_DEFAULT_DIALOG"}]}},ActionEventType:"ON_HURT",ConfigurationType:"BASIC_ACTION",DialogData:{Default:"default",DialogDataSet:[{Buttons:[],Label:"default",Name:"Basic Dialog",Texts:[{Text:"Hola @initiator ! Soy @npc y este es el mercado, estamos abiertos cuando quieras!"}]}],Type:"BASIC"},EditorType:"NONE"}]}
+[26Feb2025 19:37:53.773] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:54.471] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:55.173] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:55.872] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:56.570] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:57.278] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:37:57.326] [Server thread/INFO] [Easy NPC/]: Opening menu d4bf9358-cdd8-452d-8108-f07f893ae01b for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with EditorMenuHandler{editorType=ACTION_DATA, easyNPC=Humanoid['Willy'/3569, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-14.50], screenData=ScreenData[uuid=3676cb48-b2c4-4d40-9061-0956e1fcd2a4, dialogId=00000000-0000-0000-0000-000000000000, dialogButtonId=00000000-0000-0000-0000-000000000000, actionDataEntryId=null, pageIndex=0, additionalData={ActionEventData:{ActionEventSet:{ON_DISTANCE_CLOSE:[],ON_DISTANCE_VERY_CLOSE:[],ON_HURT:[{Type:"OPEN_DEFAULT_DIALOG"}],ON_INTERACTION:[{Type:"OPEN_TRADING_SCREEN"},{Type:"OPEN_DEFAULT_DIALOG"}]}},ActionEventType:"ON_HURT",ConfigurationType:"BASIC_ACTION",DialogData:{Default:"default",DialogDataSet:[{Buttons:[],Label:"default",Name:"Basic Dialog",Texts:[{Text:"Hola @initiator ! Soy @npc y este es el mercado, estamos abiertos cuando quieras!"}]}],Type:"BASIC"},EditorType:"NONE"}]}
+[26Feb2025 19:37:58.621] [Server thread/INFO] [Easy NPC/]: Opening menu a8a2ad13-449f-40e6-82a9-8435d1abe539 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.BASIC_ACTION[translation{key='text.easy_npc.config.basic_action.title', args=[Willy]}]
+[26Feb2025 19:37:59.272] [Server thread/INFO] [Easy NPC/]: Opening menu 7f744d89-4859-4715-80d7-bb1a4fbe0425 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.DISTANCE_ACTION[translation{key='text.easy_npc.config.distance_action.title', args=[Willy]}]
+[26Feb2025 19:38:00.330] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:01.131] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:01.887] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:02.584] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:03.478] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:04.188] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:04.329] [Server thread/INFO] [Easy NPC/]: Opening menu f126ddfa-4016-427f-b01f-030aa2578f7a for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Willy]}]
+[26Feb2025 19:38:04.880] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:05.584] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:06.469] [Server thread/INFO] [Easy NPC/]: Opening menu 9d74e49d-5931-47c0-b651-0a272cbe1c09 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39] with ConfigurationMenu.ABILITIES_ATTRIBUTE[translation{key='text.easy_npc.config.abilities_attribute.title', args=[Willy]}]
+[26Feb2025 19:38:08.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Humanoid['Willy'/3569, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-14.50] died: Willy was killed
+[26Feb2025 19:38:09.470] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:10.923] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.074] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.074] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.074] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.074] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.074] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.074] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.075] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.075] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.122] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.122] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.122] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.520] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.521] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.521] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.521] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.521] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.521] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.521] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.521] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.522] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.522] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.522] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.522] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.522] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.522] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.522] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.522] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:11.522] [Server thread/ERROR] [Easy NPC/]: Unable to get valid entity with UUID 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 for ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.39]
+[26Feb2025 19:38:35.875] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:37.471] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:38.173] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:39.172] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:40.075] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:40.777] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:40.942] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/16751, l='ServerLevel[Mundo nuevo]', x=0.00, y=0.00, z=0.00] ...
+[26Feb2025 19:38:40.942] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/16751, l='ServerLevel[Mundo nuevo]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[26Feb2025 19:38:40.943] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/16751, l='ServerLevel[Mundo nuevo]', x=-9.50, y=255.00, z=-14.50] ...
+[26Feb2025 19:38:40.943] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/16751, l='ServerLevel[Mundo nuevo]', x=-9.50, y=255.00, z=-14.50] ...
+[26Feb2025 19:38:41.723] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:43.226] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:44.173] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:44.678] [Server thread/INFO] [Easy NPC/]: Opening menu b22d6b3a-7b5c-478b-9bb6-dd2d37212d57 for npc eb7b2e7a-179a-43dc-a866-4266b7c5241e and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-10.70, y=255.00, z=-14.54] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 19:38:45.073] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:46.020] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:46.332] [Server thread/INFO] [Easy NPC/]: Opening menu f9ce3e1a-c43c-4263-ab2f-29e9168118ab for npc eb7b2e7a-179a-43dc-a866-4266b7c5241e and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-10.70, y=255.00, z=-14.54] with ConfigurationMenu.DEFAULT_PRESET_IMPORT[translation{key='text.easy_npc.config.default_preset_import.title', args=[Humanoid]}]
+[26Feb2025 19:38:46.924] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:38:48.123] [Server thread/INFO] [Easy NPC/]: Opening menu 9ec77b66-967b-4ced-8cfe-81e493c40bd2 for npc eb7b2e7a-179a-43dc-a866-4266b7c5241e and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-10.70, y=255.00, z=-14.54] with ConfigurationMenu.LOCAL_PRESET_IMPORT[translation{key='text.easy_npc.config.local_preset_import.title', args=[Humanoid]}]
+[26Feb2025 19:38:50.276] [Server thread/INFO] [Easy NPC/]: Easy NPC Data version 3 for Humanoid['Willy'/16751, l='ServerLevel[Mundo nuevo]', x=-9.50, y=255.00, z=-14.50].
+[26Feb2025 19:38:50.277] [Server thread/INFO] [Easy NPC/]: Loading trading offers [net.minecraft.world.item.trading.MerchantOffer@2de632cb, net.minecraft.world.item.trading.MerchantOffer@4396d45e, net.minecraft.world.item.trading.MerchantOffer@30f79526, net.minecraft.world.item.trading.MerchantOffer@13d94d2d, net.minecraft.world.item.trading.MerchantOffer@f3545f7, net.minecraft.world.item.trading.MerchantOffer@7a74546b, net.minecraft.world.item.trading.MerchantOffer@7626a0a6, net.minecraft.world.item.trading.MerchantOffer@2fcf3b6a, net.minecraft.world.item.trading.MerchantOffer@a70d999] for Humanoid['Willy'/16751, l='ServerLevel[Mundo nuevo]', x=-9.50, y=255.00, z=-14.50]
+[26Feb2025 19:38:53.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[26Feb2025 19:38:53.722] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[26Feb2025 19:38:53.726] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[26Feb2025 19:38:53.730] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[26Feb2025 19:38:53.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[26Feb2025 19:38:53.731] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/jail_cell
+[26Feb2025 19:38:53.732] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_turn
+[26Feb2025 19:38:53.733] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/dual_storage
+[26Feb2025 19:38:53.734] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[26Feb2025 19:38:53.867] [Worker-Main-93/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[26Feb2025 19:38:53.868] [Worker-Main-93/DEBUG] [mixin/]: Mixing addlock.WorldGenRegionMixin from locks.mixins.json into net.minecraft.server.level.WorldGenRegion
+[26Feb2025 19:38:54.436] [Server thread/INFO] [Easy NPC/]: Opening menu 4675157f-3077-40a6-aa13-cbdb2b1c9096 for npc eb7b2e7a-179a-43dc-a866-4266b7c5241e and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-10.70, y=255.00, z=-14.54] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Willy]}]
+[26Feb2025 19:39:03.082] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:03.823] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:04.722] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:05.620] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:06.528] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:08.430] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:11.125] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:11.472] [Server thread/INFO] [Easy NPC/]: Opening menu 5c08067d-e569-4a5a-8424-09e44efe5500 for npc eb7b2e7a-179a-43dc-a866-4266b7c5241e and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-14.33] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Willy]}]
+[26Feb2025 19:39:16.420] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:17.221] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:18.221] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:18.920] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:19.723] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:45.426] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:46.474] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:47.975] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:48.078] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:48.673] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:48.980] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:49.381] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:51.426] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:54.970] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:55.872] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:56.429] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:56.870] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:57.975] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:58.584] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:58.978] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:39:59.777] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:01.733] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:02.122] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:03.220] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:03.720] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:04.222] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:04.226] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:04.812] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[26Feb2025 19:40:04.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[26Feb2025 19:40:06.671] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:09.726] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:17.080] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:17.279] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:18.221] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:19.122] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:20.134] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:21.035] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:23.577] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:33.129] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:45.928] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:47.831] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:49.028] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:40:50.528] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:41:13.532] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/17230, l='ServerLevel[Mundo nuevo]', x=0.00, y=0.00, z=0.00] ...
+[26Feb2025 19:41:13.532] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/17230, l='ServerLevel[Mundo nuevo]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[26Feb2025 19:41:13.533] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/17230, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-22.50] ...
+[26Feb2025 19:41:13.533] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/17230, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-22.50] ...
+[26Feb2025 19:41:16.619] [Server thread/INFO] [Easy NPC/]: Opening menu 395625a6-3bd2-4744-b342-ce6efed5ec32 for npc 433976b7-ca0a-4238-b0e3-870332a14281 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-10.82, y=255.00, z=-23.70] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 19:41:17.826] [Server thread/INFO] [Easy NPC/]: Opening menu 14526c80-8cdc-43d4-86c2-0f7091f3cb9f for npc 433976b7-ca0a-4238-b0e3-870332a14281 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-10.82, y=255.00, z=-23.70] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Humanoid]}]
+[26Feb2025 19:41:19.029] [Server thread/INFO] [Easy NPC/]: Opening menu f34c12e6-f338-4a9b-87c7-89a9d00d945c for npc 433976b7-ca0a-4238-b0e3-870332a14281 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-10.82, y=255.00, z=-23.70] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[Humanoid]}]
+[26Feb2025 19:41:26.868] [Server thread/INFO] [Easy NPC/]: Opening menu d4dcc641-9180-4a7e-9302-52f2a8730a8c for npc 433976b7-ca0a-4238-b0e3-870332a14281 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-10.82, y=255.00, z=-23.70] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Humanoid]}]
+[26Feb2025 19:41:52.194] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[26Feb2025 19:41:52.199] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[26Feb2025 19:41:52.202] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[26Feb2025 19:41:52.203] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[26Feb2025 19:41:52.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[26Feb2025 19:41:52.204] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_1
+[26Feb2025 19:41:52.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[26Feb2025 19:41:52.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[26Feb2025 19:41:52.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[26Feb2025 19:41:52.205] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[26Feb2025 19:41:52.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[26Feb2025 19:41:52.206] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[26Feb2025 19:41:52.340] [Server thread/INFO] [Easy NPC/]: Opening menu 1ae3fb1f-71fb-4f65-a65f-c01b50f1a416 for npc 433976b7-ca0a-4238-b0e3-870332a14281 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-10.82, y=255.00, z=-23.70] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[Humanoid]}]
+[26Feb2025 19:42:17.027] [Server thread/INFO] [Easy NPC/]: Opening menu ad665fac-74f5-4055-9e10-91ada99da8b9 for npc 433976b7-ca0a-4238-b0e3-870332a14281 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.74, y=255.00, z=-20.54] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 19:42:51.770] [Server thread/INFO] [Easy NPC/]: Opening menu 16babd91-6276-4604-868c-3ce81dab07ad for npc 433976b7-ca0a-4238-b0e3-870332a14281 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-21.14] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 19:43:17.729] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:43:23.624] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 95 messages to dispatch.
+[26Feb2025 19:43:23.667] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_bientity_action-0' to 'calio:channel' sequence 0
+[26Feb2025 19:43:23.716] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_bientity_condition-0' to 'calio:channel' sequence 1
+[26Feb2025 19:43:23.748] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 0
+[26Feb2025 19:43:23.748] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:23.748] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Feb2025 19:43:23.771] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_biome_condition-0' to 'calio:channel' sequence 2
+[26Feb2025 19:43:23.796] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 1
+[26Feb2025 19:43:23.796] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:23.796] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Feb2025 19:43:23.821] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_block_action-0' to 'calio:channel' sequence 3
+[26Feb2025 19:43:23.843] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 2
+[26Feb2025 19:43:23.843] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:23.843] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Feb2025 19:43:23.868] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_block_condition-0' to 'calio:channel' sequence 4
+[26Feb2025 19:43:23.891] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 3
+[26Feb2025 19:43:23.891] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:23.891] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Feb2025 19:43:23.917] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_damage_condition-0' to 'calio:channel' sequence 5
+[26Feb2025 19:43:23.938] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 4
+[26Feb2025 19:43:23.938] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:23.938] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Feb2025 19:43:23.967] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_entity_action-0' to 'calio:channel' sequence 6
+[26Feb2025 19:43:23.986] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 5
+[26Feb2025 19:43:23.986] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:23.986] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Feb2025 19:43:24.017] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_entity_condition-0' to 'calio:channel' sequence 7
+[26Feb2025 19:43:24.033] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 6
+[26Feb2025 19:43:24.033] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:24.033] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Feb2025 19:43:24.070] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_fluid_condition-0' to 'calio:channel' sequence 8
+[26Feb2025 19:43:24.079] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 7
+[26Feb2025 19:43:24.079] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:24.079] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Feb2025 19:43:24.127] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 8
+[26Feb2025 19:43:24.127] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:24.127] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Feb2025 19:43:24.127] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_item_action-0' to 'calio:channel' sequence 9
+[26Feb2025 19:43:24.171] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_item_condition-0' to 'calio:channel' sequence 10
+[26Feb2025 19:43:24.174] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 9
+[26Feb2025 19:43:24.174] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:24.174] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Feb2025 19:43:24.217] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_modifier-0' to 'calio:channel' sequence 11
+[26Feb2025 19:43:24.221] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 10
+[26Feb2025 19:43:24.221] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:24.221] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Feb2025 19:43:24.268] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 11
+[26Feb2025 19:43:24.268] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:24.268] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Feb2025 19:43:24.268] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_power-0' to 'calio:channel' sequence 12
+[26Feb2025 19:43:24.315] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_power-1' to 'calio:channel' sequence 13
+[26Feb2025 19:43:24.366] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_power-2' to 'calio:channel' sequence 14
+[26Feb2025 19:43:24.426] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:global_power_set-0' to 'calio:channel' sequence 15
+[26Feb2025 19:43:24.468] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-origins:layers-0' to 'calio:channel' sequence 16
+[26Feb2025 19:43:24.516] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-origins:origins-0' to 'calio:channel' sequence 17
+[26Feb2025 19:43:24.565] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 18
+[26Feb2025 19:43:24.617] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 19
+[26Feb2025 19:43:24.667] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 20
+[26Feb2025 19:43:24.718] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 21
+[26Feb2025 19:43:24.769] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 22
+[26Feb2025 19:43:24.818] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry origins:badge_factory' to 'fml:handshake' sequence 23
+[26Feb2025 19:43:24.867] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 24
+[26Feb2025 19:43:24.916] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:enchantment_conditions' to 'fml:handshake' sequence 25
+[26Feb2025 19:43:24.954] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 12
+[26Feb2025 19:43:24.954] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:24.954] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Feb2025 19:43:24.967] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:fluid_condition' to 'fml:handshake' sequence 26
+[26Feb2025 19:43:25.018] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:skill_bonuses' to 'fml:handshake' sequence 27
+[26Feb2025 19:43:25.068] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 28
+[26Feb2025 19:43:25.120] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 29
+[26Feb2025 19:43:25.161] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 13
+[26Feb2025 19:43:25.162] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:25.162] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Feb2025 19:43:25.168] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:block_condition' to 'fml:handshake' sequence 30
+[26Feb2025 19:43:25.219] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 31
+[26Feb2025 19:43:25.256] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 14
+[26Feb2025 19:43:25.256] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:25.256] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Feb2025 19:43:25.256] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 15
+[26Feb2025 19:43:25.256] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:25.256] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Feb2025 19:43:25.268] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:item_action' to 'fml:handshake' sequence 32
+[26Feb2025 19:43:25.268] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 16
+[26Feb2025 19:43:25.268] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:25.268] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[26Feb2025 19:43:25.322] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_biome_condition' to 'fml:handshake' sequence 33
+[26Feb2025 19:43:25.367] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:bientity_action' to 'fml:handshake' sequence 34
+[26Feb2025 19:43:25.381] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 17
+[26Feb2025 19:43:25.381] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[26Feb2025 19:43:25.381] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [treechop, easy_npc, kuma_api, stackablepotions, additionalentityattributes, playeranimator, apoli, sophisticatedcore, xaeroworldmap, modernfix, citadel, mixinextras, storagedelight, sophisticatedbackpacks, blocky_siege, farmersdelightcompat, balm, cataclysm_weaponery, hauntedharvest, spelunkers_charm, ctov, vminus, dummmmmmy, twilightforest, farmersplus, geophilic, geophilic_reforged, w2w2, farmersdelight, ends_delight, vintagedelight, cozy_home, endersdelight, explorify, lionfishapi, alexsmobsinteraction, alexsmobs, cataclysm, curios, patchouli, origins, collective, origins_classes, ironsspellsdelight, gobber2, worldedit, rusticdelight, twilightdelight, architectury, flib, undergarden, monolib, more_bows_and_arrows, l2library, t_and_t, lemoned, mowziesmobs, geckolib, festive_delight, culturaldelights, locks, mowzies_cataclysm, jei, lithostitched, veggiesdelight, attributefix, pehkui, caelus, alexscavesdelight, waystones, wardrobe, alexscaves_torpedoes, comforts, epherolib, glitchcore, sereneseasons, moredelight, forge, simpletomb, tlskincape, delightfulsandwich, tectonic, minecraft, aquaculturedelight, undergardendelight, alexscaves, radiantgear, moonlight, luckys_armory, mysterious_mountain_lib, corn_delight, jade, l2harvester, displaydelight, itemproductionlib, spectrelib, nethersdelight, skilltree, passiveskilltreeadditions, calio, origins_plus_plus, farmersrespite, flywheel, create, spartanshields, mantle, gobberdelight, apugli, xaerominimap, decoration_delight, lunar, barbequesdelight, zeta, irons_spellbooks, toughasnails, miners_delight, mynethersdelight, strictly_origins, oceansdelight, alexsdelight, ferritecore, largemeals, farmerslarder, aquaculture, immersive_melodies, packetfixer, cosmeticarmorreworked, medievalorigins, healingcampfire, fruitsdelight, delightful, cristellib]
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:cui' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_npc:network' : Version test of '23' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'undergarden:channel' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luckys_armory:luckys_armory' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dummmmmmy:channel' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'strictly_origins:strictly_origins' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mantle:network' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hauntedharvest:channel' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'calio:channel' : Version test of '1.2' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'l2library:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'festive_delight:festive_delight' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_im:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vminus:network_channel' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apugli:main' : Version test of '2' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cozy_home:cozy_home' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Version test of '7' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobsinteraction:farseer' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm_weaponery:cataclysm_weaponery' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lunar:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'undergardendelight:undergardendelight' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[26Feb2025 19:43:25.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sereneseasons:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gobberdelight:gobberdelight' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldedit:internal' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'flib:main_channel' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'origins:network' : Version test of '1.2' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'aquaculturedelight:aquaculturedelight' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spelunkers_charm:spelunkers_charm' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'locks:main' : Version test of 'locks' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toughasnails:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'w2w2:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'pehkui:main' : Version test of '2' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'farmerslarder:farmerslarder' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'glitchcore:config_sync' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apoli:channel' : Version test of '1.3' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'wardrobe:wardrobe' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'decoration_delight:decoration_delight' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'patchouli:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'blocky_siege:blocky_siege' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'origins_classes:channel' : Version test of '1.0' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves_torpedoes:alexscaves_torpedoes' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skilltree:channel' : Version test of '1.0' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'zeta:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'delightful:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fruitsdelight:main' : Version test of '1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Version test of '2' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[26Feb2025 19:43:25.390] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[26Feb2025 19:43:25.398] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[26Feb2025 19:43:25.398] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.398] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.398] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[26Feb2025 19:43:25.398] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.398] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.420] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[26Feb2025 19:43:25.420] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.420] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.420] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[26Feb2025 19:43:25.420] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.421] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.421] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[26Feb2025 19:43:25.421] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.421] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.421] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[26Feb2025 19:43:25.421] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.421] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.421] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[26Feb2025 19:43:25.421] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.421] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.421] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[26Feb2025 19:43:25.422] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.422] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.422] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[26Feb2025 19:43:25.422] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.422] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.422] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[26Feb2025 19:43:25.422] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.422] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.422] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 35
+[26Feb2025 19:43:25.422] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[26Feb2025 19:43:25.422] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.422] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.423] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[26Feb2025 19:43:25.423] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.423] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.423] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[26Feb2025 19:43:25.423] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.423] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.423] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[26Feb2025 19:43:25.423] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.423] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.454] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[26Feb2025 19:43:25.454] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.454] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.469] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 36
+[26Feb2025 19:43:25.500] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[26Feb2025 19:43:25.500] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.500] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.515] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry origins:origins' to 'fml:handshake' sequence 37
+[26Feb2025 19:43:25.545] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[26Feb2025 19:43:25.545] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.546] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.565] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:item_bonuses' to 'fml:handshake' sequence 38
+[26Feb2025 19:43:25.591] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[26Feb2025 19:43:25.591] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.591] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.614] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_damage_condition' to 'fml:handshake' sequence 39
+[26Feb2025 19:43:25.637] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[26Feb2025 19:43:25.637] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.637] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.667] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:power_factory' to 'fml:handshake' sequence 40
+[26Feb2025 19:43:25.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[26Feb2025 19:43:25.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.683] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.714] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:entity_action' to 'fml:handshake' sequence 41
+[26Feb2025 19:43:25.728] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[26Feb2025 19:43:25.728] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.728] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.768] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 42
+[26Feb2025 19:43:25.773] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[26Feb2025 19:43:25.773] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.773] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.820] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 42
+[26Feb2025 19:43:25.820] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.820] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.822] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:entity_condition' to 'fml:handshake' sequence 43
+[26Feb2025 19:43:25.869] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 43
+[26Feb2025 19:43:25.869] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 43 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.869] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.870] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 44
+[26Feb2025 19:43:25.919] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_item_condition' to 'fml:handshake' sequence 45
+[26Feb2025 19:43:25.962] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 44
+[26Feb2025 19:43:25.962] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 44 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:25.962] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:25.967] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 46
+[26Feb2025 19:43:26.007] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 45
+[26Feb2025 19:43:26.008] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 45 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.008] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.018] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 47
+[26Feb2025 19:43:26.067] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_block_condition' to 'fml:handshake' sequence 48
+[26Feb2025 19:43:26.118] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 46
+[26Feb2025 19:43:26.118] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 46 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.118] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.118] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 47
+[26Feb2025 19:43:26.118] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 47 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.118] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.120] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:event_listeners' to 'fml:handshake' sequence 49
+[26Feb2025 19:43:26.163] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 48
+[26Feb2025 19:43:26.163] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 48 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.163] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.166] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 50
+[26Feb2025 19:43:26.209] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 49
+[26Feb2025 19:43:26.209] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 49 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.209] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.216] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:damage_conditions' to 'fml:handshake' sequence 51
+[26Feb2025 19:43:26.255] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 50
+[26Feb2025 19:43:26.255] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 50 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.255] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.267] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:block_action' to 'fml:handshake' sequence 52
+[26Feb2025 19:43:26.268] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:43:26.300] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 51
+[26Feb2025 19:43:26.301] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 51 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.301] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.318] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_block_action' to 'fml:handshake' sequence 53
+[26Feb2025 19:43:26.347] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 52
+[26Feb2025 19:43:26.347] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 52 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.347] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.368] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_modifier' to 'fml:handshake' sequence 54
+[26Feb2025 19:43:26.392] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 53
+[26Feb2025 19:43:26.392] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 53 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.392] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.421] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:living_conditions' to 'fml:handshake' sequence 55
+[26Feb2025 19:43:26.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 54
+[26Feb2025 19:43:26.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 54 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.438] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.470] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 56
+[26Feb2025 19:43:26.484] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 55
+[26Feb2025 19:43:26.484] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 55 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.484] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.515] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_bientity_condition' to 'fml:handshake' sequence 57
+[26Feb2025 19:43:26.529] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 56
+[26Feb2025 19:43:26.529] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 56 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.529] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.567] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_bientity_action' to 'fml:handshake' sequence 58
+[26Feb2025 19:43:26.575] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 57
+[26Feb2025 19:43:26.575] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 57 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.575] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.620] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:biome_condition' to 'fml:handshake' sequence 59
+[26Feb2025 19:43:26.620] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 58
+[26Feb2025 19:43:26.620] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 58 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.620] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.666] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 59
+[26Feb2025 19:43:26.666] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 59 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.666] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.670] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:skill_bonus_multipliers' to 'fml:handshake' sequence 60
+[26Feb2025 19:43:26.716] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 60
+[26Feb2025 19:43:26.716] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 60 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.716] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.717] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 61
+[26Feb2025 19:43:26.763] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 61
+[26Feb2025 19:43:26.763] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 61 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.763] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.770] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 62
+[26Feb2025 19:43:26.817] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_power' to 'fml:handshake' sequence 63
+[26Feb2025 19:43:26.862] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 62
+[26Feb2025 19:43:26.862] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 62 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.862] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.869] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_entity_action' to 'fml:handshake' sequence 64
+[26Feb2025 19:43:26.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 63
+[26Feb2025 19:43:26.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 63 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.908] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.923] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 65
+[26Feb2025 19:43:26.953] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 64
+[26Feb2025 19:43:26.954] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 64 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:26.954] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:26.969] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 66
+[26Feb2025 19:43:27.002] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 65
+[26Feb2025 19:43:27.002] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 65 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.002] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.016] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:global_power_set' to 'fml:handshake' sequence 67
+[26Feb2025 19:43:27.047] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 66
+[26Feb2025 19:43:27.047] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 66 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.047] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.067] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 68
+[26Feb2025 19:43:27.093] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 67
+[26Feb2025 19:43:27.093] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 67 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.093] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.116] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 69
+[26Feb2025 19:43:27.139] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 68
+[26Feb2025 19:43:27.139] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 68 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.139] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.168] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 70
+[26Feb2025 19:43:27.169] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:43:27.184] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 69
+[26Feb2025 19:43:27.184] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 69 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.184] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.219] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:item_condition' to 'fml:handshake' sequence 71
+[26Feb2025 19:43:27.234] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 70
+[26Feb2025 19:43:27.234] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 70 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.234] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.268] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_entity_condition' to 'fml:handshake' sequence 72
+[26Feb2025 19:43:27.274] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 71
+[26Feb2025 19:43:27.274] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 71 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.274] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.318] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 73
+[26Feb2025 19:43:27.320] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 72
+[26Feb2025 19:43:27.320] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 72 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.320] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.366] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 73
+[26Feb2025 19:43:27.366] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 73 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.366] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.368] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:modifier' to 'fml:handshake' sequence 74
+[26Feb2025 19:43:27.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 74
+[26Feb2025 19:43:27.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 74 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.414] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.418] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:gem_bonuses' to 'fml:handshake' sequence 75
+[26Feb2025 19:43:27.464] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 75
+[26Feb2025 19:43:27.464] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 75 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.464] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.475] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:bientity_condition' to 'fml:handshake' sequence 76
+[26Feb2025 19:43:27.520] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 77
+[26Feb2025 19:43:27.521] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 76
+[26Feb2025 19:43:27.521] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 76 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.521] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.567] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_fluid_condition' to 'fml:handshake' sequence 78
+[26Feb2025 19:43:27.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 77
+[26Feb2025 19:43:27.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 77 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.567] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 78
+[26Feb2025 19:43:27.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 78 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.628] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:item_conditions' to 'fml:handshake' sequence 79
+[26Feb2025 19:43:27.667] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:damage_condition' to 'fml:handshake' sequence 80
+[26Feb2025 19:43:27.674] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 79
+[26Feb2025 19:43:27.674] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 79 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.674] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.717] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_item_action' to 'fml:handshake' sequence 81
+[26Feb2025 19:43:27.720] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 80
+[26Feb2025 19:43:27.720] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 80 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.720] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.766] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 81
+[26Feb2025 19:43:27.766] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 81 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.766] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.769] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry calio:player_ability' to 'fml:handshake' sequence 82
+[26Feb2025 19:43:27.827] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 83
+[26Feb2025 19:43:27.870] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config locks-server.toml' to 'fml:handshake' sequence 84
+[26Feb2025 19:43:27.919] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 85
+[26Feb2025 19:43:27.921] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 82
+[26Feb2025 19:43:27.921] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 82 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.921] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.968] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 83
+[26Feb2025 19:43:27.969] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 83 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.969] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.969] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 84
+[26Feb2025 19:43:27.969] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 84 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.969] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.971] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 85
+[26Feb2025 19:43:27.971] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 85 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:27.971] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:27.975] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 86
+[26Feb2025 19:43:28.029] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config apoli-server.toml' to 'fml:handshake' sequence 87
+[26Feb2025 19:43:28.069] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 86
+[26Feb2025 19:43:28.069] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 86 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:28.069] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:28.070] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 88
+[26Feb2025 19:43:28.071] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:43:28.115] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 87
+[26Feb2025 19:43:28.115] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 87 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:28.115] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:28.120] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mantle-server.toml' to 'fml:handshake' sequence 89
+[26Feb2025 19:43:28.162] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 88
+[26Feb2025 19:43:28.162] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 88 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:28.162] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:28.168] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 90
+[26Feb2025 19:43:28.207] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 89
+[26Feb2025 19:43:28.208] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 89 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:28.208] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:28.219] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 91
+[26Feb2025 19:43:28.253] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 90
+[26Feb2025 19:43:28.253] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 90 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:28.253] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:28.272] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 92
+[26Feb2025 19:43:28.301] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 91
+[26Feb2025 19:43:28.301] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 91 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:28.301] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:28.323] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config apugli-server.toml' to 'fml:handshake' sequence 93
+[26Feb2025 19:43:28.344] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 92
+[26Feb2025 19:43:28.344] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 92 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:28.344] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:28.381] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 94
+[26Feb2025 19:43:28.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 93
+[26Feb2025 19:43:28.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 93 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Feb2025 19:43:28.389] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Feb2025 19:43:28.437] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel zeta:main with index 94
+[26Feb2025 19:43:28.437] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 94 of type org.violetmoon.zeta.network.message.C2SLoginFlag
+[26Feb2025 19:43:28.476] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[26Feb2025 19:43:28.538] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lesbian_unu[/127.79.83.42:39567] logged in with entity id 17674 at (1038.9353897932606, 167.0, -305.50333103245316)
+[26Feb2025 19:43:28.539] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@227f64f7 into net.minecraft.network.Connection@4a107574
+[26Feb2025 19:43:28.540] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 279 classes
+[26Feb2025 19:43:28.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lesbian_unu joined the game
+[26Feb2025 19:43:28.677] [Server thread/INFO] [Jade/]: Syncing config to Lesbian_unu (aa16971f-3582-3732-8136-ec2b56b978b0)
+[26Feb2025 19:43:29.600] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:43:30.798] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:43:45.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[26Feb2025 19:43:50.832] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:43:57.908] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:01.592] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:03.765] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:04.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3779ms or 75 ticks behind
+[26Feb2025 19:44:10.282] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:11.023] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:11.758] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:13.033] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:13.745] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:14.460] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:16.750] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:17.230] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:17.699] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:18.761] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:19.321] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:20.403] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:20.917] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:21.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has made the advancement [Breakfast Classic]
+[26Feb2025 19:44:23.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3550ms or 71 ticks behind
+[26Feb2025 19:44:30.732] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:31.694] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:32.598] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:33.299] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:37.542] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:38.229] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:39.397] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:42.347] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:42.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4276ms or 85 ticks behind
+[26Feb2025 19:44:42.719] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:47.188] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:44:55.778] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:00.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2687ms or 53 ticks behind
+[26Feb2025 19:45:01.184] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:01.833] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:02.482] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:02.717] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:03.250] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:15.233] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:16.282] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:18.441] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3406ms or 68 ticks behind
+[26Feb2025 19:45:19.709] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:20.052] [Server thread/INFO] [Easy NPC/]: Opening menu 331930ac-4fba-4579-b1bb-1cc8770de5e0 for npc 433976b7-ca0a-4238-b0e3-870332a14281 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.56, y=255.00, z=-21.53] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Alberto]}]
+[26Feb2025 19:45:20.402] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:25.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[26Feb2025 19:45:25.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[26Feb2025 19:45:26.958] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:27.899] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:28.754] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:29.720] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:30.593] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:34.201] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:36.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2974ms or 59 ticks behind
+[26Feb2025 19:45:45.606] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:45:46.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[26Feb2025 19:45:55.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3835ms or 76 ticks behind
+[26Feb2025 19:46:02.523] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:04.240] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:05.206] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:06.532] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:12.649] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:13.362] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:13.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3669ms or 73 ticks behind
+[26Feb2025 19:46:14.101] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:14.994] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:15.682] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:16.354] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:17.107] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:32.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3317ms or 66 ticks behind
+[26Feb2025 19:46:33.009] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:34.475] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:35.701] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:36.988] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:38.675] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:39.978] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:41.272] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:42.505] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:43.786] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:44.999] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:46.248] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:47.520] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:48.848] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:50.176] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:50.652] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3517ms or 70 ticks behind
+[26Feb2025 19:46:50.795] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:51.667] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:51.813] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:52.511] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:52.956] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:56.339] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:56.340] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:57.614] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:57.799] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:58.590] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:59.073] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:46:59.310] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[26Feb2025 19:47:00.003] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
