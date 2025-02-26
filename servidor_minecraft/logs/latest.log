@@ -3799,3 +3799,94 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Feb2025 20:48:36.973] [Server thread/INFO] [Easy NPC/]: Opening menu bec59c5c-f1bb-4a6d-9f17-8e1d202d071c for npc c71af0a3-8729-4671-9d70-411b47d36f37 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-23.73, y=263.00, z=-21.12] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Mercoro]}]
 [26Feb2025 20:48:38.669] [Server thread/INFO] [Easy NPC/]: Opening menu 4f717b03-1695-42da-a449-690ccb63ded8 for npc e15349e9-76bf-41ee-8d49-da008ad906a0 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-23.66, y=263.00, z=-21.54] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Pepin]}]
 [26Feb2025 20:48:39.519] [Server thread/INFO] [Easy NPC/]: Opening menu 7e0d8891-8ad4-4f00-b6dd-f295d3736fe4 for npc e15349e9-76bf-41ee-8d49-da008ad906a0 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-23.66, y=263.00, z=-21.54] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Pepin]}]
+[26Feb2025 20:48:57.182] [Server thread/INFO] [Easy NPC/]: Opening menu 07b65625-9717-4673-adb9-76ed76ca8cb0 for npc c71af0a3-8729-4671-9d70-411b47d36f37 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-23.96, y=263.00, z=-21.24] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Mercoro]}]
+[26Feb2025 20:48:57.979] [Server thread/INFO] [Easy NPC/]: Opening menu a26b8617-7223-4334-b8f4-9440c393bb0f for npc c71af0a3-8729-4671-9d70-411b47d36f37 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-23.96, y=263.00, z=-21.24] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Mercoro]}]
+[26Feb2025 20:49:04.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin has completed the challenge [It's Purple!]
+[26Feb2025 20:49:12.072] [Server thread/INFO] [Easy NPC/]: Opening menu 7cd3dc1b-c439-4ef7-8661-5363329bb69e for npc e15349e9-76bf-41ee-8d49-da008ad906a0 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-24.06, y=263.00, z=-21.43] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Pepin]}]
+[26Feb2025 20:49:12.816] [Server thread/INFO] [Easy NPC/]: Opening menu 484b9ac8-0769-4cc0-9f85-43b71a01f800 for npc e15349e9-76bf-41ee-8d49-da008ad906a0 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-24.06, y=263.00, z=-21.43] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Pepin]}]
+[26Feb2025 20:49:53.212] [Server thread/INFO] [Easy NPC/]: Opening menu f3c64165-b168-41b6-9f1a-dd694e013b02 for npc e15349e9-76bf-41ee-8d49-da008ad906a0 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-24.06, y=263.00, z=-21.43] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Pepin]}]
+[26Feb2025 20:49:54.464] [Server thread/INFO] [Easy NPC/]: Opening menu f90e7126-2bf0-4a18-a400-eb1e1deaa583 for npc e15349e9-76bf-41ee-8d49-da008ad906a0 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-24.06, y=263.00, z=-21.43] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Pepin]}]
+[26Feb2025 20:50:01.071] [Server thread/INFO] [Easy NPC/]: Opening menu fde1f266-aa1a-43fd-99c9-f04d86670f02 for npc c71af0a3-8729-4671-9d70-411b47d36f37 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-24.06, y=263.00, z=-21.43] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Mercoro]}]
+[26Feb2025 20:50:01.867] [Server thread/INFO] [Easy NPC/]: Opening menu ea6a13ab-f8bd-4f04-a6f7-00b1b5628def for npc c71af0a3-8729-4671-9d70-411b47d36f37 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-24.06, y=263.00, z=-21.43] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Mercoro]}]
+[26Feb2025 20:50:12.815] [Server thread/INFO] [Easy NPC/]: Opening menu 3483a9ce-fae9-499b-b637-b16d51cc7177 for npc e15349e9-76bf-41ee-8d49-da008ad906a0 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-23.01, y=263.00, z=-21.45] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Pepin]}]
+[26Feb2025 20:50:15.268] [Server thread/INFO] [Easy NPC/]: Opening menu ddde4e67-4ad3-4c80-9914-18295359f905 for npc e15349e9-76bf-41ee-8d49-da008ad906a0 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-23.05, y=263.00, z=-21.45] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Pepin]}]
+[26Feb2025 20:50:16.516] [Server thread/INFO] [Easy NPC/]: Opening menu ae0fcfdc-9ee5-49ab-8145-408a37fbe878 for npc c71af0a3-8729-4671-9d70-411b47d36f37 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-23.64, y=263.00, z=-21.22] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Mercoro]}]
+[26Feb2025 20:50:17.584] [Server thread/INFO] [Easy NPC/]: Opening menu ba01c2f3-4fa0-4ec4-bb1a-a5005d808b2d for npc c71af0a3-8729-4671-9d70-411b47d36f37 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-23.64, y=263.00, z=-21.22] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Mercoro]}]
+[26Feb2025 20:50:35.019] [Server thread/INFO] [Easy NPC/]: Opening menu e6386c0d-2aee-46a9-92c8-aaeed6e8813e for npc e15349e9-76bf-41ee-8d49-da008ad906a0 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-22.60, y=262.00, z=-21.52] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Pepin]}]
+[26Feb2025 20:50:38.364] [Server thread/INFO] [Easy NPC/]: Opening menu deb1775d-5e55-43bc-8191-f32f740d1d0f for npc e15349e9-76bf-41ee-8d49-da008ad906a0 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-22.60, y=262.00, z=-21.52] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Pepin]}]
+[26Feb2025 20:52:16.271] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Feb2025 20:52:16.288] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Feb2025 20:52:16.288] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Feb2025 20:52:16.296] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Feb2025 20:52:16.358] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Feb2025 20:52:16.359] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Feb2025 20:52:16.458] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Feb2025 20:52:16.558] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Feb2025 20:52:16.558] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Feb2025 20:52:16.668] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Feb2025 20:52:16.668] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Feb2025 20:52:16.708] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Feb2025 20:52:19.546] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Feb2025 20:52:28.423] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Feb2025 20:52:34.054] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Feb2025 20:52:34.055] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Feb2025 20:52:34.558] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[26Feb2025 20:52:38.658] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[26Feb2025 20:52:43.388] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Royce[/127.27.103.237:33903] logged in with entity id 37123 at (240.5, 70.875, -221.5)
+[26Feb2025 20:52:43.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce joined the game
+[26Feb2025 20:52:43.494] [Server thread/INFO] [Jade/]: Syncing config to Royce (9f678283-671d-30c0-83f7-b0c3851fccd5)
+[26Feb2025 20:53:13.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce lost connection: Disconnected
+[26Feb2025 20:53:13.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce left the game
+[26Feb2025 20:53:13.484] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Feb2025 20:54:28.156] [Server thread/WARN] [Easy NPC/]: Unable to open trading screen for Humanoid['Alberto'/17230, l='ServerLevel[Mundo nuevo]', x=-10.50, y=255.00, z=-22.50] with [net.minecraft.world.item.trading.MerchantOffer@17ce046f, net.minecraft.world.item.trading.MerchantOffer@130b156b, net.minecraft.world.item.trading.MerchantOffer@76c3c070, net.minecraft.world.item.trading.MerchantOffer@372d8ee5, net.minecraft.world.item.trading.MerchantOffer@50270913, net.minecraft.world.item.trading.MerchantOffer@1b4cee31, net.minecraft.world.item.trading.MerchantOffer@73e47d68, net.minecraft.world.item.trading.MerchantOffer@28659f57, net.minecraft.world.item.trading.MerchantOffer@406264d9, net.minecraft.world.item.trading.MerchantOffer@3ca33782] from ServerPlayer['Dwaliin'/22848, l='ServerLevel[Mundo nuevo]', x=-12.35, y=255.00, z=-19.83], ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-12.86, y=255.00, z=-21.18] is still trading.
+[26Feb2025 20:54:44.404] [Server thread/WARN] [Easy NPC/]: Unable to open trading screen for Humanoid['Mercoro'/28969, l='ServerLevel[Mundo nuevo]', x=-25.50, y=262.00, z=-19.50] with [net.minecraft.world.item.trading.MerchantOffer@d9ae9c7, net.minecraft.world.item.trading.MerchantOffer@18fe2615, net.minecraft.world.item.trading.MerchantOffer@5407a0a0, net.minecraft.world.item.trading.MerchantOffer@68c77457, net.minecraft.world.item.trading.MerchantOffer@32c97c59, net.minecraft.world.item.trading.MerchantOffer@5bee2a9b, net.minecraft.world.item.trading.MerchantOffer@328583e6, net.minecraft.world.item.trading.MerchantOffer@61b32c2d] from ServerPlayer['Dwaliin'/22848, l='ServerLevel[Mundo nuevo]', x=-23.17, y=263.00, z=-19.92], ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-22.47, y=262.00, z=-18.47] is still trading.
+[26Feb2025 20:55:12.416] [Server thread/WARN] [Easy NPC/]: Unable to open trading screen for Humanoid['Pepin'/34801, l='ServerLevel[Mundo nuevo]', x=-25.50, y=262.00, z=-21.50] with [net.minecraft.world.item.trading.MerchantOffer@7e5d454e, net.minecraft.world.item.trading.MerchantOffer@e69d03a, net.minecraft.world.item.trading.MerchantOffer@3d2f0f3c, net.minecraft.world.item.trading.MerchantOffer@5ed1a8b2, net.minecraft.world.item.trading.MerchantOffer@4a32e113, net.minecraft.world.item.trading.MerchantOffer@a1a106f, net.minecraft.world.item.trading.MerchantOffer@4f09a8ff, net.minecraft.world.item.trading.MerchantOffer@1c4e0d94, net.minecraft.world.item.trading.MerchantOffer@41295d77, net.minecraft.world.item.trading.MerchantOffer@1b6ab455] from ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-21.97, y=262.00, z=-20.94], ServerPlayer['Dwaliin'/22848, l='ServerLevel[Mundo nuevo]', x=-23.17, y=263.00, z=-19.92] is still trading.
+[26Feb2025 20:55:24.731] [Server thread/WARN] [Easy NPC/]: Unable to open trading screen for Humanoid['Pepin'/34801, l='ServerLevel[Mundo nuevo]', x=-25.50, y=262.00, z=-21.50] with [net.minecraft.world.item.trading.MerchantOffer@7e5d454e, net.minecraft.world.item.trading.MerchantOffer@e69d03a, net.minecraft.world.item.trading.MerchantOffer@3d2f0f3c, net.minecraft.world.item.trading.MerchantOffer@5ed1a8b2, net.minecraft.world.item.trading.MerchantOffer@4a32e113, net.minecraft.world.item.trading.MerchantOffer@a1a106f, net.minecraft.world.item.trading.MerchantOffer@4f09a8ff, net.minecraft.world.item.trading.MerchantOffer@1c4e0d94, net.minecraft.world.item.trading.MerchantOffer@41295d77, net.minecraft.world.item.trading.MerchantOffer@1b6ab455] from ServerPlayer['Dwaliin'/22848, l='ServerLevel[Mundo nuevo]', x=-23.41, y=263.00, z=-20.63], ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-22.58, y=262.00, z=-21.17] is still trading.
+[26Feb2025 20:56:00.638] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Feb2025 20:56:00.808] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Feb2025 20:56:00.808] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Feb2025 20:56:00.848] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Feb2025 20:56:00.887] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Feb2025 20:56:00.907] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Feb2025 20:56:00.908] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Feb2025 20:56:00.908] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Feb2025 20:56:00.975] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Feb2025 20:56:01.058] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Feb2025 20:56:01.063] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Feb2025 20:56:01.146] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Feb2025 20:56:04.254] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Feb2025 20:56:12.658] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Feb2025 20:56:16.646] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Feb2025 20:56:16.646] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Feb2025 20:56:17.248] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[26Feb2025 20:56:21.641] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[26Feb2025 20:56:25.168] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Royce[/127.27.103.237:58577] logged in with entity id 37608 at (240.5, 70.875, -221.5)
+[26Feb2025 20:56:25.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce joined the game
+[26Feb2025 20:56:25.300] [Server thread/INFO] [Jade/]: Syncing config to Royce (9f678283-671d-30c0-83f7-b0c3851fccd5)
+[26Feb2025 20:56:55.258] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce lost connection: Timed out
+[26Feb2025 20:56:55.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce left the game
+[26Feb2025 20:57:04.036] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Feb2025 20:57:04.108] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Feb2025 20:57:04.108] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Feb2025 20:57:04.177] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Feb2025 20:57:04.250] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Feb2025 20:57:04.251] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Feb2025 20:57:04.402] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Feb2025 20:57:04.476] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Feb2025 20:57:04.516] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Feb2025 20:57:04.517] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Feb2025 20:57:04.547] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Feb2025 20:57:04.547] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Feb2025 20:57:09.059] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Feb2025 20:57:14.043] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Feb2025 20:57:17.915] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Feb2025 20:57:17.915] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Feb2025 20:57:19.107] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[26Feb2025 20:57:24.575] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[26Feb2025 20:57:28.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Royce[/127.27.103.237:56801] logged in with entity id 38124 at (240.5, 70.875, -221.5)
+[26Feb2025 20:57:28.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce joined the game
+[26Feb2025 20:57:28.610] [Server thread/INFO] [Jade/]: Syncing config to Royce (9f678283-671d-30c0-83f7-b0c3851fccd5)
+[26Feb2025 20:58:36.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce fell from a high place
+[26Feb2025 20:58:51.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to Royce]
+[26Feb2025 20:58:58.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce lost connection: Timed out
+[26Feb2025 20:58:58.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce left the game

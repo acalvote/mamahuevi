@@ -5652,6 +5652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-02-26 20:57:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cherry_fence": {
     "criteria": {
       "has_planks": "2025-02-26 20:05:08 +0000"
@@ -5673,6 +5679,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-02-26 20:01:27 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/decorations/thermoregulator": {
+    "criteria": {
+      "has_thermometer": "2025-02-26 20:57:21 +0000"
     },
     "done": true
   },
@@ -5763,6 +5775,12 @@
   "mynethersdelight:recipes/food/boiled_egg_from_smoking": {
     "criteria": {
       "boiled_egg": "2025-02-26 18:50:32 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/redstone/temperature_gauge": {
+    "criteria": {
+      "has_thermometer": "2025-02-26 20:57:21 +0000"
     },
     "done": true
   },
@@ -5883,6 +5901,12 @@
   "create:recipes/misc/smelting/zinc_ingot_from_crushed": {
     "criteria": {
       "has_item": "2025-02-26 20:15:53 +0000"
+    },
+    "done": true
+  },
+  "toughasnails:recipes/food/ice_cream": {
+    "criteria": {
+      "has_snowball": "2025-02-26 20:57:43 +0000"
     },
     "done": true
   },
@@ -6219,6 +6243,12 @@
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_yellow_wool": "2025-02-26 18:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-02-26 20:57:43 +0000"
     },
     "done": true
   },
