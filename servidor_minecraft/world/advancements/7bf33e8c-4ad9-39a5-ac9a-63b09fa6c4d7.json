@@ -5634,6 +5634,12 @@
     },
     "done": true
   },
+  "undergarden:recipes/building_blocks/regalium_block": {
+    "criteria": {
+      "has_regalium_crystal": "2025-02-26 18:55:56 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/food/boiled_egg_from_smoking": {
     "criteria": {
       "boiled_egg": "2025-02-26 18:50:32 +0000"
@@ -5655,6 +5661,12 @@
   "mynethersdelight:recipes/food/boiled_egg_from_campfire_cooking": {
     "criteria": {
       "boiled_egg": "2025-02-26 18:50:32 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/mine_ore": {
+    "criteria": {
+      "has_regalium_crystal": "2025-02-26 18:55:56 +0000"
     },
     "done": true
   },
