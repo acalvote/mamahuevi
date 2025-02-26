@@ -5130,9 +5130,39 @@
     },
     "done": true
   },
-  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+  "miners_delight:recipes/food/smoked_bat_wing_campfire": {
     "criteria": {
-      "has_item": "2025-02-25 21:33:06 +0000"
+      "has_bat_wing": "2025-02-25 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/bat_rolls": {
+    "criteria": {
+      "has_bat_wing": "2025-02-25 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/bat_soup": {
+    "criteria": {
+      "has_bat_wing": "2025-02-25 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing_smoking": {
+    "criteria": {
+      "has_bat_wing": "2025-02-25 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/smoked_bat_wing": {
+    "criteria": {
+      "has_bat_wing": "2025-02-25 19:52:09 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/bat_cookie": {
+    "criteria": {
+      "has_bat_wing": "2025-02-25 19:52:09 +0000"
     },
     "done": true
   },
@@ -5142,57 +5172,9 @@
     },
     "done": true
   },
-  "moredelight:recipes/food/toast_with_chocolate": {
-    "criteria": {
-      "has_cocoa_beans": "2025-02-25 23:04:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-02-25 21:12:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/brown_dye": {
-    "criteria": {
-      "has_cocoa_beans": "2025-02-25 23:04:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-02-25 21:12:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-02-25 21:12:43 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/toxic_quiver": {
-    "criteria": {
-      "has_fermented_spider_eye": "2025-02-25 22:47:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cookie": {
-    "criteria": {
-      "has_cocoa": "2025-02-25 23:04:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-02-25 21:12:43 +0000"
     },
     "done": true
   },
@@ -5208,45 +5190,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-25 21:12:43 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/smoked_bat_wing_campfire": {
-    "criteria": {
-      "has_bat_wing": "2025-02-25 19:52:09 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
-    "criteria": {
-      "has_any_ingredient": "2025-02-25 23:04:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-02-25 21:12:43 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/ornate_iron_window": {
-    "criteria": {
-      "has_ingredient": "2025-02-25 22:05:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-02-25 21:12:43 +0000"
     },
     "done": true
   },
@@ -5259,6 +5205,120 @@
   "create:recipes/building_blocks/calcite_pillar_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
+    "criteria": {
+      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-02-25 21:12:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-25 21:12:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-25 21:12:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-02-25 21:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-25 21:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-02-25 21:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-02-25 21:12:43 +0000"
     },
     "done": true
   },
@@ -5292,18 +5352,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-02-25 22:05:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-25 21:12:43 +0000"
@@ -5334,30 +5382,6 @@
     },
     "done": true
   },
-  "miners_delight:recipes/cooking/bat_rolls": {
-    "criteria": {
-      "has_bat_wing": "2025-02-25 19:52:09 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/food/cooking/stuffed_cantaloupe": {
-    "criteria": {
-      "has_cantaloupe": "2025-02-25 23:16:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-02-25 21:12:43 +0000"
@@ -5367,24 +5391,6 @@
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-25 21:12:43 +0000"
-    },
-    "done": true
-  },
-  "delightful:recipes/cantaloupe_slice": {
-    "criteria": {
-      "has_cantaloupe": "2025-02-25 23:16:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-02-25 22:50:25 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/food/chocolate_popsicle": {
-    "criteria": {
-      "has_cocoa_beans": "2025-02-25 23:04:09 +0000"
     },
     "done": true
   },
@@ -5400,30 +5406,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/cooking/bat_soup": {
-    "criteria": {
-      "has_bat_wing": "2025-02-25 19:52:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-02-25 23:17:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-25 21:12:43 +0000"
@@ -5433,54 +5415,6 @@
   "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-25 21:12:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_calcite_slab_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
-  "farmersplus:recipes/building/sugar_cane_bale": {
-    "criteria": {
-      "has_sugar_cane": "2025-02-25 23:17:17 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/smoked_bat_wing_smoking": {
-    "criteria": {
-      "has_bat_wing": "2025-02-25 19:52:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-02-25 23:17:17 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/smoked_bat_wing": {
-    "criteria": {
-      "has_bat_wing": "2025-02-25 19:52:09 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
     },
     "done": true
   },
@@ -5496,24 +5430,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_calcite_stairs_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_calcite_bricks_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
-  "farmersplus:recipes/building/cocoa_bean_bag": {
-    "criteria": {
-      "has_cocoa_beans": "2025-02-25 23:04:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-02-25 21:12:43 +0000"
@@ -5526,21 +5442,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
-    "criteria": {
-      "has_stone_types_calcite": "2025-02-25 20:04:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-02-25 21:12:43 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/bat_cookie": {
-    "criteria": {
-      "has_bat_wing": "2025-02-25 19:52:09 +0000"
     },
     "done": true
   },
@@ -5550,15 +5454,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-02-25 21:12:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-02-25 21:33:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_ore": {
     "criteria": {
       "has_item": "2025-02-25 21:33:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diorite_stairs": {
+  "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
-      "has_diorite": "2025-02-25 21:12:43 +0000"
+      "has_ingredient": "2025-02-25 22:05:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-25 22:05:22 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/iron_ring": {
+    "criteria": {
+      "has_nuggets_iron": "2025-02-25 22:05:22 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/toxic_quiver": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-02-25 22:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-02-25 22:50:25 +0000"
     },
     "done": true
   },
@@ -5568,9 +5508,69 @@
     },
     "done": true
   },
-  "skilltree:recipes/misc/iron_ring": {
+  "moredelight:recipes/food/toast_with_chocolate": {
     "criteria": {
-      "has_nuggets_iron": "2025-02-25 22:05:22 +0000"
+      "has_cocoa_beans": "2025-02-25 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-02-25 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-02-25 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-25 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/chocolate_popsicle": {
+    "criteria": {
+      "has_cocoa_beans": "2025-02-25 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "farmersplus:recipes/building/cocoa_bean_bag": {
+    "criteria": {
+      "has_cocoa_beans": "2025-02-25 23:04:09 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/stuffed_cantaloupe": {
+    "criteria": {
+      "has_cantaloupe": "2025-02-25 23:16:03 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/cantaloupe_slice": {
+    "criteria": {
+      "has_cantaloupe": "2025-02-25 23:16:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-02-25 23:17:17 +0000"
+    },
+    "done": true
+  },
+  "farmersplus:recipes/building/sugar_cane_bale": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-25 23:17:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-02-25 23:17:17 +0000"
     },
     "done": true
   },
