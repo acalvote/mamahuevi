@@ -5706,6 +5706,12 @@
     },
     "done": true
   },
+  "moredelight:main/get_creamy_pasta_with_ham": {
+    "criteria": {
+      "creamy_pasta_with_ham": "2025-02-26 19:50:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-02-26 18:50:00 +0000"
@@ -5856,6 +5862,12 @@
     },
     "done": true
   },
+  "corn_delight:corn_knowleage": {
+    "criteria": {
+      "creamed_corn": "2025-02-26 19:53:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/yellow_bed": {
     "criteria": {
       "has_yellow_wool": "2025-02-26 18:48:49 +0000"
@@ -5895,6 +5907,12 @@
   "comforts:hammock_black": {
     "criteria": {
       "has_black_wool": "2025-02-26 19:39:35 +0000"
+    },
+    "done": true
+  },
+  "moredelight:main/get_cooked_rice_with": {
+    "criteria": {
+      "cooked_rice_with_chicken_cuts": "2025-02-26 19:50:01 +0000"
     },
     "done": true
   },
