@@ -3925,3 +3925,40 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Feb2025 21:08:54.728] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [26Feb2025 21:08:54.728] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [26Feb2025 21:08:54.728] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[26Feb2025 21:10:17.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has made the advancement [Gone Bananas!]
+[26Feb2025 21:10:46.963] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Feb2025 21:10:47.028] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Feb2025 21:10:47.097] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Feb2025 21:10:47.114] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Feb2025 21:10:47.158] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Feb2025 21:10:47.230] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Feb2025 21:10:47.298] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Feb2025 21:10:47.298] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Feb2025 21:10:47.361] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Feb2025 21:10:47.428] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Feb2025 21:10:47.488] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Feb2025 21:10:47.528] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Feb2025 21:10:48.697] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Feb2025 21:10:50.748] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Feb2025 21:10:55.327] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Feb2025 21:10:55.327] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Feb2025 21:10:56.225] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[26Feb2025 21:11:01.646] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[26Feb2025 21:11:06.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Royce[/127.27.103.237:46261] logged in with entity id 43084 at (262.10453318703077, 70.0, -227.72395639494619)
+[26Feb2025 21:11:06.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce joined the game
+[26Feb2025 21:11:06.832] [Server thread/INFO] [Jade/]: Syncing config to Royce (9f678283-671d-30c0-83f7-b0c3851fccd5)
+[26Feb2025 21:11:39.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[26Feb2025 21:11:51.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[26Feb2025 21:12:38.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dwaliin lost connection: Disconnected
+[26Feb2025 21:12:38.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin left the game
+[26Feb2025 21:12:51.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[26Feb2025 21:12:52.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[26Feb2025 21:14:07.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[26Feb2025 21:14:07.772] [Server thread/INFO] [Easy NPC/]: Opening menu 6e47e7f7-2ca4-4622-81c8-e24ecf947a14 for npc e15349e9-76bf-41ee-8d49-da008ad906a0 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-22.63, y=262.00, z=-20.98] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Pepin]}]
+[26Feb2025 21:14:08.867] [Server thread/INFO] [Easy NPC/]: Opening menu aa20b26c-e541-4844-affe-328408e1ac76 for npc e15349e9-76bf-41ee-8d49-da008ad906a0 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-22.63, y=262.00, z=-20.98] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Pepin]}]
+[26Feb2025 21:14:09.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce lost connection: Disconnected
+[26Feb2025 21:14:09.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce left the game
+[26Feb2025 21:14:23.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[26Feb2025 21:14:55.951] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune lost connection: Disconnected
+[26Feb2025 21:14:55.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune left the game
+[26Feb2025 21:14:56.019] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
