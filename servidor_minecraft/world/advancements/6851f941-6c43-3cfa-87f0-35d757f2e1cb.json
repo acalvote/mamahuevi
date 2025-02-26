@@ -6685,15 +6685,45 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+  "minecraft:recipes/decorations/gray_carpet": {
     "criteria": {
-      "has_stone_types_tuff": "2025-02-25 22:10:05 +0000"
+      "has_gray_wool": "2025-02-25 20:57:09 +0000"
     },
     "done": true
   },
-  "hauntedharvest:nether/splatter_eggs_in_nether": {
+  "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
-      "unlock": "2025-02-25 22:36:16 +0000"
+      "has_gray_wool": "2025-02-25 20:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-02-25 20:57:09 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-02-25 20:57:09 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-02-25 20:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-25 21:18:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_tuff_from_stone_types_tuff_stonecutting": {
+    "criteria": {
+      "has_stone_types_tuff": "2025-02-25 22:10:05 +0000"
     },
     "done": true
   },
@@ -6712,18 +6742,6 @@
   "create:recipes/building_blocks/polished_cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-25 22:10:05 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/toxic_quiver": {
-    "criteria": {
-      "has_fermented_spider_eye": "2025-02-25 22:21:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-02-25 20:57:09 +0000"
     },
     "done": true
   },
@@ -6757,45 +6775,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-02-25 21:18:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-02-25 20:57:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-02-25 22:17:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-25 22:10:05 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-02-25 20:57:09 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-25 22:10:05 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray": {
-    "criteria": {
-      "has_gray_wool": "2025-02-25 20:57:09 +0000"
     },
     "done": true
   },
@@ -6817,45 +6805,9 @@
     },
     "done": true
   },
-  "fruitsdelight:recipes/food/hawberry_stick": {
-    "criteria": {
-      "has_hawberry": "2025-02-25 22:15:57 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-02-25 22:21:33 +0000"
-    },
-    "done": true
-  },
-  "fruitsdelight:recipes/food/hawberry_sheet": {
-    "criteria": {
-      "has_hawberry": "2025-02-25 22:15:57 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-25 22:10:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/blue_glazed_terracotta": {
-    "criteria": {
-      "has_blue_terracotta": "2025-02-25 22:15:46 +0000"
-    },
-    "done": true
-  },
-  "comforts:sleeping_bag_gray": {
-    "criteria": {
-      "has_gray_wool": "2025-02-25 20:57:09 +0000"
-    },
-    "done": true
-  },
-  "fruitsdelight:recipes/misc/hawberry_crate": {
-    "criteria": {
-      "has_hawberry": "2025-02-25 22:15:57 +0000"
     },
     "done": true
   },
@@ -6880,6 +6832,66 @@
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-02-25 22:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_glazed_terracotta": {
+    "criteria": {
+      "has_blue_terracotta": "2025-02-25 22:15:46 +0000"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/food/hawberry_stick": {
+    "criteria": {
+      "has_hawberry": "2025-02-25 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/food/hawberry_sheet": {
+    "criteria": {
+      "has_hawberry": "2025-02-25 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/misc/hawberry_crate": {
+    "criteria": {
+      "has_hawberry": "2025-02-25 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-02-25 22:17:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-02-25 22:21:33 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/toxic_quiver": {
+    "criteria": {
+      "has_fermented_spider_eye": "2025-02-25 22:21:41 +0000"
+    },
+    "done": true
+  },
+  "hauntedharvest:nether/splatter_eggs_in_nether": {
+    "criteria": {
+      "unlock": "2025-02-25 22:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-02-26 18:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-02-26 18:32:28 +0000"
     },
     "done": true
   },

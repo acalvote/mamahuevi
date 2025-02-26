@@ -3141,3 +3141,68 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Feb2025 18:08:02.839] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Kytsune loaded /workspaces/mamahuevi/servidor_minecraft/config/worldedit/schematics/minemausgileadtradinghouse139029612.schematic
 [26Feb2025 18:13:42.569] [WorldEdit Task Executor - 1/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Kytsune loaded /workspaces/mamahuevi/servidor_minecraft/config/worldedit/schematics/Medieval.schematic
 [26Feb2025 18:17:50.626] [WorldEdit Task Executor - 2/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Kytsune loaded /workspaces/mamahuevi/servidor_minecraft/config/worldedit/schematics/Medieval.schematic
+[26Feb2025 18:29:25.538] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[26Feb2025 18:29:25.584] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[26Feb2025 18:29:25.627] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[26Feb2025 18:29:25.670] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[26Feb2025 18:29:25.713] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[26Feb2025 18:29:25.759] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[26Feb2025 18:29:25.801] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[26Feb2025 18:29:25.848] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[26Feb2025 18:29:25.898] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[26Feb2025 18:29:25.948] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[26Feb2025 18:29:25.995] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[26Feb2025 18:29:26.044] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[26Feb2025 18:29:26.593] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[26Feb2025 18:29:26.778] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[26Feb2025 18:29:26.834] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[26Feb2025 18:29:26.834] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[26Feb2025 18:29:26.852] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[26Feb2025 18:29:26.928] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[26Feb2025 18:29:30.330] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dwaliin[/127.201.246.21:58729] logged in with entity id 1950 at (-469.5048341736115, 100.0, 541.0649340131915)
+[26Feb2025 18:29:30.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin joined the game
+[26Feb2025 18:29:30.502] [Server thread/INFO] [Jade/]: Syncing config to Dwaliin (6851f941-6c43-3cfa-87f0-35d757f2e1cb)
+[26Feb2025 18:29:44.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dwaliin> aloooooo
+[26Feb2025 18:29:49.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> holaaa
+[26Feb2025 18:29:57.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> estaba aqui haciendo cosas de admin en el lobby
+[26Feb2025 18:30:05.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dwaliin> bien q avisas eeeh
+[26Feb2025 18:30:08.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> JAJAJ
+[26Feb2025 18:30:13.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> pensaba que no queriais jugar o algio
+[26Feb2025 18:30:14.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dwaliin> uy
+[26Feb2025 18:30:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dwaliin> no esta el tp 0
+[26Feb2025 18:30:24.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> no?
+[26Feb2025 18:30:45.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> ahora
+[26Feb2025 18:30:55.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> te deja?
+[26Feb2025 18:30:59.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dwaliin> pero no puedo descubrirlo
+[26Feb2025 18:31:06.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to Dwaliin]
+[26Feb2025 18:31:11.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dwaliin> tendras q hacernos tp para redescubrirlo
+[26Feb2025 18:31:14.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> sisi
+[26Feb2025 18:31:17.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> es lo q voy a fer
+[26Feb2025 18:31:43.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to -469.500000, 100.500000, 540.500000]
+[26Feb2025 18:31:47.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 0.500000, 252.500000, 0.500000]
+[26Feb2025 18:31:53.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Dwaliin to Kytsune]
+[26Feb2025 18:31:58.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> lo tienes?
+[26Feb2025 18:32:02.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to -469.500000, 100.500000, 540.500000]
+[26Feb2025 18:32:04.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Dwaliin to Kytsune]
+[26Feb2025 18:32:07.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dwaliin> sep
+[26Feb2025 18:32:10.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kytsune> perfe
+[26Feb2025 18:32:16.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 0.500000, 252.500000, 0.500000]
+[26Feb2025 18:32:37.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dwaliin> me he caido
+[26Feb2025 18:32:42.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to Dwaliin]
+[26Feb2025 18:32:46.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 0.500000, 252.500000, 0.500000]
+[26Feb2025 18:32:48.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Dwaliin to Kytsune]
+[26Feb2025 18:33:43.291] [Server thread/INFO] [Easy NPC/]: Define custom server-side data for Humanoid['Humanoid'/3569, l='ServerLevel[Mundo nuevo]', x=0.00, y=0.00, z=0.00] ...
+[26Feb2025 18:33:43.294] [Server thread/INFO] [Easy NPC/]: Register default handler for Humanoid['Humanoid'/3569, l='ServerLevel[Mundo nuevo]', x=0.00, y=0.00, z=0.00] with variant STEVE ...
+[26Feb2025 18:33:43.295] [Server thread/INFO] [Easy NPC/]: Finalize spawn for Humanoid['Humanoid'/3569, l='ServerLevel[Mundo nuevo]', x=-16.50, y=255.00, z=-20.50] ...
+[26Feb2025 18:33:43.301] [Server thread/INFO] [Easy NPC/]: Register default action interaction events for Humanoid['Humanoid'/3569, l='ServerLevel[Mundo nuevo]', x=-16.50, y=255.00, z=-20.50] ...
+[26Feb2025 18:33:48.331] [Server thread/INFO] [Easy NPC/]: Opening menu 27a75040-aa33-40cd-8f90-d5d65227f8a2 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-17.03, y=255.00, z=-19.05] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:33:50.314] [Server thread/INFO] [Easy NPC/]: Opening menu a9377a42-d02b-423b-8f52-748758dc4e41 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-17.03, y=255.00, z=-19.05] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:33:52.214] [Server thread/INFO] [Easy NPC/]: Opening menu 35a3daf5-7205-4304-b527-f01a3ed977b6 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-17.03, y=255.00, z=-19.05] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:33:56.766] [Server thread/INFO] [Easy NPC/]: Opening menu aa8741e6-694c-4ac2-8f27-52400d1ea373 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-17.28, y=255.00, z=-19.78] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:34:00.265] [Server thread/INFO] [Easy NPC/]: Opening menu 403ac1c8-f1bf-4e3e-a0c6-e9b1749f9644 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-17.28, y=255.00, z=-19.78] with ConfigurationMenu.DEFAULT_SKIN[translation{key='text.easy_npc.config.default_skin.title', args=[Humanoid]}]
+[26Feb2025 18:34:06.717] [Server thread/INFO] [Easy NPC/]: Opening menu 4cb81a0e-3fea-47c9-a3e3-531e72b53b21 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-17.28, y=255.00, z=-19.78] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[Humanoid]}]
+[26Feb2025 18:35:05.970] [Server thread/INFO] [Easy NPC/]: Opening menu cc96cc7d-b2e5-4771-b8d2-6594a8c9cba2 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-17.09, y=255.00, z=-19.65] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:35:07.565] [Server thread/INFO] [Easy NPC/]: Opening menu 0e95fae9-755e-4a1e-8da7-cad4d48c1e0c for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-17.08, y=255.00, z=-19.63] with ConfigurationMenu.PLAYER_SKIN[translation{key='text.easy_npc.config.player_skin.title', args=[Humanoid]}]
+[26Feb2025 18:35:09.516] [Server thread/INFO] [Easy NPC/]: Opening menu ce3e48d7-b802-40b5-8c57-e4062d6d4a87 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-17.08, y=255.00, z=-19.63] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Humanoid]}]
+[26Feb2025 18:35:10.412] [Server thread/INFO] [Easy NPC/]: Opening menu 423c92c8-2bf9-442f-9e74-89f3e173c58b for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-17.08, y=255.00, z=-19.63] with ConfigurationMenu.DEFAULT_MODEL[translation{key='text.easy_npc.config.default_model.title', args=[Humanoid]}]
+[26Feb2025 18:35:12.872] [Server thread/INFO] [Easy NPC/]: Opening menu 8398df8a-a0fe-48ad-a7ff-a9952c3198c1 for npc 3676cb48-b2c4-4d40-9061-0956e1fcd2a4 and player ServerPlayer['Kytsune'/163, l='ServerLevel[Mundo nuevo]', x=-17.08, y=255.00, z=-19.63] with ConfigurationMenu.CUSTOM_MODEL[translation{key='text.easy_npc.config.custom_model.title', args=[Humanoid]}]
