@@ -3140,3 +3140,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Feb2025 18:06:24.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
 [26Feb2025 18:08:02.839] [WorldEdit Task Executor - 0/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Kytsune loaded /workspaces/mamahuevi/servidor_minecraft/config/worldedit/schematics/minemausgileadtradinghouse139029612.schematic
 [26Feb2025 18:13:42.569] [WorldEdit Task Executor - 1/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Kytsune loaded /workspaces/mamahuevi/servidor_minecraft/config/worldedit/schematics/Medieval.schematic
+[26Feb2025 18:17:50.626] [WorldEdit Task Executor - 2/INFO] [com.sk89q.worldedit.command.SchematicCommands/]: Kytsune loaded /workspaces/mamahuevi/servidor_minecraft/config/worldedit/schematics/Medieval.schematic
