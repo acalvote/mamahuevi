@@ -3983,3 +3983,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [26Feb2025 21:29:13.305] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dwaliin[/127.201.246.21:39509] logged in with entity id 44405 at (-21.213026162461528, 255.0, -12.900852795642134)
 [26Feb2025 21:29:13.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin joined the game
 [26Feb2025 21:29:13.441] [Server thread/INFO] [Jade/]: Syncing config to Dwaliin (6851f941-6c43-3cfa-87f0-35d757f2e1cb)
+[26Feb2025 21:50:25.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Dwaliin> estais ahí??
