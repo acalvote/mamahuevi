@@ -3483,3 +3483,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Feb2025 16:08:28.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has made the advancement [Magery]
 [27Feb2025 16:13:08.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
 [27Feb2025 16:13:18.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[27Feb2025 16:27:37.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has made the advancement [Surge Protector]
+[27Feb2025 16:27:40.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.8216538598181842,10.781760157014887,-1.1505165839321307
+[27Feb2025 16:27:43.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune fell from a high place
+[27Feb2025 16:27:43.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(683, 68, -1141) minecraft:overworld
+[27Feb2025 16:27:57.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 685.500000, 68.500000, -1140.500000]
+[27Feb2025 16:27:59.335] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Feb2025 16:27:59.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Feb2025 16:27:59.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cast_time_ring
+[27Feb2025 16:27:59.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[27Feb2025 16:27:59.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Feb2025 16:27:59.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Feb2025 16:27:59.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[27Feb2025 16:27:59.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[27Feb2025 16:27:59.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[27Feb2025 16:27:59.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[27Feb2025 16:27:59.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[27Feb2025 16:27:59.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[27Feb2025 16:27:59.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[27Feb2025 16:27:59.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[27Feb2025 16:27:59.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[27Feb2025 16:27:59.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[27Feb2025 16:27:59.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[27Feb2025 16:27:59.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack

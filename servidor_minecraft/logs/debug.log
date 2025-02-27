@@ -18096,3 +18096,112 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Feb2025 16:19:58.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [27Feb2025 16:19:58.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [27Feb2025 16:20:11.045] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [7bf33e8c-4ad9-39a5-ac9a-63b09fa6c4d7]
+[27Feb2025 16:23:47.091] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:23:47.136] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:23:47.933] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:23:47.988] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:23:48.637] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:23:48.689] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:24:42.386] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[27Feb2025 16:24:42.397] [Server thread/DEBUG] [mixin/]: Mixing HoldingPlayerMixin from moonlight-common.mixins.json into net.minecraft.world.level.saveddata.maps.MapItemSavedData$HoldingPlayer
+[27Feb2025 16:24:58.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 16:24:58.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 16:26:24.255] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_shepherd_1
+[27Feb2025 16:26:24.258] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_temple_1
+[27Feb2025 16:26:24.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_5
+[27Feb2025 16:26:24.259] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_small_house_7
+[27Feb2025 16:26:24.260] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/streets/corner_02
+[27Feb2025 16:26:24.262] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_medium_house_2
+[27Feb2025 16:26:33.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_mason_1
+[27Feb2025 16:26:33.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_fletcher_1
+[27Feb2025 16:26:33.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_animal_pen_3
+[27Feb2025 16:26:33.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_weaponsmith_1
+[27Feb2025 16:27:07.235] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_medium_house_1
+[27Feb2025 16:27:07.236] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_butcher_1
+[27Feb2025 16:27:07.238] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_butcher_2
+[27Feb2025 16:27:07.238] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_toolsmith_1
+[27Feb2025 16:27:07.239] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_fisher_1
+[27Feb2025 16:27:07.241] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_library_1
+[27Feb2025 16:27:07.242] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_stable_1
+[27Feb2025 16:27:07.243] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/houses/forest_large_farm_1
+[27Feb2025 16:27:13.152] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/tower
+[27Feb2025 16:27:13.155] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/staircase
+[27Feb2025 16:27:13.159] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/basement
+[27Feb2025 16:27:13.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/stairway
+[27Feb2025 16:27:13.161] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction
+[27Feb2025 16:27:13.162] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/cracked_wall_opening
+[27Feb2025 16:27:13.176] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end_2
+[27Feb2025 16:27:13.551] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/ledge_casks
+[27Feb2025 16:27:13.552] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/junction_cramped
+[27Feb2025 16:27:13.554] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/rubble_dead_end
+[27Feb2025 16:27:13.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/wall
+[27Feb2025 16:27:13.555] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/candle_storage
+[27Feb2025 16:27:13.556] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:pyromancer_tower/cellar_dungeon/shelf_storage
+[27Feb2025 16:27:37.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has made the advancement [Surge Protector]
+[27Feb2025 16:27:40.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.8216538598181842,10.781760157014887,-1.1505165839321307
+[27Feb2025 16:27:43.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune fell from a high place
+[27Feb2025 16:27:43.943] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(683, 68, -1141) minecraft:overworld
+[27Feb2025 16:27:46.713] [Server thread/DEBUG] [twilightforest/]: Player Kytsune (7bf33e8c-4ad9-39a5-ac9a-63b09fa6c4d7) respawned and received items held in storage
+[27Feb2025 16:27:57.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 685.500000, 68.500000, -1140.500000]
+[27Feb2025 16:27:59.335] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Feb2025 16:27:59.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Feb2025 16:27:59.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 cast_time_ring
+[27Feb2025 16:27:59.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 1 result 0 air
+[27Feb2025 16:27:59.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Feb2025 16:27:59.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Feb2025 16:27:59.336] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[27Feb2025 16:27:59.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[27Feb2025 16:27:59.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[27Feb2025 16:27:59.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[27Feb2025 16:27:59.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[27Feb2025 16:27:59.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[27Feb2025 16:27:59.337] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[27Feb2025 16:27:59.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 copper_backpack
+[27Feb2025 16:27:59.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[27Feb2025 16:27:59.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 iron_backpack
+[27Feb2025 16:27:59.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 backpack
+[27Feb2025 16:27:59.338] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 1 gold_backpack
+[27Feb2025 16:29:18.286] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:29:37.426] [Worker-Main-30/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[27Feb2025 16:29:37.433] [Worker-Main-30/DEBUG] [ModernFix/]: Structure hauntedharvest:scarecrow_right is being run through DFU (hash 1a36cbab8423ae4ef812094e6f9ca183699750e8558e52af9a10f5d91719bc06), this will cause launch time delays
+[27Feb2025 16:29:40.632] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Feb2025 16:29:58.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 16:29:58.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 16:30:03.866] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/inter is being run through DFU (hash 00fcd404e0b6839013b6c204a2c9eb069a8992f694a365f501cb334ee1e0ff08), this will cause launch time delays
+[27Feb2025 16:30:03.971] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/small_1 is being run through DFU (hash db344a2e60a933e35d3a4357204a3d525338d556ce39b24f4ae24cc815451efa), this will cause launch time delays
+[27Feb2025 16:30:03.978] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/small_2 is being run through DFU (hash 6f341960d0a0d0dcdc5db91d353a56495067bb11a5781a10b0b9967741900691), this will cause launch time delays
+[27Feb2025 16:30:03.986] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/small_3 is being run through DFU (hash ed6d2c05327038419687b6f16a21cd3ca51f33f7fc6d6fe00b6ac9cb26466407), this will cause launch time delays
+[27Feb2025 16:30:03.991] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/small_4 is being run through DFU (hash 04e97f7557f03800066d3debb9155cc0e21aefe14f9e7376ced46528ce06294f), this will cause launch time delays
+[27Feb2025 16:30:03.997] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/small_5 is being run through DFU (hash 248d421ed9c3aea339271f4345137be3d0d8cdca0fb76cf5f3cc7eac1bff6f1a), this will cause launch time delays
+[27Feb2025 16:30:04.002] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/med_1 is being run through DFU (hash eb20b56ec80b12b5aec8dc8f8c30ed676619b80c2eb76959e183da7cb7c56343), this will cause launch time delays
+[27Feb2025 16:30:04.011] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/med_2 is being run through DFU (hash a32cf05941ad849fa2c5056eec9d414378df8e0cb280cab85000c5191047fff1), this will cause launch time delays
+[27Feb2025 16:30:04.021] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/big_1 is being run through DFU (hash 0f34c6d68c53bed9df11bb185e9156b6b619a77a818c1d9a34d9f7c0da2c30cc), this will cause launch time delays
+[27Feb2025 16:30:04.029] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/house/big_2 is being run through DFU (hash ab1bf5427e7686928c03dc865b3251e66c6b01fae4f6b25b08360044509570df), this will cause launch time delays
+[27Feb2025 16:30:04.038] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/butcher is being run through DFU (hash 2a330613a70c44b992cd2a3b6b4f41eef88b49db0ecf3076e578d15f702588db), this will cause launch time delays
+[27Feb2025 16:30:04.044] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/cartography is being run through DFU (hash c95393095819154370da2ae20212f6d8336b8c6a589c791d5504b0fcb98a85dc), this will cause launch time delays
+[27Feb2025 16:30:04.050] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/chemist is being run through DFU (hash ce969ce0748172f9de3763ba5ae80c55086ac793c7f520361e8e91c2fc23add9), this will cause launch time delays
+[27Feb2025 16:30:04.055] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/fishing_hut is being run through DFU (hash 4953fac1cdc77d346a3b97b8a1e80872534f265658031da801140b737211d340), this will cause launch time delays
+[27Feb2025 16:30:04.063] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/library is being run through DFU (hash 760d1d815243f24bd50d27b9e9eff474c89406a8b4926b7d4de7a4cd065ee477), this will cause launch time delays
+[27Feb2025 16:30:04.074] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/shepherd is being run through DFU (hash d99e8ff41cc37c01cc40a33d3745504a9698f13d60c6f22865151765fb796343), this will cause launch time delays
+[27Feb2025 16:30:04.080] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/mason is being run through DFU (hash 800a3ca19c240bc851ac61f628aba41c03086b3c8b57100476d1245aa5a7faf4), this will cause launch time delays
+[27Feb2025 16:30:04.084] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/pen is being run through DFU (hash 53011de75762d80c9230277750ea7a03e17bab0ccd75dd9866cffc0c91386b8d), this will cause launch time delays
+[27Feb2025 16:30:04.087] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/farm is being run through DFU (hash fe5c6c43f7e734051617c7b67fe76c6dfbc0c94b802a02338aafe97a6c898b60), this will cause launch time delays
+[27Feb2025 16:30:04.095] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/smith is being run through DFU (hash d0fa18b4986784778dcd362f5cd3f97f9615a14ed6108e2ea263379772c18bcd), this will cause launch time delays
+[27Feb2025 16:30:04.102] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/fd_farm is being run through DFU (hash c9f68415d192cc014622e2cd2fd36251ee04189f6df42083fbc3a47f789aea96), this will cause launch time delays
+[27Feb2025 16:30:04.106] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/jobsite/priest_tower is being run through DFU (hash c85513b5775bc94b6fd6dcebcc3e662b888b97b7fa88cc98af2c207ed6883a67), this will cause launch time delays
+[27Feb2025 16:30:04.116] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/lamp_1 is being run through DFU (hash 1d85a525653ddac620bb5d46db61488c8aefccbfb98e70a0db0d9bea98f6340f), this will cause launch time delays
+[27Feb2025 16:30:04.118] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/lamp_2 is being run through DFU (hash df0fbc6738328f30368975b05ed103b1635a9bb57e606b9e206ef62aa8c09ce4), this will cause launch time delays
+[27Feb2025 16:30:04.120] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/lamp_3 is being run through DFU (hash 4bcf0c1f41e3d1331a4d20b4ab2dd0ddae14cbc7f931602b82a044bc2c8297e4), this will cause launch time delays
+[27Feb2025 16:30:04.122] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/lamp_4 is being run through DFU (hash 13d92b75993a915bf83f1968d59afc93a79f04afbee45eca7e62a23db423a3ad), this will cause launch time delays
+[27Feb2025 16:30:04.124] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/well is being run through DFU (hash 282a1bd44ba563f5754d37a0634e888b599939c8fa6b9cadb606d556a72463b1), this will cause launch time delays
+[27Feb2025 16:30:04.126] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/hay_bale is being run through DFU (hash 97bbddd22126d438fc4cc9624ff7537f4b6a428894c54667ff3c796cec9bc854), this will cause launch time delays
+[27Feb2025 16:30:04.127] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/decos/wagon is being run through DFU (hash 32ad3dd02b4a04b65ff9ea567e6fb2cc1966ce1c2aaeeef4f237d1d11ae3f95c), this will cause launch time delays
+[27Feb2025 16:30:04.137] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/t_1 is being run through DFU (hash d1987f2eeb4d23fc5b33a4c858a1a1ebc167756bfe50889e4c35bfa20535d682), this will cause launch time delays
+[27Feb2025 16:30:04.150] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/straight is being run through DFU (hash 7d924f75bfb47474c789c8838c00a9a44e12344c2074eb247cc67591436e3d5a), this will cause launch time delays
+[27Feb2025 16:30:04.159] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/bent_1 is being run through DFU (hash db61f1b2e9e41d1ecabf11d229517488b2b46aaac53b9003408f191175478041), this will cause launch time delays
+[27Feb2025 16:30:04.171] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/t_3 is being run through DFU (hash c72e12af032f962344aeef0b57865db1cc291d946aea0956cc643c3395f61da8), this will cause launch time delays
+[27Feb2025 16:30:04.180] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/t_2 is being run through DFU (hash c13bc2e0c619dbcd955858c7f566a024d52c4b04359831b2066239f315a53d6e), this will cause launch time delays
+[27Feb2025 16:30:04.188] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/bent_2 is being run through DFU (hash 4eb747496b87844786d041528f3aee111f8ba8e4b6ece22d19aed8475063e79d), this will cause launch time delays
+[27Feb2025 16:30:04.623] [Worker-Main-63/DEBUG] [ModernFix/]: Structure ctov:village/plains/roads/terminator is being run through DFU (hash 4a9df8529e5b44ca5bd0cb3cfd0441800ca596f61b0d68d879ee35213f6f8733), this will cause launch time delays
+[27Feb2025 16:31:22.148] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_3
+[27Feb2025 16:31:22.182] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_1
