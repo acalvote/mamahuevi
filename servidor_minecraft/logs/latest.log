@@ -3432,3 +3432,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Feb2025 15:07:04.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Dwaliin) moved wrongly! 0.34197446593896075
 [27Feb2025 15:07:04.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Dwaliin) moved wrongly! 0.5179202531382998
 [27Feb2025 15:07:27.115] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Shepherd'/41079, l='ServerLevel[Mundo nuevo]', x=1890.70, y=153.00, z=3306.50] died, message: 'Shepherd froze to death'
+[27Feb2025 15:10:56.464] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Feb2025 15:10:56.465] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Feb2025 15:10:56.465] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Feb2025 15:10:56.465] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[27Feb2025 15:15:35.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/41098, l='ServerLevel[Mundo nuevo]', x=1865.70, y=122.28, z=3303.51] died, message: 'Weaponsmith froze to death'
+[27Feb2025 15:19:06.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 1915.500000, -23.500000, 3220.500000]
