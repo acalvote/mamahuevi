@@ -3438,3 +3438,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Feb2025 15:10:56.465] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [27Feb2025 15:15:35.767] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/41098, l='ServerLevel[Mundo nuevo]', x=1865.70, y=122.28, z=3303.51] died, message: 'Weaponsmith froze to death'
 [27Feb2025 15:19:06.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 1915.500000, -23.500000, 3220.500000]
+[27Feb2025 15:24:23.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin has made the advancement [Ol' Betsy]
+[27Feb2025 15:24:23.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin has made the advancement [Take Aim]
+[27Feb2025 15:28:00.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune lost connection: Disconnected
+[27Feb2025 15:28:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune left the game
+[27Feb2025 15:28:47.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin has made the advancement [It's an Emu!!!]

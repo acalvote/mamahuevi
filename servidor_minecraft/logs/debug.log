@@ -17473,3 +17473,40 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Feb2025 15:19:58.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [27Feb2025 15:20:01.083] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [27Feb2025 15:20:01.871] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:21:30.240] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[27Feb2025 15:22:58.559] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:24:23.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin has made the advancement [Ol' Betsy]
+[27Feb2025 15:24:23.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin has made the advancement [Take Aim]
+[27Feb2025 15:24:58.518] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 15:24:58.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 15:26:44.962] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:26:45.497] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:26:48.546] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:26:49.173] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:26:49.696] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:26:51.396] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:26:55.706] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:28:00.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune lost connection: Disconnected
+[27Feb2025 15:28:00.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune left the game
+[27Feb2025 15:28:47.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dwaliin has made the advancement [It's an Emu!!!]
+[27Feb2025 15:29:39.890] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit
+[27Feb2025 15:29:39.895] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthi_throne
+[27Feb2025 15:29:39.897] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_1
+[27Feb2025 15:29:39.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_2
+[27Feb2025 15:29:39.898] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_tree_3
+[27Feb2025 15:29:39.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_2
+[27Feb2025 15:29:39.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_firepit_small_1
+[27Feb2025 15:29:39.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_3
+[27Feb2025 15:29:39.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_1
+[27Feb2025 15:29:51.025] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_2
+[27Feb2025 15:29:51.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_platform_extend
+[27Feb2025 15:29:51.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_4
+[27Feb2025 15:29:51.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:umvuthana/umvuthana_spike_2
+[27Feb2025 15:29:58.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 15:29:58.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 15:30:18.784] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:30:25.888] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:30:26.593] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:30:44.188] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:30:44.889] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:30:46.438] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
