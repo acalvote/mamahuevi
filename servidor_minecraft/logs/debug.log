@@ -18064,3 +18064,35 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Feb2025 16:00:58.143] [Server thread/INFO] [Easy NPC/]: Opening menu 4d446ac2-c816-47cb-85b9-c3d9484dd719 for npc eb7b2e7a-179a-43dc-a866-4266b7c5241e and player ServerPlayer['Kytsune'/54650, l='ServerLevel[Mundo nuevo]', x=-12.46, y=255.00, z=-16.14] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Willy]}]
 [27Feb2025 16:00:58.946] [Server thread/INFO] [Easy NPC/]: Opening menu d2934ca5-ceab-4158-8bf8-39064b181328 for npc eb7b2e7a-179a-43dc-a866-4266b7c5241e and player ServerPlayer['Kytsune'/54650, l='ServerLevel[Mundo nuevo]', x=-12.46, y=255.00, z=-16.14] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Willy]}]
 [27Feb2025 16:01:03.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[27Feb2025 16:04:58.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 16:04:58.507] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 16:06:29.508] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:06:38.995] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:06:39.098] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:06:41.744] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:06:41.795] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:08:15.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[27Feb2025 16:08:25.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[27Feb2025 16:08:28.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has made the advancement [Magery]
+[27Feb2025 16:09:59.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 16:09:59.503] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 16:11:14.139] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:11:21.440] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:11:21.939] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:12:36.741] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:13:08.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[27Feb2025 16:13:18.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[27Feb2025 16:14:38.641] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:14:58.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 16:14:58.510] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 16:15:29.537] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:15:32.090] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:16:01.140] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:16:23.739] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:16:30.997] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:16:32.891] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:16:34.487] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:16:40.788] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 16:19:58.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 16:19:58.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 16:20:11.045] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [7bf33e8c-4ad9-39a5-ac9a-63b09fa6c4d7]
