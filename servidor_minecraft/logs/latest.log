@@ -3297,3 +3297,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Feb2025 14:36:27.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [27Feb2025 14:36:27.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to Dwaliin]
 [27Feb2025 14:38:36.324] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[27Feb2025 14:42:23.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 1830.500000, -43.500000, 3502.500000]
+[27Feb2025 14:46:45.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[27Feb2025 14:46:55.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[27Feb2025 14:47:35.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Dwaliin) moved wrongly! 0.4817809526907695
+[27Feb2025 14:49:14.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
