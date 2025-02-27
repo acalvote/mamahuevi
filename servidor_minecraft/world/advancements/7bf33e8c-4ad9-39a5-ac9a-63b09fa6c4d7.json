@@ -6615,6 +6615,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-02-27 14:12:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-02-27 14:17:39 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/food/marshmallow_stick": {
     "criteria": {
       "has_sugar": "2025-02-27 14:05:58 +0000"

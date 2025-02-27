@@ -16134,3 +16134,137 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Feb2025 14:08:31.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.2696371941685811,-14.126537585201987,-0.011178163032127486
 [27Feb2025 14:08:46.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [27Feb2025 14:08:46.521] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 14:09:00.188] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:09:00.820] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:09:02.320] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:09:03.694] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:09:05.095] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:09:12.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 2075.500000, 157.500000, 2622.500000]
+[27Feb2025 14:09:20.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.4365366989923132,-10.529083587968671,-0.3033746763758245
+[27Feb2025 14:09:21.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.18881171058637847,-13.547161484930399,-0.13125047184121286
+[27Feb2025 14:09:23.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.4427943349196539,-11.026982712340185,-0.3988469054106645
+[27Feb2025 14:09:30.787] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[27Feb2025 14:09:30.788] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[27Feb2025 14:09:30.797] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[27Feb2025 14:10:07.100] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/snowy_beach/base_plate
+[27Feb2025 14:10:07.133] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/rustic/base_plate
+[27Feb2025 14:10:07.154] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_taiga/base_plate
+[27Feb2025 14:10:07.177] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_slopes/base_plate
+[27Feb2025 14:10:07.192] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/badlands/base_plate
+[27Feb2025 14:10:07.241] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/wooded_badlands/base_plate
+[27Feb2025 14:10:07.252] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/mediterranean/base_plate
+[27Feb2025 14:10:07.259] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/sparse_jungle/base_plate
+[27Feb2025 14:10:07.275] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/swamp/base_plate
+[27Feb2025 14:10:07.289] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/savanna/base_plate
+[27Feb2025 14:10:07.305] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/grove/base_plate
+[27Feb2025 14:10:07.323] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/iberian/base_plate
+[27Feb2025 14:10:07.348] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/jungle/base_plate
+[27Feb2025 14:10:07.361] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/meadow/base_plate
+[27Feb2025 14:10:07.385] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/oriental/base_plate
+[27Feb2025 14:10:07.410] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/old_growth_taiga/base_plate
+[27Feb2025 14:10:07.425] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/taiga/base_plate
+[27Feb2025 14:10:07.449] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/sunflower_plains/base_plate
+[27Feb2025 14:10:07.474] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/forest/base_plate
+[27Feb2025 14:10:07.562] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/pillager_outpost_ocean/base_plate
+[27Feb2025 14:10:07.583] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/swedish/base_plate
+[27Feb2025 14:10:07.593] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/camps/beach/base_plate
+[27Feb2025 14:10:07.606] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/exclusives/tudor/base_plate
+[27Feb2025 14:10:07.616] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/exclusives/classic/base_plate
+[27Feb2025 14:10:07.628] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/flower_forest/base_plate
+[27Feb2025 14:10:07.641] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/birch/base_plate
+[27Feb2025 14:10:07.658] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/mushroom_fields/base_plate
+[27Feb2025 14:10:07.676] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/forts/desert/base_plate
+[27Feb2025 14:10:07.694] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:outpost/towers/snowy_plains/base_plate
+[27Feb2025 14:11:02.869] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:catacombs/catacombs_origin
+[27Feb2025 14:11:26.434] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/jungle_tribal/town_centers/jungle_meeting_point_1
+[27Feb2025 14:11:26.495] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/flower_forest_japanese/town_centers/flower_forest_meeting_point_2
+[27Feb2025 14:11:26.535] [Worker-Main-30/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:ships/village_ocean/base_plate
+[27Feb2025 14:12:30.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/grove_villager_outpost/grove_table_1
+[27Feb2025 14:12:30.743] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/modded/waystones/waystone_default
+[27Feb2025 14:12:36.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has completed the challenge [The Power of the Sun]
+[27Feb2025 14:13:46.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 14:13:46.532] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 14:14:22.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved wrongly!
+[27Feb2025 14:14:28.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.018667489866857068,-10.516251693810915,0.3648479853009121
+[27Feb2025 14:14:29.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! -0.17254451821872863,-13.801898590092662,0.15200121396810573
+[27Feb2025 14:14:31.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! -0.299470640918571,-10.623030452757035,0.2525659170769359
+[27Feb2025 14:14:38.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! -0.22794609529728405,-10.749880135797945,0.9453953185320643
+[27Feb2025 14:16:36.544] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:16:42.289] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:16:43.343] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:16:44.388] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:16:45.700] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:16:46.538] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:16:51.691] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:17:10.902] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/straight
+[27Feb2025 14:17:10.907] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_3
+[27Feb2025 14:17:10.912] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/big_1
+[27Feb2025 14:17:10.917] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/med_1
+[27Feb2025 14:17:10.920] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/med_2
+[27Feb2025 14:17:10.922] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_1
+[27Feb2025 14:17:10.925] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_2
+[27Feb2025 14:17:10.926] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_3
+[27Feb2025 14:17:10.929] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/house/small_4
+[27Feb2025 14:17:10.930] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/taiga/house/med_3 is being run through DFU (hash 0b085fb717dad27f093320c53c3072e90779a3b2ccdb35e17b9f0f5e6b4ec5af), this will cause launch time delays
+[27Feb2025 14:17:11.336] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/taiga/house/big_2 is being run through DFU (hash 9b7d4b8cbedb10342f9ddb783e63ec7541696604b59e7e86ef0a2d86ea2e5f72), this will cause launch time delays
+[27Feb2025 14:17:11.390] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/butcher
+[27Feb2025 14:17:11.394] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/chemist
+[27Feb2025 14:17:11.396] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/farm
+[27Feb2025 14:17:11.399] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/fishing_hut
+[27Feb2025 14:17:11.401] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/tannery
+[27Feb2025 14:17:11.403] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/taiga/jobsite/library is being run through DFU (hash 0f6ea5dc2b113b6de2fbf1ecc9abd6acac80ccdff5f8996573101aeee92378d6), this will cause launch time delays
+[27Feb2025 14:17:11.434] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/taiga/jobsite/mason is being run through DFU (hash 663897f898e1a8da1e782c11b8fe3f57349b73018d167b9ed3b6cfd6078aff8e), this will cause launch time delays
+[27Feb2025 14:17:11.459] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/shepherd
+[27Feb2025 14:17:11.460] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/smith
+[27Feb2025 14:17:11.463] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/cartography
+[27Feb2025 14:17:11.465] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/archer
+[27Feb2025 14:17:11.466] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/taiga/jobsite/fd_farm is being run through DFU (hash 27e6d5cc1151f5c77089f61121767b1070cfa8a74544eec5438316b9d99e0cc9), this will cause launch time delays
+[27Feb2025 14:17:11.485] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/priest_tower
+[27Feb2025 14:17:11.486] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_1
+[27Feb2025 14:17:11.487] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_2
+[27Feb2025 14:17:11.487] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_3
+[27Feb2025 14:17:11.487] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_4
+[27Feb2025 14:17:11.487] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/lamp_5
+[27Feb2025 14:17:11.488] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/bench
+[27Feb2025 14:17:11.488] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_1
+[27Feb2025 14:17:11.488] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/campfire_2
+[27Feb2025 14:17:11.489] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/flowerbed
+[27Feb2025 14:17:11.489] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/well
+[27Feb2025 14:17:11.490] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/deco/fountain
+[27Feb2025 14:17:11.490] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/armoursmith
+[27Feb2025 14:17:11.491] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/jobsite/weaponsmith
+[27Feb2025 14:17:11.512] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_2
+[27Feb2025 14:17:11.539] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/villager/swamp
+[27Feb2025 14:17:11.776] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_1
+[27Feb2025 14:17:11.894] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/bent_2
+[27Feb2025 14:17:12.127] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/t_1
+[27Feb2025 14:17:12.128] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/taiga/roads/inter is being run through DFU (hash 105acedd393fc0a90bb84e0230337cdd903d01f4fb543ebbb532a737e891f320), this will cause launch time delays
+[27Feb2025 14:17:12.153] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/taiga/roads/terminator
+[27Feb2025 14:17:12.755] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/med_2 is being run through DFU (hash 1a57efe0dfc367f0459351a60018bb6209e2adf0b512daa6fe4d38aa790ae5a9), this will cause launch time delays
+[27Feb2025 14:17:12.777] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/common/villager/jungle
+[27Feb2025 14:17:12.779] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/mason is being run through DFU (hash f2944783a5ae7242084a56a186ffcea0f2eb11dc538a640b6a8953581a22545c), this will cause launch time delays
+[27Feb2025 14:17:12.791] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/butcher is being run through DFU (hash e4533560e086dd87cedd1db485c163fea82822110d477ee9bc1e24b162aa7ea4), this will cause launch time delays
+[27Feb2025 14:17:12.797] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/big_1 is being run through DFU (hash bc6fb2772f261e0990e60e1c041ee97b388d78e8cab59435e42813a8b03b6aef), this will cause launch time delays
+[27Feb2025 14:17:12.815] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/fishing_hut is being run through DFU (hash 70f88287f784830e94f05206852fabc043fc33d43976c96a7ca35dbdbf5068f2), this will cause launch time delays
+[27Feb2025 14:17:12.822] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/small_3 is being run through DFU (hash 8151633872d131525d5a207cad787c07419e9976e31524bfac7404f263a6700f), this will cause launch time delays
+[27Feb2025 14:17:12.831] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/library is being run through DFU (hash 20e04e1f715e6babfb61396a5ea38ecf29628309364849b6dedf126b5988293d), this will cause launch time delays
+[27Feb2025 14:17:12.838] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/cartography is being run through DFU (hash 67c31d2552fde2367f52f025856d04b373abed04a359acc324bb1e3690e3f174), this will cause launch time delays
+[27Feb2025 14:17:12.857] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/leather is being run through DFU (hash 23789fc2fef1edc759a6424ebac0839c967b11a2186a4731166f80ba171d6d6e), this will cause launch time delays
+[27Feb2025 14:17:12.863] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/small_2 is being run through DFU (hash de251961b43edba6b857297c8cbce26c44f0118a0ca52c9118676ebeb4354da7), this will cause launch time delays
+[27Feb2025 14:17:12.870] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/chemist is being run through DFU (hash f2e44e2cc2194e2d1bc1f6c3f7ac7ac605add6a306edc2163d4bdef814f11052), this will cause launch time delays
+[27Feb2025 14:17:12.874] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/small_5 is being run through DFU (hash e576ffc7f1896b108b8af5d5616e2e59564b6b8ed7bc94afee0dc17d0f03389e), this will cause launch time delays
+[27Feb2025 14:17:12.881] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/fd_farm is being run through DFU (hash a3661d0c6c4d53f13f4228216fce5fc3da9e5dcada42a21cd3ce4e4d826a59ee), this will cause launch time delays
+[27Feb2025 14:17:12.888] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/smith is being run through DFU (hash 87022e41d48822c2d4501254453a5a4062e5afc506e80973599b7f2b24d92565), this will cause launch time delays
+[27Feb2025 14:17:12.895] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/farm is being run through DFU (hash 1a45b6b77d0249ea2ac297f941cd3e305a12458e2c2115fd7bf4b5c5f4fd9ef3), this will cause launch time delays
+[27Feb2025 14:17:12.905] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/small_1 is being run through DFU (hash 2f18d58a3eb08b9e900039ce970b3bf577bfd7119ca720ff3b16ff915c7bae65), this will cause launch time delays
+[27Feb2025 14:17:12.909] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/small_4 is being run through DFU (hash b45e654952cbb57c0508b7cfbab996064306ec7c04618758b7658175588dcdaf), this will cause launch time delays
+[27Feb2025 14:17:12.916] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/jobsite/shepherd is being run through DFU (hash 1abfac02890507454fd3f1a0c964f259bd4e4165ab5e6644dee1c777215aff32), this will cause launch time delays
+[27Feb2025 14:17:12.922] [Worker-Main-58/DEBUG] [ModernFix/]: Structure ctov:village/jungle/house/med_1 is being run through DFU (hash e8fb019f2f4dfe634bc11c5ab803b3437317fd8e5dbe171c1f7a09ba84e70e6a), this will cause launch time delays
+[27Feb2025 14:17:12.933] [Worker-Main-58/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle/deco/melon_1
+[27Feb2025 14:17:22.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[27Feb2025 14:17:33.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[27Feb2025 14:17:39.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has completed the challenge [It Spreads]
+[27Feb2025 14:17:50.397] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Feb2025 14:17:56.887] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Feb2025 14:18:46.514] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 14:18:46.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo

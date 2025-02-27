@@ -3161,3 +3161,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Feb2025 14:08:24.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 2.5477521199159128,-9.735960576208868,-0.8123860980954305
 [27Feb2025 14:08:30.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.8839492910567515,-11.213403912871314,-0.015539687972250249
 [27Feb2025 14:08:31.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.2696371941685811,-14.126537585201987,-0.011178163032127486
+[27Feb2025 14:09:12.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 2075.500000, 157.500000, 2622.500000]
+[27Feb2025 14:09:20.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.4365366989923132,-10.529083587968671,-0.3033746763758245
+[27Feb2025 14:09:21.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.18881171058637847,-13.547161484930399,-0.13125047184121286
+[27Feb2025 14:09:23.272] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.4427943349196539,-11.026982712340185,-0.3988469054106645
+[27Feb2025 14:09:30.787] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[27Feb2025 14:09:30.788] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[27Feb2025 14:09:30.797] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[27Feb2025 14:12:36.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has completed the challenge [The Power of the Sun]
+[27Feb2025 14:14:22.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved wrongly!
+[27Feb2025 14:14:28.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.018667489866857068,-10.516251693810915,0.3648479853009121
+[27Feb2025 14:14:29.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! -0.17254451821872863,-13.801898590092662,0.15200121396810573
+[27Feb2025 14:14:31.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! -0.299470640918571,-10.623030452757035,0.2525659170769359
+[27Feb2025 14:14:38.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! -0.22794609529728405,-10.749880135797945,0.9453953185320643
+[27Feb2025 14:17:22.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[27Feb2025 14:17:33.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[27Feb2025 14:17:39.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has completed the challenge [It Spreads]
