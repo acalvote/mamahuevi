@@ -18021,3 +18021,46 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Feb2025 15:40:04.786] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [27Feb2025 15:40:19.850] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [27Feb2025 15:40:41.550] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:41:55.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 1999.500000, -20.500000, 3297.500000]
+[27Feb2025 15:42:08.719] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/56395, l='ServerLevel[Mundo nuevo]', x=1865.54, y=122.00, z=3303.30] died, message: 'Mason froze to death'
+[27Feb2025 15:44:58.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 15:44:58.509] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 15:48:18.302] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:48:43.792] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:49:01.940] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:49:02.239] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:49:02.291] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:49:58.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 15:49:58.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 15:50:50.304] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:50:52.191] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:50:54.094] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:51:14.291] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:51:16.143] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:51:46.379] [Worker-Main-59/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/62384, l='ServerLevel[Mundo nuevo]', x=-216.00, y=34.00, z=240.90] as it would cause deadlock
+[27Feb2025 15:51:51.938] [Worker-Main-63/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/62466, l='ServerLevel[Mundo nuevo]', x=-251.00, y=102.00, z=378.00] as it would cause deadlock
+[27Feb2025 15:53:35.492] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:54:34.044] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:54:34.093] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:54:48.444] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:54:53.191] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:54:58.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 15:54:58.513] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 15:56:31.141] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:56:31.211] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:56:32.144] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:56:38.190] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 15:57:54.403] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Feb2025 15:57:54.403] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Feb2025 15:58:00.294] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Feb2025 15:58:00.294] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Feb2025 15:59:58.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 15:59:58.504] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 16:00:36.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[27Feb2025 16:00:37.520] [Server thread/INFO] [Easy NPC/]: Opening menu ede285f2-4ae3-47a6-9205-6aef7e9c109a for npc eb7b2e7a-179a-43dc-a866-4266b7c5241e and player ServerPlayer['Kytsune'/54650, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-16.30] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Willy]}]
+[27Feb2025 16:00:38.286] [Server thread/INFO] [Easy NPC/]: Opening menu a8254f9b-b5b8-442e-80bd-450ef09fc4c9 for npc eb7b2e7a-179a-43dc-a866-4266b7c5241e and player ServerPlayer['Kytsune'/54650, l='ServerLevel[Mundo nuevo]', x=-12.30, y=255.00, z=-16.30] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Willy]}]
+[27Feb2025 16:00:49.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[27Feb2025 16:00:55.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[27Feb2025 16:00:58.143] [Server thread/INFO] [Easy NPC/]: Opening menu 4d446ac2-c816-47cb-85b9-c3d9484dd719 for npc eb7b2e7a-179a-43dc-a866-4266b7c5241e and player ServerPlayer['Kytsune'/54650, l='ServerLevel[Mundo nuevo]', x=-12.46, y=255.00, z=-16.14] with ConfigurationMenu.MAIN[translation{key='text.easy_npc.config.main.title', args=[Willy]}]
+[27Feb2025 16:00:58.946] [Server thread/INFO] [Easy NPC/]: Opening menu d2934ca5-ceab-4158-8bf8-39064b181328 for npc eb7b2e7a-179a-43dc-a866-4266b7c5241e and player ServerPlayer['Kytsune'/54650, l='ServerLevel[Mundo nuevo]', x=-12.46, y=255.00, z=-16.14] with BasicTradingConfigurationMenu[translation{key='text.easy_npc.config.basic_trading.title', args=[Willy]}]
+[27Feb2025 16:01:03.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
