@@ -16827,3 +16827,139 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Feb2025 14:29:08.394] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [27Feb2025 14:29:11.446] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [27Feb2025 14:29:14.098] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:29:19.643] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:29:24.893] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:29:27.449] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:29:48.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hauntedharvest:abandoned_farm
+[27Feb2025 14:29:48.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hauntedharvest:bat
+[27Feb2025 14:29:48.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hauntedharvest:scarecrow_left
+[27Feb2025 14:29:48.345] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hauntedharvest:field
+[27Feb2025 14:29:51.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/fd_farm
+[27Feb2025 14:29:51.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/house/house_3
+[27Feb2025 14:29:51.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/house/house_1
+[27Feb2025 14:29:51.864] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/cartographer
+[27Feb2025 14:29:51.867] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/priest_tower
+[27Feb2025 14:29:51.870] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/house/house_2
+[27Feb2025 14:29:51.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/fishmonger
+[27Feb2025 14:29:51.876] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/smith
+[27Feb2025 14:29:51.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/farm
+[27Feb2025 14:29:51.884] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:village/jungle_tree/jobsite/library
+[27Feb2025 14:29:52.849] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/base_plate
+[27Feb2025 14:29:52.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/feature_plates
+[27Feb2025 14:29:52.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/tower
+[27Feb2025 14:29:52.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/targets
+[27Feb2025 14:29:52.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/cage
+[27Feb2025 14:29:52.854] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/log
+[27Feb2025 14:29:52.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/smith_tent
+[27Feb2025 14:29:52.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of ctov:pillager_outpost/savanna/golem_cage
+[27Feb2025 14:30:03.790] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:30:09.441] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:30:15.943] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:30:18.640] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:30:19.240] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:30:19.843] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:30:24.695] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:30:47.899] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[27Feb2025 14:32:14.042] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:32:16.593] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:32:21.391] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:32:23.691] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:32:35.494] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:32:37.840] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:32:38.591] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:32:51.281] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/forest_ruins/town_centers/forest_meeting_point_2
+[27Feb2025 14:32:51.291] [Worker-Main-57/DEBUG] [ModernFix/]: Using cached upgraded version of kaisyn:village/wooded_badlands_tipi/town_centers/wooded_badlands_meeting_point_3
+[27Feb2025 14:32:59.452] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:33:01.238] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:33:02.141] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:33:02.738] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:33:03.190] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:33:06.940] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:33:07.589] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:33:08.341] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:33:09.092] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:33:13.519] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:33:40.693] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:33:46.577] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 14:33:46.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[27Feb2025 14:34:30.893] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[27Feb2025 14:34:51.344] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:35:04.951] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:35:09.999] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:35:44.699] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[27Feb2025 14:36:11.699] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[27Feb2025 14:36:20.823] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:20.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:21.022] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:21.124] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:21.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:21.324] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:21.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:21.523] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:21.627] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:21.723] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:21.823] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:21.923] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:22.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:22.122] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:22.223] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:22.321] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:22.422] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:22.522] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:22.622] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:22.723] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:22.824] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:22.923] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:23.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:23.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:23.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:23.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:23.425] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:23.521] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:23.625] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:23.732] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:23.826] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:24.125] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:24.224] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:24.323] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:24.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:24.524] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:24.641] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:24.721] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:24.822] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:24.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:25.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:25.126] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:25.223] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:25.323] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:25.424] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:25.525] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:25.625] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:25.735] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:25.824] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:25.924] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:26.024] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:26.125] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:26.234] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:26.325] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:26.425] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:26.524] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:26.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:26.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:26.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:26.922] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:27.021] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:27.141] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:27.223] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:27.322] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:27.424] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:27.522] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:27.623] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Feb2025 14:36:27.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to Dwaliin]
+[27Feb2025 14:38:36.282] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming m_91383_ with desc (Z)V
+[27Feb2025 14:38:36.287] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming m_91383_ with desc (Z)V
+[27Feb2025 14:38:36.315] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/client/Minecraft
+[27Feb2025 14:38:36.319] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming net/minecraft/client/Minecraft
+[27Feb2025 14:38:36.324] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[27Feb2025 14:38:46.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[27Feb2025 14:38:46.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
