@@ -3151,3 +3151,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Feb2025 13:36:00.534] [Server thread/INFO] [Jade/]: Syncing config to Kytsune (7bf33e8c-4ad9-39a5-ac9a-63b09fa6c4d7)
 [27Feb2025 13:37:32.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 1839.500000, 185.500000, 2948.500000]
 [27Feb2025 13:37:59.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 436.500000, -32.500000, 83.500000]
+[27Feb2025 14:01:56.178] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved wrongly!
+[27Feb2025 14:03:30.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 286.500000, 72.500000, 49.500000]
+[27Feb2025 14:03:40.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 228.500000, 72.500000, 46.500000]
+[27Feb2025 14:04:05.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 1976.500000, 176.500000, 3067.500000]
+[27Feb2025 14:04:22.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved wrongly!
+[27Feb2025 14:04:24.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.0,-11.433643280623414,0.0
+[27Feb2025 14:06:37.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to 1850.500000, 190.500000, 2790.500000]
+[27Feb2025 14:08:24.181] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 2.5477521199159128,-9.735960576208868,-0.8123860980954305
+[27Feb2025 14:08:30.589] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.8839492910567515,-11.213403912871314,-0.015539687972250249
+[27Feb2025 14:08:31.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.2696371941685811,-14.126537585201987,-0.011178163032127486
