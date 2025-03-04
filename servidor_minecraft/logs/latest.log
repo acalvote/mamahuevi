@@ -3222,3 +3222,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Mar2025 22:35:55.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
 [04Mar2025 22:50:44.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Spectator Mode]
 [04Mar2025 22:51:07.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
+[04Mar2025 22:56:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 has made the advancement [Bonk!]
