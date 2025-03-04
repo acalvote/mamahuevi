@@ -17158,3 +17158,114 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Mar2025 22:42:36.973] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [04Mar2025 22:42:37.426] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [04Mar2025 22:42:38.017] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:19.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Mar2025 22:43:19.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Mar2025 22:43:39.733] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:40.067] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:40.613] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:41.165] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:41.720] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:42.265] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:42.816] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:43.366] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:44.213] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:49.610] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:50.116] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:50.767] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:51.316] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:51.967] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:43:52.786] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:44:04.612] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:44:05.472] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:44:06.434] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:44:27.868] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:44:34.765] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:44:35.168] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:44:36.768] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:44:44.587] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Mar2025 22:44:45.525] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:44:48.566] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:44:49.665] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:44:54.932] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:44:56.809] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:12.766] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:26.536] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:27.068] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:27.612] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:28.169] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:28.710] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:29.274] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:29.826] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:30.608] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:32.717] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:37.308] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:38.364] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:39.225] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:40.307] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:43.508] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:44.016] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:53.728] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:45:54.278] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:46:07.174] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:46:08.621] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:46:26.283] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:46:27.422] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:46:29.765] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:46:30.677] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:46:31.681] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:46:32.308] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:46:59.110] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:47:17.866] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:47:36.966] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:47:55.767] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:00.467] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:01.573] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:02.268] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:02.685] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:03.208] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:03.764] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:04.314] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:04.487] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Mar2025 22:48:04.587] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Mar2025 22:48:07.761] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:08.310] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:09.079] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:09.609] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:11.213] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:11.809] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:19.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Mar2025 22:48:19.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Mar2025 22:48:29.009] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:29.567] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:30.505] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:32.917] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:34.523] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:35.965] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:44.919] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:55.919] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:48:56.621] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:49:02.874] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:49:03.283] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:49:03.813] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:49:04.378] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:49:04.921] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:49:23.377] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:49:23.914] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:02.809] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:04.215] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:04.770] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:05.421] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:06.511] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:07.067] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:07.611] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:08.466] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:09.014] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:09.564] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:11.116] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:23.107] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:23.660] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 22:50:44.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Spectator Mode]
+[04Mar2025 22:51:07.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
+[04Mar2025 22:51:24.837] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Mar2025 22:53:19.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Mar2025 22:53:19.060] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
