@@ -3254,3 +3254,140 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Mar2025 23:34:06.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -1.6572300130198698,0.0,10.336807670660036
 [04Mar2025 23:34:09.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -2.5012877456135385,0.0,10.541418649710891
 [04Mar2025 23:34:12.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -2.4380386222140054,0.0,10.274861757105882
+[04Mar2025 23:34:27.701] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Mar2025 23:34:27.702] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Mar2025 23:34:27.702] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Mar2025 23:34:27.702] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Mar2025 23:34:27.702] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Mar2025 23:34:27.817] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Mar2025 23:34:27.819] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Mar2025 23:34:27.821] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Mar2025 23:34:27.825] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Mar2025 23:34:27.827] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Mar2025 23:34:27.828] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Mar2025 23:34:28.024] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Mar2025 23:34:28.981] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Mar2025 23:34:29.089] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Mar2025 23:34:29.121] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Mar2025 23:34:29.150] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Mar2025 23:34:29.150] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Mar2025 23:34:29.194] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Mar2025 23:34:29.456] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e8d8048[id=<null>,name=Kytsune,properties={},legacy=false] (/127.62.241.54:42739) lost connection: Timed out
+[04Mar2025 23:34:32.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -0.7541315553522754,-2.5383245409279453,10.010687890970871
+[04Mar2025 23:34:32.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kytsune[/127.62.241.54:41293] logged in with entity id 21279 at (-3831.5, 76.5, -4502.5)
+[04Mar2025 23:34:32.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune joined the game
+[04Mar2025 23:34:32.698] [Server thread/INFO] [Jade/]: Syncing config to Kytsune (7bf33e8c-4ad9-39a5-ac9a-63b09fa6c4d7)
+[04Mar2025 23:34:32.705] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7bf33e8c-4ad9-39a5-ac9a-63b09fa6c4d7
+[04Mar2025 23:34:33.930] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -0.9797160094974267,-0.009294054728343326,10.501647116391553
+[04Mar2025 23:34:35.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -1.7023949079888159,0.0,10.707254806311454
+[04Mar2025 23:34:42.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
+[04Mar2025 23:34:43.500] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Mar2025 23:34:43.500] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Mar2025 23:35:12.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Teleported Kytsune to -5007.500000, 84.907601, -5595.500000]
+[04Mar2025 23:35:12.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7507ms or 150 ticks behind
+[04Mar2025 23:35:12.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -6.691012622838675,-0.5,7.4353970884790215
+[04Mar2025 23:35:29.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Survival Mode]
+[04Mar2025 23:35:46.916] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 lost connection: Timed out
+[04Mar2025 23:35:46.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 left the game
+[04Mar2025 23:35:46.916] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5c345bee-dcd0-3adb-bd8c-b3c2ced58387
+[04Mar2025 23:35:46.959] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04Mar2025 23:35:47.722] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune lost connection: Timed out
+[04Mar2025 23:35:47.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune left the game
+[04Mar2025 23:35:47.723] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7bf33e8c-4ad9-39a5-ac9a-63b09fa6c4d7
+[04Mar2025 23:35:55.396] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Mar2025 23:35:55.449] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Mar2025 23:35:55.498] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Mar2025 23:35:55.547] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Mar2025 23:35:55.608] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Mar2025 23:35:55.665] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Mar2025 23:35:55.715] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Mar2025 23:35:55.764] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Mar2025 23:35:55.842] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Mar2025 23:35:55.893] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Mar2025 23:35:55.893] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Mar2025 23:35:55.943] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Mar2025 23:35:56.409] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Mar2025 23:35:56.524] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Mar2025 23:35:56.622] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Mar2025 23:35:56.639] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Mar2025 23:35:56.639] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Mar2025 23:35:56.706] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Mar2025 23:36:00.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kytsune[/127.62.241.54:60509] logged in with entity id 22147 at (-4965.952433686434, 107.1212968405392, -5594.325325505377)
+[04Mar2025 23:36:00.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune joined the game
+[04Mar2025 23:36:00.400] [Server thread/INFO] [Jade/]: Syncing config to Kytsune (7bf33e8c-4ad9-39a5-ac9a-63b09fa6c4d7)
+[04Mar2025 23:36:00.407] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 7bf33e8c-4ad9-39a5-ac9a-63b09fa6c4d7
+[04Mar2025 23:36:13.622] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Mar2025 23:36:14.007] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Mar2025 23:36:14.007] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Mar2025 23:36:14.008] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Mar2025 23:36:14.008] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Mar2025 23:36:14.008] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Mar2025 23:36:14.008] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Mar2025 23:36:14.009] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Mar2025 23:36:14.009] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Mar2025 23:36:14.012] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Mar2025 23:36:14.062] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Mar2025 23:36:14.063] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Mar2025 23:36:15.821] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Mar2025 23:36:16.119] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Mar2025 23:36:16.412] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Mar2025 23:36:16.413] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Mar2025 23:36:16.413] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Mar2025 23:36:16.492] [Netty Epoll Server IO #0/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Mar2025 23:36:18.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Royce004[/127.62.241.54:33123] logged in with entity id 22596 at (30.36037232476354, 60.0, 229.1994729996971)
+[04Mar2025 23:36:18.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 joined the game
+[04Mar2025 23:36:18.688] [Server thread/INFO] [Jade/]: Syncing config to Royce004 (5c345bee-dcd0-3adb-bd8c-b3c2ced58387)
+[04Mar2025 23:36:18.694] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5c345bee-dcd0-3adb-bd8c-b3c2ced58387
+[04Mar2025 23:36:56.228] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 lost connection: Disconnected
+[04Mar2025 23:36:56.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 left the game
+[04Mar2025 23:36:56.228] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5c345bee-dcd0-3adb-bd8c-b3c2ced58387
+[04Mar2025 23:37:00.239] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Mar2025 23:37:00.297] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Mar2025 23:37:00.351] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Mar2025 23:37:00.407] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Mar2025 23:37:00.461] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Mar2025 23:37:00.734] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Mar2025 23:37:00.734] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Mar2025 23:37:00.754] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Mar2025 23:37:00.757] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Mar2025 23:37:00.757] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Mar2025 23:37:00.758] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Mar2025 23:37:00.822] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Mar2025 23:37:02.302] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Mar2025 23:37:02.303] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Mar2025 23:37:03.067] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Mar2025 23:37:03.068] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Mar2025 23:37:03.068] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Mar2025 23:37:03.068] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Mar2025 23:37:05.364] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Royce004[/127.62.241.54:51953] logged in with entity id 23798 at (27.295455606455498, 58.0, 227.01535205569277)
+[04Mar2025 23:37:05.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 joined the game
+[04Mar2025 23:37:05.484] [Server thread/INFO] [Jade/]: Syncing config to Royce004 (5c345bee-dcd0-3adb-bd8c-b3c2ced58387)
+[04Mar2025 23:37:05.489] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5c345bee-dcd0-3adb-bd8c-b3c2ced58387
+[04Mar2025 23:37:15.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kytsune moved too quickly! 0.0,-11.044307518861984,0.0
+[04Mar2025 23:37:16.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has reached the goal [Opposites Attract]
+[04Mar2025 23:37:28.762] [Worker-Main-128/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[04Mar2025 23:37:28.763] [Worker-Main-128/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[04Mar2025 23:37:42.533] [Worker-Main-97/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[04Mar2025 23:37:42.533] [Worker-Main-97/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[04Mar2025 23:38:54.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has made the advancement [Teletor's Telecore]
+[04Mar2025 23:39:02.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has reached the goal [Magnetron No More]
+[04Mar2025 23:39:28.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has made the advancement [Push and Pull]
+[04Mar2025 23:39:49.388] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2052ms or 41 ticks behind
+[04Mar2025 23:40:07.897] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[04Mar2025 23:40:24.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[04Mar2025 23:40:42.135] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2250ms or 45 ticks behind
+[04Mar2025 23:40:49.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has made the advancement [Publicity Stunt]
+[04Mar2025 23:40:59.354] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2218ms or 44 ticks behind
+[04Mar2025 23:41:16.534] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2198ms or 43 ticks behind
+[04Mar2025 23:41:33.761] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2275ms or 45 ticks behind
+[04Mar2025 23:41:50.763] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[04Mar2025 23:42:08.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[04Mar2025 23:42:26.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[04Mar2025 23:42:45.593] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4007ms or 80 ticks behind
+[04Mar2025 23:43:04.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3982ms or 79 ticks behind
+[04Mar2025 23:43:25.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6453ms or 129 ticks behind
+[04Mar2025 23:43:42.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kytsune has made the advancement [Worthless]
+[04Mar2025 23:43:47.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6765ms or 135 ticks behind
+[04Mar2025 23:44:08.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5855ms or 117 ticks behind
+[04Mar2025 23:44:26.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Kytsune: Set own game mode to Creative Mode]
+[04Mar2025 23:44:28.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4980ms or 99 ticks behind

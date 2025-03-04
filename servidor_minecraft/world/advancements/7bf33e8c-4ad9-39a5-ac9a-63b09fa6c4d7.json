@@ -9091,15 +9091,52 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-03-03 23:50:56 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-03-03 23:52:57 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_codex": {
+  "alexscaves:alexscaves/defeat_notor": {
     "criteria": {
-      "cave_codex": "2025-03-03 23:50:56 +0000"
+      "killed": "2025-03-04 23:40:49 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_magnetron": {
+    "criteria": {
+      "killed": "2025-03-04 23:39:02 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_magnetic_caves": {
+    "criteria": {
+      "discover": "2025-03-04 23:37:16 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_boundroid": {
+    "criteria": {
+      "killed": "2025-03-04 23:43:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/telecore": {
+    "criteria": {
+      "limestone": "2025-03-04 23:38:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/neodymium": {
+    "criteria": {
+      "scarlet": "2025-03-04 23:38:53 +0000",
+      "azure": "2025-03-04 23:39:28 +0000"
     },
     "done": true
   },

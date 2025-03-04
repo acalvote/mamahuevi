@@ -6168,9 +6168,141 @@
     },
     "done": true
   },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-03-04 22:56:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2025-03-04 22:58:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+    "criteria": {
+      "has_item": "2025-03-04 22:58:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+    "criteria": {
+      "has_item": "2025-03-04 22:59:50 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-03-04 23:00:03 +0000"
+    },
+    "done": false
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2025-03-04 23:02:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2025-03-04 23:03:59 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/nethers_stove": {
+    "criteria": {
+      "has_campfire": "2025-03-04 23:03:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-03-04 23:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_honeycomb": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-03-04 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-03-04 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-03-04 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-03-04 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_cut_copper_stonecutting": {
+    "criteria": {
+      "has_exposed_cut_copper": "2025-03-04 23:04:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
     "criteria": {
       "has_item": "2025-03-04 23:04:53 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/knives/zinc_knife": {
+    "criteria": {
+      "has_ingots/zinc": "2025-03-04 23:04:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-03-04 23:04:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-03-04 23:04:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-03-04 23:04:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-03-04 23:04:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-03-04 23:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-03-04 23:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-03-04 23:08:42 +0000"
     },
     "done": true
   },
@@ -6188,39 +6320,21 @@
     },
     "done": true
   },
-  "farmersdelight:main/place_campfire": {
+  "create:recipes/misc/crafting/kinetics/propeller": {
     "criteria": {
-      "campfire": "2025-03-04 23:04:32 +0000"
+      "has_item": "2025-03-04 23:10:29 +0000"
     },
     "done": true
   },
-  "delightful:recipes/knives/zinc_knife": {
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
-      "has_ingots/zinc": "2025-03-04 23:04:53 +0000"
+      "has_item": "2025-03-04 23:10:29 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
+  "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
-      "has_gold_nugget": "2025-03-04 23:15:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/gearbox": {
-    "criteria": {
-      "has_item": "2025-03-04 22:58:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/birch_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-03-04 23:22:50 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
-    "criteria": {
-      "has_soil": "2025-03-04 23:31:21 +0000"
+      "has_item": "2025-03-04 23:10:29 +0000"
     },
     "done": true
   },
@@ -6236,39 +6350,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_honeycomb": {
-    "criteria": {
-      "has_exposed_cut_copper": "2025-03-04 23:04:46 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/simple_necklace": {
-    "criteria": {
-      "has_nuggets_gold": "2025-03-04 23:15:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-03-04 23:13:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs": {
-    "criteria": {
-      "has_exposed_cut_copper": "2025-03-04 23:04:46 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_pump_0": {
-    "criteria": {
-      "0": "2025-03-04 23:02:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/smooth_basalt": {
-    "criteria": {
-      "has_basalt": "2025-03-04 23:24:36 +0000"
     },
     "done": true
   },
@@ -6278,117 +6362,9 @@
     },
     "done": true
   },
-  "skilltree:recipes/misc/scholar_necklace": {
-    "criteria": {
-      "has_ender_pearl": "2025-03-04 23:22:26 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
-    "criteria": {
-      "has_ingots_zinc": "2025-03-04 23:04:53 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/propeller": {
-    "criteria": {
-      "has_item": "2025-03-04 23:10:29 +0000"
-    },
-    "done": true
-  },
-  "create:mechanical_press": {
-    "criteria": {
-      "0": "2025-03-04 22:56:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/exposed_cut_copper_stairs_from_exposed_cut_copper_stonecutting": {
-    "criteria": {
-      "has_exposed_cut_copper": "2025-03-04 23:04:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/exposed_cut_copper_slab": {
-    "criteria": {
-      "has_exposed_cut_copper": "2025-03-04 23:04:46 +0000"
-    },
-    "done": true
-  },
-  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
-    "criteria": {
-      "has_soil": "2025-03-04 23:31:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/encased_fan": {
-    "criteria": {
-      "has_item": "2025-03-04 23:10:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-03-04 23:25:59 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/whisk": {
-    "criteria": {
-      "has_item": "2025-03-04 23:10:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_basalt": {
-    "criteria": {
-      "has_basalt": "2025-03-04 23:24:36 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/golden_ring": {
-    "criteria": {
-      "has_nuggets_gold": "2025-03-04 23:15:22 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-03-04 23:18:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-03-04 23:08:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-03-04 23:15:22 +0000"
-    },
-    "done": true
-  },
-  "create:wrench_goggles": {
-    "criteria": {
-      "0": "2025-03-04 23:00:03 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/building_blocks/stripped_birch_wood": {
-    "criteria": {
-      "has_log": "2025-03-04 23:22:50 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-03-04 23:13:32 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
-    "criteria": {
-      "has_item": "2025-03-04 23:04:53 +0000"
     },
     "done": true
   },
@@ -6398,39 +6374,63 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_ingots_zinc": "2025-03-04 23:04:53 +0000"
+      "has_gold_nugget": "2025-03-04 23:15:22 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/stove": {
+  "skilltree:recipes/misc/simple_necklace": {
     "criteria": {
-      "has_campfire": "2025-03-04 23:03:59 +0000"
+      "has_nuggets_gold": "2025-03-04 23:15:22 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+  "skilltree:recipes/misc/golden_ring": {
     "criteria": {
-      "has_item": "2025-03-04 23:04:53 +0000"
+      "has_nuggets_gold": "2025-03-04 23:15:22 +0000"
     },
     "done": true
   },
-  "minecraft:nether/root": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "entered_nether": "2025-03-04 23:08:42 +0000"
+      "has_gold_nugget": "2025-03-04 23:15:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/exposed_cut_copper_slab_from_exposed_cut_copper_stonecutting": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "has_exposed_cut_copper": "2025-03-04 23:04:46 +0000"
+      "killed_by": "2025-03-04 23:18:19 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/curiosities/brown_toolbox": {
+  "skilltree:recipes/misc/scholar_necklace": {
     "criteria": {
-      "has_item": "2025-03-04 22:59:50 +0000"
+      "has_ender_pearl": "2025-03-04 23:22:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-04 23:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-04 23:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-04 23:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-04 23:24:36 +0000"
     },
     "done": true
   },
@@ -6440,9 +6440,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_item": "2025-03-04 22:58:28 +0000"
+      "has_glowstone_dust": "2025-03-04 23:25:59 +0000"
     },
     "done": true
   },
@@ -6452,15 +6452,33 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/nethers_stove": {
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
     "criteria": {
-      "has_campfire": "2025-03-04 23:03:59 +0000"
+      "has_soil": "2025-03-04 23:31:21 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
     "criteria": {
-      "has_item": "2025-03-04 23:04:53 +0000"
+      "has_soil": "2025-03-04 23:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_jungle_wood": {
+    "criteria": {
+      "has_log": "2025-03-04 23:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-03-04 23:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-04 23:41:10 +0000"
     },
     "done": true
   },
