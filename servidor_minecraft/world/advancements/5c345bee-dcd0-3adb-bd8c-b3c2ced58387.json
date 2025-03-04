@@ -504,6 +504,7 @@
       "minecraft:pillager": "2025-02-27 22:54:22 +0000",
       "minecraft:skeleton": "2025-02-27 22:18:38 +0000",
       "minecraft:ravager": "2025-02-28 22:26:29 +0000",
+      "minecraft:ghast": "2025-03-04 23:30:33 +0000",
       "minecraft:hoglin": "2025-03-04 23:21:38 +0000",
       "minecraft:vindicator": "2025-02-27 23:03:39 +0000",
       "minecraft:spider": "2025-02-27 22:31:37 +0000",
@@ -6176,7 +6177,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-03-04 23:08:44 +0000",
-      "minecraft:nether_wastes": "2025-03-04 23:13:28 +0000"
+      "minecraft:nether_wastes": "2025-03-04 23:13:28 +0000",
+      "minecraft:warped_forest": "2025-03-04 23:29:12 +0000"
     },
     "done": false
   },
@@ -6213,6 +6215,12 @@
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-03-04 23:22:50 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/misc/soul_compost_from_hoglin_hide": {
+    "criteria": {
+      "has_soil": "2025-03-04 23:31:21 +0000"
     },
     "done": true
   },
@@ -6258,6 +6266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-04 23:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-03-04 23:13:32 +0000"
@@ -6300,15 +6314,33 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/misc/soul_compost_from_warped_roots": {
+    "criteria": {
+      "has_soil": "2025-03-04 23:31:21 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/encased_fan": {
     "criteria": {
       "has_item": "2025-03-04 23:10:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-04 23:25:59 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/whisk": {
     "criteria": {
       "has_item": "2025-03-04 23:10:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-04 23:24:36 +0000"
     },
     "done": true
   },
@@ -6402,9 +6434,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-04 23:24:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/vertical_gearbox": {
     "criteria": {
       "has_item": "2025-03-04 22:58:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-03-04 23:25:59 +0000"
     },
     "done": true
   },

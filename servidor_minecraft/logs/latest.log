@@ -3237,3 +3237,20 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Mar2025 23:22:48.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Creative Mode]
 [04Mar2025 23:23:40.751] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [04Mar2025 23:23:40.752] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Mar2025 23:24:31.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
+[04Mar2025 23:29:53.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:56.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8, y=74, z=194} BlockPos{x=-8, y=74, z=193}
+[04Mar2025 23:30:10.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Spectator Mode]
+[04Mar2025 23:30:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
+[04Mar2025 23:33:28.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 tried to swim in lava
+[04Mar2025 23:33:28.407] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-5, 61, 232) minecraft:the_nether
+[04Mar2025 23:33:51.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Spectator Mode]
+[04Mar2025 23:34:06.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -1.6572300130198698,0.0,10.336807670660036
+[04Mar2025 23:34:09.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -2.5012877456135385,0.0,10.541418649710891
+[04Mar2025 23:34:12.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -2.4380386222140054,0.0,10.274861757105882

@@ -17454,3 +17454,387 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Mar2025 23:23:33.553] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [04Mar2025 23:23:40.751] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
 [04Mar2025 23:23:40.752] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Mar2025 23:24:31.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
+[04Mar2025 23:24:44.737] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Mar2025 23:24:54.098] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_hoglin_loot
+[04Mar2025 23:25:30.208] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:25:31.128] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:25:32.450] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:25:33.409] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:25:38.804] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:25:39.712] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:25:58.804] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:25:59.410] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:00.757] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:01.274] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:01.503] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:02.164] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:02.654] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:03.853] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:05.909] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:08.865] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:18.709] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:19.366] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:33.864] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:34.358] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:35.662] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:35.759] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:35.807] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:36.158] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:37.910] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:38.660] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:43.966] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:49.615] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:50.907] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:52.283] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/origin_2
+[04Mar2025 23:26:52.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_2
+[04Mar2025 23:26:52.290] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/branch_3
+[04Mar2025 23:26:52.292] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/hill_1
+[04Mar2025 23:26:52.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_1
+[04Mar2025 23:26:52.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_2
+[04Mar2025 23:26:52.293] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_1
+[04Mar2025 23:26:52.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_3
+[04Mar2025 23:26:52.294] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/armor_2
+[04Mar2025 23:26:52.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/wall_6
+[04Mar2025 23:26:52.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/banner_2
+[04Mar2025 23:26:52.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/fossil
+[04Mar2025 23:26:52.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of irons_spellbooks:battleground/decorations/piglin_camp
+[04Mar2025 23:26:52.608] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:53.614] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:26:54.731] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:00.604] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:00.901] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:04.305] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:05.422] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:07.114] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:14.501] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:16.379] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:16.975] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:18.029] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:18.533] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:18.907] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:19.209] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:21.613] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:42.534] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:45.955] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:27:46.779] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:04.686] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Mar2025 23:28:04.735] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Mar2025 23:28:06.011] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:16.356] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:21.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Mar2025 23:28:21.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Mar2025 23:28:21.626] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:22.183] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:23.629] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:24.553] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:24.832] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:24.870] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:26.133] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:26.952] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:27.512] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:28.457] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:29.353] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:30.409] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:31.359] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:32.727] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:48.927] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:49.053] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:51.302] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:52.306] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:53.312] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:59.811] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:28:59.812] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:00.110] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:00.211] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:03.712] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:29.466] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:29.517] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:35.711] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:36.261] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:37.103] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:37.701] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:38.303] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:40.404] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:40.957] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:48.057] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:48.953] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:50.757] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:51.005] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:51.060] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:51.109] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:51.156] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:51.210] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:51.258] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:51.307] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:51.407] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:51.460] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:51.508] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:51.611] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:53.408] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:53.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.515] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:53.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.606] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:53.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.618] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:53.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.706] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:53.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.755] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:53.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.805] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:53.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-7, y=71, z=191} BlockPos{x=-7, y=70, z=190}
+[04Mar2025 23:29:53.858] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:53.907] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:54.007] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:54.061] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:54.108] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:54.160] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:55.729] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:55.762] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:56.219] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:56.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-8, y=74, z=194} BlockPos{x=-8, y=74, z=193}
+[04Mar2025 23:29:56.221] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:58.364] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:58.668] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:58.669] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:58.669] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:58.670] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:58.670] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:58.671] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:59.868] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:29:59.869] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:30:10.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Spectator Mode]
+[04Mar2025 23:30:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
+[04Mar2025 23:31:12.054] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:12.802] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:12.863] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:13.108] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:13.458] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:13.514] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:13.805] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:13.861] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:14.226] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:14.413] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:14.470] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:14.760] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:21.105] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:22.005] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:22.651] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:24.901] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:24.986] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Mar2025 23:31:27.354] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:28.255] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:30.227] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:30.228] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:42.655] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:44.423] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:44.806] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:45.706] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:46.104] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:46.210] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:46.261] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:46.918] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:46.919] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:49.804] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:50.406] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:50.851] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:51.206] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:51.263] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:31:51.512] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:32:01.405] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:32:06.226] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:03.323] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:05.553] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:05.603] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:05.952] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:06.307] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:06.555] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:06.653] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:06.653] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:07.060] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:07.155] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:07.207] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:07.460] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:07.977] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:07.977] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:07.978] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:08.007] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:08.055] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:08.110] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:08.655] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:08.656] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:08.656] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:10.410] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:10.462] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:10.513] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:10.575] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:10.757] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:10.803] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:10.858] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:10.907] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.303] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.304] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.304] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.305] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.305] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.306] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.306] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.604] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.605] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.605] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.606] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.606] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.607] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.613] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.954] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.954] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.955] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.955] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.955] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.956] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:11.956] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:12.002] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:14.203] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:14.210] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:14.801] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:14.802] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:14.803] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:14.803] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:14.804] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:14.804] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:14.804] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:14.862] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:14.914] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:14.969] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:15.024] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:15.452] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:15.452] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:15.453] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:15.454] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:15.454] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:16.409] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:16.410] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:16.411] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:16.411] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:16.411] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:16.412] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:16.413] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:16.413] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:16.413] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:16.414] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:16.758] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:17.106] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:17.158] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:17.205] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:17.501] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:17.501] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:19.853] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:33:21.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Mar2025 23:33:21.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Mar2025 23:33:28.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 tried to swim in lava
+[04Mar2025 23:33:28.407] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(-5, 61, 232) minecraft:the_nether
+[04Mar2025 23:33:30.095] [Server thread/DEBUG] [twilightforest/]: Player Royce004 (5c345bee-dcd0-3adb-bd8c-b3c2ced58387) respawned and received items held in storage
+[04Mar2025 23:33:51.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Spectator Mode]
+[04Mar2025 23:33:59.447] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 97 messages to dispatch.
+[04Mar2025 23:33:59.454] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_bientity_action-0' to 'calio:channel' sequence 0
+[04Mar2025 23:33:59.500] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_bientity_condition-0' to 'calio:channel' sequence 1
+[04Mar2025 23:33:59.547] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_biome_condition-0' to 'calio:channel' sequence 2
+[04Mar2025 23:33:59.599] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_block_action-0' to 'calio:channel' sequence 3
+[04Mar2025 23:33:59.649] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_block_condition-0' to 'calio:channel' sequence 4
+[04Mar2025 23:33:59.699] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_damage_condition-0' to 'calio:channel' sequence 5
+[04Mar2025 23:33:59.748] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_entity_action-0' to 'calio:channel' sequence 6
+[04Mar2025 23:33:59.798] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_entity_condition-0' to 'calio:channel' sequence 7
+[04Mar2025 23:33:59.850] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_fluid_condition-0' to 'calio:channel' sequence 8
+[04Mar2025 23:33:59.900] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_item_action-0' to 'calio:channel' sequence 9
+[04Mar2025 23:33:59.951] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_item_condition-0' to 'calio:channel' sequence 10
+[04Mar2025 23:33:59.999] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_modifier-0' to 'calio:channel' sequence 11
+[04Mar2025 23:34:00.050] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_power-0' to 'calio:channel' sequence 12
+[04Mar2025 23:34:00.101] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_power-1' to 'calio:channel' sequence 13
+[04Mar2025 23:34:00.150] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_power-2' to 'calio:channel' sequence 14
+[04Mar2025 23:34:00.202] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:global_power_set-0' to 'calio:channel' sequence 15
+[04Mar2025 23:34:00.252] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-origins:layers-0' to 'calio:channel' sequence 16
+[04Mar2025 23:34:00.302] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-origins:origins-0' to 'calio:channel' sequence 17
+[04Mar2025 23:34:00.349] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 18
+[04Mar2025 23:34:00.399] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 19
+[04Mar2025 23:34:00.448] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 20
+[04Mar2025 23:34:00.503] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 21
+[04Mar2025 23:34:00.549] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 22
+[04Mar2025 23:34:00.598] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry origins:badge_factory' to 'fml:handshake' sequence 23
+[04Mar2025 23:34:00.647] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 24
+[04Mar2025 23:34:00.700] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:enchantment_conditions' to 'fml:handshake' sequence 25
+[04Mar2025 23:34:00.748] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:fluid_condition' to 'fml:handshake' sequence 26
+[04Mar2025 23:34:00.806] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:skill_bonuses' to 'fml:handshake' sequence 27
+[04Mar2025 23:34:00.851] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 28
+[04Mar2025 23:34:00.902] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 29
+[04Mar2025 23:34:00.951] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:block_condition' to 'fml:handshake' sequence 30
+[04Mar2025 23:34:00.998] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 31
+[04Mar2025 23:34:01.047] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:item_action' to 'fml:handshake' sequence 32
+[04Mar2025 23:34:01.099] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_biome_condition' to 'fml:handshake' sequence 33
+[04Mar2025 23:34:01.149] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:bientity_action' to 'fml:handshake' sequence 34
+[04Mar2025 23:34:01.199] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 35
+[04Mar2025 23:34:01.250] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:tiny_bird_variant' to 'fml:handshake' sequence 36
+[04Mar2025 23:34:01.300] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry origins:origins' to 'fml:handshake' sequence 37
+[04Mar2025 23:34:01.349] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:item_bonuses' to 'fml:handshake' sequence 38
+[04Mar2025 23:34:01.398] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_damage_condition' to 'fml:handshake' sequence 39
+[04Mar2025 23:34:01.447] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:power_factory' to 'fml:handshake' sequence 40
+[04Mar2025 23:34:01.498] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:entity_action' to 'fml:handshake' sequence 41
+[04Mar2025 23:34:01.550] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 42
+[04Mar2025 23:34:01.601] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:entity_condition' to 'fml:handshake' sequence 43
+[04Mar2025 23:34:01.657] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 44
+[04Mar2025 23:34:01.705] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_item_condition' to 'fml:handshake' sequence 45
+[04Mar2025 23:34:01.751] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 46
+[04Mar2025 23:34:01.806] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 47
+[04Mar2025 23:34:01.852] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_block_condition' to 'fml:handshake' sequence 48
+[04Mar2025 23:34:01.900] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:event_listeners' to 'fml:handshake' sequence 49
+[04Mar2025 23:34:01.955] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 50
+[04Mar2025 23:34:02.006] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:damage_conditions' to 'fml:handshake' sequence 51
+[04Mar2025 23:34:02.049] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:block_action' to 'fml:handshake' sequence 52
+[04Mar2025 23:34:02.101] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_block_action' to 'fml:handshake' sequence 53
+[04Mar2025 23:34:02.157] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_modifier' to 'fml:handshake' sequence 54
+[04Mar2025 23:34:02.201] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:living_conditions' to 'fml:handshake' sequence 55
+[04Mar2025 23:34:02.250] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 56
+[04Mar2025 23:34:02.299] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_bientity_condition' to 'fml:handshake' sequence 57
+[04Mar2025 23:34:02.348] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_bientity_action' to 'fml:handshake' sequence 58
+[04Mar2025 23:34:02.401] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:biome_condition' to 'fml:handshake' sequence 59
+[04Mar2025 23:34:02.448] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:skill_bonus_multipliers' to 'fml:handshake' sequence 60
+[04Mar2025 23:34:02.499] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:enforcement' to 'fml:handshake' sequence 61
+[04Mar2025 23:34:02.549] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 62
+[04Mar2025 23:34:02.600] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_power' to 'fml:handshake' sequence 63
+[04Mar2025 23:34:02.650] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_entity_action' to 'fml:handshake' sequence 64
+[04Mar2025 23:34:02.700] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 65
+[04Mar2025 23:34:02.749] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 66
+[04Mar2025 23:34:02.799] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:global_power_set' to 'fml:handshake' sequence 67
+[04Mar2025 23:34:02.851] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 68
+[04Mar2025 23:34:02.900] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 69
+[04Mar2025 23:34:02.949] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 70
+[04Mar2025 23:34:02.999] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:item_condition' to 'fml:handshake' sequence 71
+[04Mar2025 23:34:03.049] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_entity_condition' to 'fml:handshake' sequence 72
+[04Mar2025 23:34:03.100] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 73
+[04Mar2025 23:34:03.151] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:modifier' to 'fml:handshake' sequence 74
+[04Mar2025 23:34:03.201] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:gem_bonuses' to 'fml:handshake' sequence 75
+[04Mar2025 23:34:03.250] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:bientity_condition' to 'fml:handshake' sequence 76
+[04Mar2025 23:34:03.301] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry twilightforest:dwarf_rabbit_variant' to 'fml:handshake' sequence 77
+[04Mar2025 23:34:03.351] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_fluid_condition' to 'fml:handshake' sequence 78
+[04Mar2025 23:34:03.403] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry skilltree:item_conditions' to 'fml:handshake' sequence 79
+[04Mar2025 23:34:03.448] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:damage_condition' to 'fml:handshake' sequence 80
+[04Mar2025 23:34:03.499] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_item_action' to 'fml:handshake' sequence 81
+[04Mar2025 23:34:03.549] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry calio:player_ability' to 'fml:handshake' sequence 82
+[04Mar2025 23:34:03.602] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config locks-server.toml' to 'fml:handshake' sequence 83
+[04Mar2025 23:34:03.651] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config apoli-server.toml' to 'fml:handshake' sequence 84
+[04Mar2025 23:34:03.699] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mantle-server.toml' to 'fml:handshake' sequence 85
+[04Mar2025 23:34:03.751] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 86
+[04Mar2025 23:34:03.799] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 87
+[04Mar2025 23:34:03.848] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create_enchantment_industry-server.toml' to 'fml:handshake' sequence 88
+[04Mar2025 23:34:03.900] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 89
+[04Mar2025 23:34:03.948] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 90
+[04Mar2025 23:34:03.997] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config openpartiesandclaims-server.toml' to 'fml:handshake' sequence 91
+[04Mar2025 23:34:04.048] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 92
+[04Mar2025 23:34:04.098] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config pehkui-server.toml' to 'fml:handshake' sequence 93
+[04Mar2025 23:34:04.148] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 94
+[04Mar2025 23:34:04.198] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config apugli-server.toml' to 'fml:handshake' sequence 95
+[04Mar2025 23:34:04.254] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'org.violetmoon.zeta.network.message.S2CLoginFlag' to 'zeta:main' sequence 96
+[04Mar2025 23:34:06.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -1.6572300130198698,0.0,10.336807670660036
+[04Mar2025 23:34:09.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -2.5012877456135385,0.0,10.541418649710891
+[04Mar2025 23:34:12.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -2.4380386222140054,0.0,10.274861757105882
