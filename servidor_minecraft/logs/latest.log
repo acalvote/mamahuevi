@@ -3183,3 +3183,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Mar2025 22:08:01.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 has made the advancement [Spirit Taking]
 [04Mar2025 22:09:12.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=563, y=60, z=-1228} BlockPos{x=566, y=59, z=-1228}
 [04Mar2025 22:09:12.333] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=563, y=60, z=-1228} BlockPos{x=566, y=59, z=-1228}
+[04Mar2025 22:26:34.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 lost connection: Disconnected
+[04Mar2025 22:26:34.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 left the game
+[04Mar2025 22:26:34.124] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5c345bee-dcd0-3adb-bd8c-b3c2ced58387
+[04Mar2025 22:30:50.665] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[04Mar2025 22:30:50.695] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[04Mar2025 22:30:50.738] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[04Mar2025 22:30:50.976] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[04Mar2025 22:30:50.990] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[04Mar2025 22:30:50.990] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[04Mar2025 22:30:50.990] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[04Mar2025 22:30:51.034] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[04Mar2025 22:30:51.080] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[04Mar2025 22:30:51.131] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[04Mar2025 22:30:51.141] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[04Mar2025 22:30:51.509] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[04Mar2025 22:30:53.535] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[04Mar2025 22:30:53.536] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[04Mar2025 22:30:53.839] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[04Mar2025 22:30:53.840] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[04Mar2025 22:30:54.735] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[04Mar2025 22:30:54.735] [Netty Epoll Server IO #1/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[04Mar2025 22:30:55.792] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Royce004[/127.62.241.54:34089] logged in with entity id 6552 at (406.24000000953674, 104.0, -1015.7895032488462)
+[04Mar2025 22:30:55.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 joined the game
+[04Mar2025 22:30:55.991] [Server thread/INFO] [Jade/]: Syncing config to Royce004 (5c345bee-dcd0-3adb-bd8c-b3c2ced58387)
+[04Mar2025 22:30:56.001] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5c345bee-dcd0-3adb-bd8c-b3c2ced58387
