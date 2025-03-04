@@ -9133,6 +9133,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/uranium_rod": {
+    "criteria": {
+      "limestone": "2025-03-04 23:52:05 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/neodymium": {
     "criteria": {
       "scarlet": "2025-03-04 23:38:53 +0000",
