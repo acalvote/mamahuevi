@@ -504,9 +504,11 @@
       "minecraft:pillager": "2025-02-27 22:54:22 +0000",
       "minecraft:skeleton": "2025-02-27 22:18:38 +0000",
       "minecraft:ravager": "2025-02-28 22:26:29 +0000",
+      "minecraft:hoglin": "2025-03-04 23:21:38 +0000",
       "minecraft:vindicator": "2025-02-27 23:03:39 +0000",
       "minecraft:spider": "2025-02-27 22:31:37 +0000",
       "minecraft:cave_spider": "2025-03-03 17:17:42 +0000",
+      "minecraft:piglin": "2025-03-04 23:16:21 +0000",
       "minecraft:zombie": "2025-02-27 22:24:42 +0000",
       "minecraft:zombie_villager": "2025-03-03 16:35:29 +0000"
     },
@@ -6173,7 +6175,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-03-04 23:08:44 +0000"
+      "minecraft:crimson_forest": "2025-03-04 23:08:44 +0000",
+      "minecraft:nether_wastes": "2025-03-04 23:13:28 +0000"
     },
     "done": false
   },
@@ -6195,15 +6198,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-04 23:15:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/gearbox": {
     "criteria": {
       "has_item": "2025-03-04 22:58:28 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-04 23:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-03-04 23:13:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-03-04 23:13:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_exposed_cut_copper_from_honeycomb": {
     "criteria": {
       "has_exposed_cut_copper": "2025-03-04 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/simple_necklace": {
+    "criteria": {
+      "has_nuggets_gold": "2025-03-04 23:15:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-03-04 23:13:32 +0000"
     },
     "done": true
   },
@@ -6216,6 +6255,18 @@
   "create:mechanical_pump_0": {
     "criteria": {
       "0": "2025-03-04 23:02:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-03-04 23:13:32 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/scholar_necklace": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-04 23:22:26 +0000"
     },
     "done": true
   },
@@ -6261,9 +6312,27 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2025-03-04 23:15:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-03-04 23:18:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-03-04 23:08:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-03-04 23:15:22 +0000"
     },
     "done": true
   },
@@ -6273,9 +6342,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2025-03-04 23:22:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-03-04 23:13:32 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
     "criteria": {
       "has_item": "2025-03-04 23:04:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-03-04 23:13:32 +0000"
     },
     "done": true
   },

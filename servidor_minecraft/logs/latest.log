@@ -3230,3 +3230,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Mar2025 23:05:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
 [04Mar2025 23:08:42.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 has made the advancement [We Need to Go Deeper]
 [04Mar2025 23:08:44.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[04Mar2025 23:18:19.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 has made the advancement [Nightmare Fuel]
+[04Mar2025 23:21:41.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 blew up
+[04Mar2025 23:21:41.662] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(158, 38, -101) minecraft:the_nether
+[04Mar2025 23:22:26.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Gave 1 [Ender Pearl] to Royce004]
+[04Mar2025 23:22:48.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Creative Mode]
+[04Mar2025 23:23:40.751] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Mar2025 23:23:40.752] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
