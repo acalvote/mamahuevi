@@ -5895,21 +5895,45 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
-      "has_item": "2025-03-04 22:07:44 +0000"
+      "has_any_ingredient": "2025-03-04 22:00:49 +0000"
+    },
+    "done": true
+  },
+  "moredelight:recipes/food/toast_with_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-03-04 22:00:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-04 22:00:49 +0000"
+    },
+    "done": true
+  },
+  "farmersplus:recipes/building/glow_berry_bag": {
+    "criteria": {
+      "has_glow_berries": "2025-03-04 22:00:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-03-04 22:05:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-03-04 22:05:31 +0000"
     },
     "done": true
   },
   "create:recipes/misc/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2025-03-04 22:07:22 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:recipes/printer": {
-    "criteria": {
-      "has_item": "2025-03-04 22:07:44 +0000"
     },
     "done": true
   },
@@ -5922,12 +5946,6 @@
   "create:copper": {
     "criteria": {
       "0": "2025-03-04 22:07:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/spout": {
-    "criteria": {
-      "has_item": "2025-03-04 22:07:44 +0000"
     },
     "done": true
   },
@@ -5961,18 +5979,6 @@
     },
     "done": true
   },
-  "create_enchantment_industry:recipes/disenchanter": {
-    "criteria": {
-      "has_item": "2025-03-04 22:07:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-03-04 22:00:49 +0000"
-    },
-    "done": true
-  },
   "miners_delight:recipes/decorations/copper_cup": {
     "criteria": {
       "has_copper": "2025-03-04 22:07:22 +0000"
@@ -6000,12 +6006,6 @@
   "miners_delight:recipes/food/copper_carrot": {
     "criteria": {
       "has_copper": "2025-03-04 22:07:22 +0000"
-    },
-    "done": true
-  },
-  "moredelight:recipes/food/toast_with_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-03-04 22:00:49 +0000"
     },
     "done": true
   },
@@ -6045,12 +6045,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/copper_door": {
-    "criteria": {
-      "has_item": "2025-03-04 22:07:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-03-04 22:07:22 +0000"
@@ -6066,12 +6060,6 @@
   "spartanshields:recipes/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2025-03-04 22:07:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-03-04 22:05:31 +0000"
     },
     "done": true
   },
@@ -6093,12 +6081,6 @@
     },
     "done": true
   },
-  "create_enchantment_industry:experimental": {
-    "criteria": {
-      "builtin": "2025-03-04 22:08:04 +0000"
-    },
-    "done": true
-  },
   "miners_delight:recipes/decorations/copper_pot": {
     "criteria": {
       "has_copper": "2025-03-04 22:07:22 +0000"
@@ -6117,21 +6099,9 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/kinetics/item_drain": {
-    "criteria": {
-      "has_item": "2025-03-04 22:07:44 +0000"
-    },
-    "done": true
-  },
   "create:recipes/decorations/copper_scaffolding_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2025-03-04 22:07:22 +0000"
-    },
-    "done": true
-  },
-  "create_enchantment_industry:spirit_taking": {
-    "criteria": {
-      "builtin": "2025-03-04 22:08:01 +0000"
     },
     "done": true
   },
@@ -6141,27 +6111,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2025-03-04 22:05:31 +0000"
-    },
-    "done": true
-  },
   "create:copper_casing": {
     "criteria": {
       "0": "2025-03-04 22:07:33 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+  "create:recipes/misc/crafting/kinetics/portable_fluid_interface": {
     "criteria": {
-      "has_iron_backpack": "2025-03-04 22:00:49 +0000"
+      "has_item": "2025-03-04 22:07:44 +0000"
     },
     "done": true
   },
-  "farmersplus:recipes/building/glow_berry_bag": {
+  "create_enchantment_industry:recipes/printer": {
     "criteria": {
-      "has_glow_berries": "2025-03-04 22:00:49 +0000"
+      "has_item": "2025-03-04 22:07:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/spout": {
+    "criteria": {
+      "has_item": "2025-03-04 22:07:44 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/disenchanter": {
+    "criteria": {
+      "has_item": "2025-03-04 22:07:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/copper_door": {
+    "criteria": {
+      "has_item": "2025-03-04 22:07:44 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_drain": {
+    "criteria": {
+      "has_item": "2025-03-04 22:07:44 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "builtin": "2025-03-04 22:08:01 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experimental": {
+    "criteria": {
+      "builtin": "2025-03-04 22:08:04 +0000"
     },
     "done": true
   },

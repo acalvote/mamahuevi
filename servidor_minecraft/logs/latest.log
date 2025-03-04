@@ -3208,3 +3208,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Mar2025 22:30:55.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 joined the game
 [04Mar2025 22:30:55.991] [Server thread/INFO] [Jade/]: Syncing config to Royce004 (5c345bee-dcd0-3adb-bd8c-b3c2ced58387)
 [04Mar2025 22:30:56.001] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5c345bee-dcd0-3adb-bd8c-b3c2ced58387
+[04Mar2025 22:35:11.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 tried to swim in lava
+[04Mar2025 22:35:11.845] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: simpletomb.message.new_grave(430, 120, -857) minecraft:overworld
+[04Mar2025 22:35:21.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Creative Mode]
+[04Mar2025 22:35:26.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set the weather to clear]
+[04Mar2025 22:35:31.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -5.1667651078244035,3.3737880335330317,8.255319228915141
+[04Mar2025 22:35:33.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -5.447768247794386,1.7828226159111864,8.685645714220186
+[04Mar2025 22:35:35.873] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -2.673886537441774,3.749995733639423,9.099004771246314
+[04Mar2025 22:35:37.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -4.794653733095856,3.7499878840888528,8.535465016724743
+[04Mar2025 22:35:39.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Royce004 moved too quickly! -5.604303052613943,0.33173769592639246,8.935216877082553
+[04Mar2025 22:35:49.210] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Mar2025 22:35:49.210] [Server thread/INFO] [com.lothrazar.simpletomb.ModTomb/]: 0 result 0 air
+[04Mar2025 22:35:55.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
