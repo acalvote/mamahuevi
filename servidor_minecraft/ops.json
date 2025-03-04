@@ -4,5 +4,11 @@
     "name": "Kytsune",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5c345bee-dcd0-3adb-bd8c-b3c2ced58387",
+    "name": "Royce004",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
