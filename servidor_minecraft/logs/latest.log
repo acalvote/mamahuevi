@@ -3223,3 +3223,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Mar2025 22:50:44.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Spectator Mode]
 [04Mar2025 22:51:07.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
 [04Mar2025 22:56:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 has made the advancement [Bonk!]
+[04Mar2025 23:03:51.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Creative Mode]
+[04Mar2025 23:04:32.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 has made the advancement [Bonfire Lit]
+[04Mar2025 23:05:46.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
+[04Mar2025 23:05:55.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Creative Mode]
+[04Mar2025 23:05:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
+[04Mar2025 23:08:42.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 has made the advancement [We Need to Go Deeper]
+[04Mar2025 23:08:44.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind

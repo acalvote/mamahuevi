@@ -17283,3 +17283,61 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [04Mar2025 23:02:55.517] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [04Mar2025 23:03:19.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [04Mar2025 23:03:19.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Mar2025 23:03:51.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Creative Mode]
+[04Mar2025 23:04:32.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 has made the advancement [Bonfire Lit]
+[04Mar2025 23:04:36.975] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:04:44.687] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[04Mar2025 23:04:59.364] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:05:37.017] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:05:37.623] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:05:38.256] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:05:38.558] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:05:39.607] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:05:42.555] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:05:46.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
+[04Mar2025 23:05:55.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Creative Mode]
+[04Mar2025 23:05:59.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Royce004: Set own game mode to Survival Mode]
+[04Mar2025 23:07:42.714] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:07:45.011] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:07:46.015] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:08:00.868] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:08:04.587] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[04Mar2025 23:08:04.637] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[04Mar2025 23:08:04.926] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:08:12.159] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:08:18.820] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:08:19.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Mar2025 23:08:19.065] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Mar2025 23:08:33.864] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:08:42.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Royce004 has made the advancement [We Need to Go Deeper]
+[04Mar2025 23:08:42.526] [Worker-Main-54/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Mar2025 23:08:42.527] [Worker-Main-54/DEBUG] [mixin/]: Mixing addlock.WorldGenRegionMixin from locks.mixins.json into net.minecraft.server.level.WorldGenRegion
+[04Mar2025 23:08:42.860] [Worker-Main-55/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[04Mar2025 23:08:42.860] [Worker-Main-55/DEBUG] [mixin/]: Mixing common.BeardifierMixin from lithostitched.forge.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[04Mar2025 23:08:42.868] [Worker-Main-55/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[04Mar2025 23:08:44.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[04Mar2025 23:08:46.392] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/tower/whole
+[04Mar2025 23:08:46.394] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gilded_blackstone
+[04Mar2025 23:08:46.395] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/bridge_chest
+[04Mar2025 23:08:46.395] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/nether_wart
+[04Mar2025 23:08:46.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/gold_blocks
+[04Mar2025 23:08:46.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/blaze_spawner
+[04Mar2025 23:08:46.397] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of explorify:bastion_spiral/dungeon_feature/treasure_chest
+[04Mar2025 23:09:12.733] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:09:13.805] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:09:14.502] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:09:14.503] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:09:14.503] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:09:14.504] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:09:14.505] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:09:14.600] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:09:14.600] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:09:14.601] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:11:04.177] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:11:06.018] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:11:24.887] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[04Mar2025 23:13:21.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[04Mar2025 23:13:21.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[04Mar2025 23:13:32.058] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:13:38.360] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[04Mar2025 23:13:38.908] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
