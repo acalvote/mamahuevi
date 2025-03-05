@@ -18603,3 +18603,26 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Mar2025 13:44:32.004] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of hauntedharvest:bat
 [05Mar2025 13:44:32.189] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [05Mar2025 13:44:32.741] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[05Mar2025 13:44:59.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[05Mar2025 13:44:59.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[05Mar2025 13:47:11.993] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[05Mar2025 13:47:22.449] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[05Mar2025 13:47:34.918] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[05Mar2025 13:47:59.699] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[05Mar2025 13:48:00.343] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[05Mar2025 13:48:01.094] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[05Mar2025 13:48:01.750] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[05Mar2025 13:48:02.742] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[05Mar2025 13:48:03.392] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[05Mar2025 13:48:49.694] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[05Mar2025 13:48:50.245] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[05Mar2025 13:49:59.821] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[05Mar2025 13:50:00.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[05Mar2025 13:50:00.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[05Mar2025 13:50:54.918] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[05Mar2025 13:53:02.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lesbian_unu has made the advancement [A Better Pickaxe]
+[05Mar2025 13:53:14.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lesbian_unu has made the advancement [A Better Blade]
+[05Mar2025 13:54:14.868] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[05Mar2025 13:54:14.868] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[05Mar2025 13:54:59.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[05Mar2025 13:54:59.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo

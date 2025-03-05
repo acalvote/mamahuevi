@@ -6845,9 +6845,39 @@
     },
     "done": true
   },
+  "gobber2:gobber2_rod": {
+    "criteria": {
+      "gobber2_rod": "2025-03-05 13:53:07 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob": {
+    "criteria": {
+      "gobber2_glob": "2025-03-05 13:51:33 +0000"
+    },
+    "done": true
+  },
   "gobber2:root": {
     "criteria": {
       "gobber2_globette": "2025-03-05 13:25:06 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2025-03-05 13:52:30 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_sword": {
+    "criteria": {
+      "gobber2_sword": "2025-03-05 13:53:14 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_pickaxe": {
+    "criteria": {
+      "gobber2_pickaxe": "2025-03-05 13:53:02 +0000"
     },
     "done": true
   },
