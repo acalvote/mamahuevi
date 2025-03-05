@@ -20293,3 +20293,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Mar2025 02:24:30.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
 [05Mar2025 02:24:30.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
 [05Mar2025 02:24:45.536] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[05Mar2025 02:28:05.486] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[05Mar2025 02:28:05.486] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[05Mar2025 02:29:30.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[05Mar2025 02:29:30.413] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[05Mar2025 02:31:25.686] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[05Mar2025 02:34:30.402] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo nuevo
+[05Mar2025 02:34:30.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo nuevo
+[05Mar2025 02:34:45.586] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
