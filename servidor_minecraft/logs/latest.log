@@ -3260,3 +3260,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Mar2025 13:07:13.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lesbian_unu joined the game
 [05Mar2025 13:07:13.146] [Server thread/INFO] [Jade/]: Syncing config to Lesbian_unu (aa16971f-3582-3732-8136-ec2b56b978b0)
 [05Mar2025 13:07:13.156] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for aa16971f-3582-3732-8136-ec2b56b978b0
+[05Mar2025 13:18:42.226] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityGrizzlyBear['Grizzly Bear'/11417, l='ServerLevel[Mundo nuevo]', x=-2703.79, y=126.00, z=-4318.28]
